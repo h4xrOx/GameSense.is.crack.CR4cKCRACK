@@ -1,20 +1,34 @@
 # gamesense.is_CRACKED
 GAMESENSE CRACK / GAMESENSE.IS / Join My Discord: https://discord.gg/gBsC839Dne / Join My WebSite https://h4xr0x.cc #NEVERLOSE.CC=NOOBS
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ORIGIN IP / ORIGIN SERVER HOSTNAME:
 
 94.130.72.121 / static.121.72.130.94.clients.your-server.de
 
 (18.184.226.115 / ec2-18-184-226-115.eu-central-1.compute.amazonaws.com -moved to https://www.shodan.io/host/94.130.72.121)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 FrontEnd Librarys for CDN: 
 https://api.cdnjs.com/libraries?
 
-https://documenter.getpostman.com/view/5158941/SWE3beWU  <<< this is documentation on how to use the API
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-https://api.mailgun.org/v3/mxa.eu.mailgun.org/ // https://api.mailgun.org/v3/mail.gamesense.is .<<< these links download you Gamesense.is Mailgun Magnificent API Keys:
+https://documenter.getpostman.com/view/5158941/SWE3beWU // this is documentation on how to use the API
+
+https://api.mailgun.org/v3/mxa.eu.mailgun.org/ // https://api.mailgun.org/v3/mail.gamesense.is .<<< these links download a Gamesense.is API key
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mailgun Magnificent API Keys:
 
 50496860-0563-418b-ad97-0850c8a15687 / 44c539b5-c536-4979-a553-23b91d5f007b / 542ff402-d9e8-4f86-8bbd-752b72093b1c
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*openssl s_client --connect 94.130.72.121:993 --showcerts --debug* // below you can see session obtained with openssl
 
 ![image](https://user-images.githubusercontent.com/65768277/124380385-fc7eea80-dc81-11eb-938e-d3a9bc171cd9.png)
 
