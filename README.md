@@ -16,7 +16,7 @@ Mailgun Magnificent API Keys:
 ![image](https://user-images.githubusercontent.com/65768277/124374959-ed3d7400-dc64-11eb-9e24-cdab8653c064.png)
 
 DNS records are misconfigured and it leaks their origin IP  as seen in the screenshot below:
-it was this; but someone must of told them that; because they changed this recently. Probaby to hide that they were on a server that they used for 2 years; selling a GameSense themed paste. Abyse. Below is my awesome art work and SS of the JS, as it shows gamesense.is enabled CORS requests; even citing in this SS how you can use: https://easyxdm.net/wp/  to exploit it. Allowing CORS , cross origin resources sharing, we can use custom headers requests to app.js that they allow CORS to because they have 3 different Endpoints, to have transactional API calls to features; such as purchase the cheat cheat; they White List, IP's to open up parts of the website.
+it was this; but someone must of told them that; because they changed host this recently. Probaby to hide that they were on a server that they used for 2 years; selling a GameSense themed paste. Abyse. Below is my awesome art work and SS of the JS, as it shows gamesense.is enabled CORS requests; even citing in this SS how you can use: https://easyxdm.net/wp/  to exploit it. Allowing CORS , cross origin resources sharing, we can use custom headers requests to app.js that they allow CORS to because they have 3 different Endpoints, to have transactional API calls to features; such as purchase the cheat cheat; they White List, IP's to open up parts of the website.
 
 ![image](https://user-images.githubusercontent.com/65768277/124374191-c4b27b80-dc5e-11eb-9d5b-003c80234402.png)
 
