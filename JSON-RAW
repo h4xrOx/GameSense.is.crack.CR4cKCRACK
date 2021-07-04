@@ -1,0 +1,541 @@
+{
+  "ip": "94.130.72.121",
+  "services": [
+    {
+      "_decoded": "ssh",
+      "_encoding": {
+        "banner": "DISPLAY_UTF8",
+        "banner_hex": "DISPLAY_HEX"
+      },
+      "banner": "SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.2",
+      "banner_hex": "5353482d322e302d4f70656e5353485f382e327031205562756e74752d347562756e7475302e32",
+      "extended_service_name": "SSH",
+      "observed_at": "2021-07-04T01:05:14.231051244Z",
+      "perspective_id": "PERSPECTIVE_TELIA",
+      "port": 22,
+      "service_name": "SSH",
+      "software": [
+        {
+          "uniform_resource_identifier": "cpe:2.3:o:canonical:ubuntu_linux:20.04:*:*:*:*:*:*:*",
+          "part": "o",
+          "vendor": "Ubuntu",
+          "product": "Linux",
+          "version": "20.04",
+          "other": {
+            "family": "Linux"
+          },
+          "source": "OSI_APPLICATION_LAYER"
+        },
+        {
+          "uniform_resource_identifier": "cpe:2.3:a:openbsd:openssh:8.2:p1:*:*:*:*:*:*",
+          "part": "a",
+          "vendor": "OpenBSD",
+          "product": "OpenSSH",
+          "version": "8.2",
+          "update": "p1",
+          "other": {
+            "family": "OpenSSH"
+          },
+          "source": "OSI_APPLICATION_LAYER"
+        },
+        {
+          "product": "openssh",
+          "other": {
+            "comment": "Ubuntu-4ubuntu0.2"
+          },
+          "source": "OSI_APPLICATION_LAYER"
+        },
+        {
+          "uniform_resource_identifier": "cpe:2.3:o:*:linux:*:*:*:*:*:*:*:*",
+          "part": "o",
+          "product": "linux",
+          "source": "OSI_TRANSPORT_LAYER"
+        }
+      ],
+      "source_ip": "74.120.14.40",
+      "ssh": {
+        "endpoint_id": {
+          "_encoding": {
+            "raw": "DISPLAY_UTF8"
+          },
+          "raw": "SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.2",
+          "protocol_version": "2.0",
+          "software_version": "OpenSSH_8.2p1",
+          "comment": "Ubuntu-4ubuntu0.2"
+        },
+        "kex_init_message": {
+          "kex_algorithms": [
+            "curve25519-sha256",
+            "curve25519-sha256@libssh.org",
+            "ecdh-sha2-nistp256",
+            "ecdh-sha2-nistp384",
+            "ecdh-sha2-nistp521",
+            "diffie-hellman-group-exchange-sha256",
+            "diffie-hellman-group16-sha512",
+            "diffie-hellman-group18-sha512",
+            "diffie-hellman-group14-sha256"
+          ],
+          "host_key_algorithms": [
+            "rsa-sha2-512",
+            "rsa-sha2-256",
+            "ssh-rsa",
+            "ecdsa-sha2-nistp256",
+            "ssh-ed25519"
+          ],
+          "client_to_server_ciphers": [
+            "chacha20-poly1305@openssh.com",
+            "aes128-ctr",
+            "aes192-ctr",
+            "aes256-ctr",
+            "aes128-gcm@openssh.com",
+            "aes256-gcm@openssh.com"
+          ],
+          "server_to_client_ciphers": [
+            "chacha20-poly1305@openssh.com",
+            "aes128-ctr",
+            "aes192-ctr",
+            "aes256-ctr",
+            "aes128-gcm@openssh.com",
+            "aes256-gcm@openssh.com"
+          ],
+          "client_to_server_macs": [
+            "umac-64-etm@openssh.com",
+            "umac-128-etm@openssh.com",
+            "hmac-sha2-256-etm@openssh.com",
+            "hmac-sha2-512-etm@openssh.com",
+            "hmac-sha1-etm@openssh.com",
+            "umac-64@openssh.com",
+            "umac-128@openssh.com",
+            "hmac-sha2-256",
+            "hmac-sha2-512",
+            "hmac-sha1"
+          ],
+          "server_to_client_macs": [
+            "umac-64-etm@openssh.com",
+            "umac-128-etm@openssh.com",
+            "hmac-sha2-256-etm@openssh.com",
+            "hmac-sha2-512-etm@openssh.com",
+            "hmac-sha1-etm@openssh.com",
+            "umac-64@openssh.com",
+            "umac-128@openssh.com",
+            "hmac-sha2-256",
+            "hmac-sha2-512",
+            "hmac-sha1"
+          ],
+          "client_to_server_compression": [
+            "none",
+            "zlib@openssh.com"
+          ],
+          "server_to_client_compression": [
+            "none",
+            "zlib@openssh.com"
+          ],
+          "first_kex_follows": false
+        },
+        "algorithm_selection": {
+          "kex_algorithm": "curve25519-sha256@libssh.org",
+          "host_key_algorithm": "ecdsa-sha2-nistp256",
+          "client_to_server_alg_group": {
+            "cipher": "aes128-ctr",
+            "mac": "hmac-sha2-256",
+            "compression": "none"
+          },
+          "server_to_client_alg_group": {
+            "cipher": "aes128-ctr",
+            "mac": "hmac-sha2-256",
+            "compression": "none"
+          }
+        },
+        "server_host_key": {
+          "fingerprint_sha256": "84eabfeb3e44dd642be77c9fa2a150d6ed6c1399ae026882f79a848805c0d045",
+          "ecdsa_public_key": {
+            "_encoding": {
+              "b": "DISPLAY_BASE64",
+              "gx": "DISPLAY_BASE64",
+              "gy": "DISPLAY_BASE64",
+              "n": "DISPLAY_BASE64",
+              "p": "DISPLAY_BASE64",
+              "x": "DISPLAY_BASE64",
+              "y": "DISPLAY_BASE64"
+            },
+            "b": "WsY12Ko6k+ez671VdpiGvGUdBrDMU7D2O848PifSYEs=",
+            "curve": "P-256",
+            "gx": "axfR8uEsQkf4vOblY6RA8ncDfYEt6zOg9KE5RdiYwpY=",
+            "gy": "T+NC4v4af5uO5+tKfA+eFivOM1drMV7Oy7ZAaDe/UfU=",
+            "length": 256,
+            "n": "/////wAAAAD//////////7zm+q2nF56E87nKwvxjJVE=",
+            "p": "/////wAAAAEAAAAAAAAAAAAAAAD///////////////8=",
+            "x": "q61j3ovraIK9vi0RcDYD8cN+t+9QhriCj62wWH4IZtc=",
+            "y": "uaCnVTMzWh1wWu1fehn7jHcNtN1vRAOEAKDkmbGe6PE="
+          }
+        }
+      },
+      "transport_fingerprint": {
+        "id": 262,
+        "os": "CentOS",
+        "raw": "65160,64,true,MSTNW,1460,false,false"
+      },
+      "transport_protocol": "TCP",
+      "truncated": false
+    },
+    {
+      "_decoded": "smtp",
+      "_encoding": {
+        "banner": "DISPLAY_UTF8",
+        "certificate": "DISPLAY_HEX",
+        "banner_hex": "DISPLAY_HEX"
+      },
+      "banner": "220 mail.gamesense.is ESMTP Postfix\r\n",
+      "banner_hex": "323230206d61696c2e67616d6573656e73652e69732045534d545020506f73746669780d0a",
+      "certificate": "7ee940a6f73fe2903ae71fb0fc2bcd7e0333551c6f5504b81ee7cbd27f1cc752",
+      "extended_service_name": "SMTPS",
+      "observed_at": "2021-07-03T04:23:31.628518305Z",
+      "perspective_id": "PERSPECTIVE_NTT",
+      "port": 25,
+      "service_name": "SMTP",
+      "smtp": {
+        "_encoding": {
+          "banner": "DISPLAY_UTF8",
+          "ehlo": "DISPLAY_UTF8",
+          "start_tls": "DISPLAY_UTF8"
+        },
+        "banner": "220 mail.gamesense.is ESMTP Postfix\r\n",
+        "ehlo": "250-mail.gamesense.is\r\n250-PIPELINING\r\n250-SIZE 10240000\r\n250-VRFY\r\n250-ETRN\r\n250-STARTTLS\r\n250-AUTH PLAIN\r\n250-AUTH=PLAIN\r\n250-ENHANCEDSTATUSCODES\r\n250-8BITMIME\r\n250-DSN\r\n250-SMTPUTF8\r\n250 CHUNKING\r\n",
+        "start_tls": "220 2.0.0 Ready to start TLS\r\n",
+        "implicit_tls": false
+      },
+      "software": [
+        {
+          "product": "host",
+          "other": {
+            "name": "mail.gamesense.is"
+          },
+          "source": "OSI_APPLICATION_LAYER"
+        },
+        {
+          "uniform_resource_identifier": "cpe:2.3:a:postfix:postfix:*:*:*:*:*:*:*:*",
+          "part": "a",
+          "vendor": "Postfix",
+          "product": "Postfix",
+          "other": {
+            "family": "Postfix"
+          },
+          "source": "OSI_APPLICATION_LAYER"
+        },
+        {
+          "uniform_resource_identifier": "cpe:2.3:o:*:linux:*:*:*:*:*:*:*:*",
+          "part": "o",
+          "product": "linux",
+          "source": "OSI_TRANSPORT_LAYER"
+        }
+      ],
+      "source_ip": "167.248.133.38",
+      "tls": {
+        "version_selected": "TLSv1_2",
+        "cipher_selected": "TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256",
+        "certificates": {
+          "_encoding": {
+            "leaf_fp_sha_256": "DISPLAY_HEX"
+          },
+          "leaf_fp_sha_256": "7ee940a6f73fe2903ae71fb0fc2bcd7e0333551c6f5504b81ee7cbd27f1cc752",
+          "leaf_data": {
+            "subject_dn": "C=AU, ST=Some-State, O=Internet Widgits Pty Ltd",
+            "issuer_dn": "C=AU, ST=Some-State, O=Internet Widgits Pty Ltd",
+            "pubkey_bit_size": 2048,
+            "pubkey_algorithm": "RSA",
+            "tbs_fingerprint": "586326a6f5485f74a2e31e6bfe7e097e731fbd1a26db5b65856f0bdee6c2f757",
+            "fingerprint": "7ee940a6f73fe2903ae71fb0fc2bcd7e0333551c6f5504b81ee7cbd27f1cc752",
+            "issuer": {
+              "organization": [
+                "Internet Widgits Pty Ltd"
+              ],
+              "province": [
+                "Some-State"
+              ]
+            },
+            "subject": {
+              "organization": [
+                "Internet Widgits Pty Ltd"
+              ],
+              "province": [
+                "Some-State"
+              ]
+            },
+            "public_key": {
+              "key_algorithm": "RSA",
+              "rsa": {
+                "_encoding": {
+                  "modulus": "DISPLAY_BASE64",
+                  "exponent": "DISPLAY_BASE64"
+                },
+                "modulus": "1M0RfUGL8exc1B/9OtRy18FFUFdI6UNkTSjHzJQG4HdtDefvDNR/MUWy6qwbYutS6PEFpdrwM2Dqjol9bS+mx+KaXnbMBR0JA7OP3rH4XqajSdydkDZA7CRnflW00rEelAcplI1omRWmxVCWQUtDld1bL9TJi5yRicy2/WDRigPmOigTm4SeL9sEll+xINkB3jWndrkA5FkRm1xO3yj0eUyEjfCsEiorno1fLkiBhui4+T2+y41kXRV+332QClec1VYvcl9Uf8ALKRIVq6cm1y0xV65eolbp/I6b655BsGT+Pfuqom4rSyaEHvWhTL0JmQMqZ4uTbCQwqSD6+Afh/Q==",
+                "exponent": "AAEAAQ==",
+                "length": 256
+              },
+              "fingerprint": "2eae9880acb90525031f44287a89a61139e041ffe1857a00228cece23b65a479"
+            },
+            "signature": {
+              "self_signed": true,
+              "signature_algorithm": "SHA256-RSA"
+            }
+          }
+        },
+        "server_key_exchange": {
+          "ec_params": {
+            "named_curve": 23
+          }
+        }
+      },
+      "transport_fingerprint": {
+        "id": 262,
+        "os": "CentOS",
+        "raw": "65160,64,true,MSTNW,1460,false,false"
+      },
+      "transport_protocol": "TCP",
+      "truncated": false
+    },
+    {
+      "_decoded": "smtp",
+      "_encoding": {
+        "banner": "DISPLAY_UTF8",
+        "certificate": "DISPLAY_HEX",
+        "banner_hex": "DISPLAY_HEX"
+      },
+      "banner": "220 mail.gamesense.is ESMTP Postfix\r\n",
+      "banner_hex": "323230206d61696c2e67616d6573656e73652e69732045534d545020506f73746669780d0a",
+      "certificate": "7ee940a6f73fe2903ae71fb0fc2bcd7e0333551c6f5504b81ee7cbd27f1cc752",
+      "extended_service_name": "SMTPS",
+      "observed_at": "2021-07-03T05:05:15.216237235Z",
+      "perspective_id": "PERSPECTIVE_NTT",
+      "port": 587,
+      "service_name": "SMTP",
+      "smtp": {
+        "_encoding": {
+          "banner": "DISPLAY_UTF8",
+          "ehlo": "DISPLAY_UTF8",
+          "start_tls": "DISPLAY_UTF8"
+        },
+        "banner": "220 mail.gamesense.is ESMTP Postfix\r\n",
+        "ehlo": "250-mail.gamesense.is\r\n250-PIPELINING\r\n250-SIZE 10240000\r\n250-VRFY\r\n250-ETRN\r\n250-STARTTLS\r\n250-ENHANCEDSTATUSCODES\r\n250-8BITMIME\r\n250-DSN\r\n250-SMTPUTF8\r\n250 CHUNKING\r\n",
+        "start_tls": "220 2.0.0 Ready to start TLS\r\n",
+        "implicit_tls": false
+      },
+      "software": [
+        {
+          "product": "host",
+          "other": {
+            "name": "mail.gamesense.is"
+          },
+          "source": "OSI_APPLICATION_LAYER"
+        },
+        {
+          "uniform_resource_identifier": "cpe:2.3:a:postfix:postfix:*:*:*:*:*:*:*:*",
+          "part": "a",
+          "vendor": "Postfix",
+          "product": "Postfix",
+          "other": {
+            "family": "Postfix"
+          },
+          "source": "OSI_APPLICATION_LAYER"
+        },
+        {
+          "uniform_resource_identifier": "cpe:2.3:o:*:linux:*:*:*:*:*:*:*:*",
+          "part": "o",
+          "product": "linux",
+          "source": "OSI_TRANSPORT_LAYER"
+        }
+      ],
+      "source_ip": "167.248.133.40",
+      "tls": {
+        "version_selected": "TLSv1_2",
+        "cipher_selected": "TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256",
+        "certificates": {
+          "_encoding": {
+            "leaf_fp_sha_256": "DISPLAY_HEX"
+          },
+          "leaf_fp_sha_256": "7ee940a6f73fe2903ae71fb0fc2bcd7e0333551c6f5504b81ee7cbd27f1cc752",
+          "leaf_data": {
+            "subject_dn": "C=AU, ST=Some-State, O=Internet Widgits Pty Ltd",
+            "issuer_dn": "C=AU, ST=Some-State, O=Internet Widgits Pty Ltd",
+            "pubkey_bit_size": 2048,
+            "pubkey_algorithm": "RSA",
+            "tbs_fingerprint": "586326a6f5485f74a2e31e6bfe7e097e731fbd1a26db5b65856f0bdee6c2f757",
+            "fingerprint": "7ee940a6f73fe2903ae71fb0fc2bcd7e0333551c6f5504b81ee7cbd27f1cc752",
+            "issuer": {
+              "organization": [
+                "Internet Widgits Pty Ltd"
+              ],
+              "province": [
+                "Some-State"
+              ]
+            },
+            "subject": {
+              "organization": [
+                "Internet Widgits Pty Ltd"
+              ],
+              "province": [
+                "Some-State"
+              ]
+            },
+            "public_key": {
+              "key_algorithm": "RSA",
+              "rsa": {
+                "_encoding": {
+                  "modulus": "DISPLAY_BASE64",
+                  "exponent": "DISPLAY_BASE64"
+                },
+                "modulus": "1M0RfUGL8exc1B/9OtRy18FFUFdI6UNkTSjHzJQG4HdtDefvDNR/MUWy6qwbYutS6PEFpdrwM2Dqjol9bS+mx+KaXnbMBR0JA7OP3rH4XqajSdydkDZA7CRnflW00rEelAcplI1omRWmxVCWQUtDld1bL9TJi5yRicy2/WDRigPmOigTm4SeL9sEll+xINkB3jWndrkA5FkRm1xO3yj0eUyEjfCsEiorno1fLkiBhui4+T2+y41kXRV+332QClec1VYvcl9Uf8ALKRIVq6cm1y0xV65eolbp/I6b655BsGT+Pfuqom4rSyaEHvWhTL0JmQMqZ4uTbCQwqSD6+Afh/Q==",
+                "exponent": "AAEAAQ==",
+                "length": 256
+              },
+              "fingerprint": "2eae9880acb90525031f44287a89a61139e041ffe1857a00228cece23b65a479"
+            },
+            "signature": {
+              "self_signed": true,
+              "signature_algorithm": "SHA256-RSA"
+            }
+          }
+        },
+        "server_key_exchange": {
+          "ec_params": {
+            "named_curve": 23
+          }
+        }
+      },
+      "transport_fingerprint": {
+        "id": 262,
+        "os": "CentOS",
+        "raw": "65160,64,true,MSTNW,1460,false,false"
+      },
+      "transport_protocol": "TCP",
+      "truncated": false
+    },
+    {
+      "_decoded": "imap",
+      "_encoding": {
+        "banner": "DISPLAY_UTF8",
+        "certificate": "DISPLAY_HEX",
+        "banner_hex": "DISPLAY_HEX"
+      },
+      "banner": "* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL+ AUTH=PLAIN] Dovecot (Ubuntu) ready.\r\n",
+      "banner_hex": "2a204f4b205b4341504142494c49545920494d41503472657631205341534c2d4952204c4f47494e2d524546455252414c5320494420454e41424c452049444c45204c49544552414c2b20415554483d504c41494e5d20446f7665636f7420285562756e7475292072656164792e0d0a",
+      "certificate": "7ee940a6f73fe2903ae71fb0fc2bcd7e0333551c6f5504b81ee7cbd27f1cc752",
+      "extended_service_name": "IMAPS",
+      "imap": {
+        "_encoding": {
+          "banner": "DISPLAY_UTF8"
+        },
+        "banner": "* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL+ AUTH=PLAIN] Dovecot (Ubuntu) ready.\r\n"
+      },
+      "observed_at": "2021-07-04T07:35:20.511794949Z",
+      "perspective_id": "PERSPECTIVE_NTT",
+      "port": 993,
+      "service_name": "IMAP",
+      "software": [
+        {
+          "uniform_resource_identifier": "cpe:2.3:o:*:linux:*:*:*:*:*:*:*:*",
+          "part": "o",
+          "product": "linux",
+          "source": "OSI_TRANSPORT_LAYER"
+        }
+      ],
+      "source_ip": "167.248.133.40",
+      "tls": {
+        "version_selected": "TLSv1_2",
+        "cipher_selected": "TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256",
+        "certificates": {
+          "_encoding": {
+            "leaf_fp_sha_256": "DISPLAY_HEX"
+          },
+          "leaf_fp_sha_256": "7ee940a6f73fe2903ae71fb0fc2bcd7e0333551c6f5504b81ee7cbd27f1cc752",
+          "leaf_data": {
+            "subject_dn": "C=AU, ST=Some-State, O=Internet Widgits Pty Ltd",
+            "issuer_dn": "C=AU, ST=Some-State, O=Internet Widgits Pty Ltd",
+            "pubkey_bit_size": 2048,
+            "pubkey_algorithm": "RSA",
+            "tbs_fingerprint": "586326a6f5485f74a2e31e6bfe7e097e731fbd1a26db5b65856f0bdee6c2f757",
+            "fingerprint": "7ee940a6f73fe2903ae71fb0fc2bcd7e0333551c6f5504b81ee7cbd27f1cc752",
+            "issuer": {
+              "organization": [
+                "Internet Widgits Pty Ltd"
+              ],
+              "province": [
+                "Some-State"
+              ]
+            },
+            "subject": {
+              "organization": [
+                "Internet Widgits Pty Ltd"
+              ],
+              "province": [
+                "Some-State"
+              ]
+            },
+            "public_key": {
+              "key_algorithm": "RSA",
+              "rsa": {
+                "_encoding": {
+                  "modulus": "DISPLAY_BASE64",
+                  "exponent": "DISPLAY_BASE64"
+                },
+                "modulus": "1M0RfUGL8exc1B/9OtRy18FFUFdI6UNkTSjHzJQG4HdtDefvDNR/MUWy6qwbYutS6PEFpdrwM2Dqjol9bS+mx+KaXnbMBR0JA7OP3rH4XqajSdydkDZA7CRnflW00rEelAcplI1omRWmxVCWQUtDld1bL9TJi5yRicy2/WDRigPmOigTm4SeL9sEll+xINkB3jWndrkA5FkRm1xO3yj0eUyEjfCsEiorno1fLkiBhui4+T2+y41kXRV+332QClec1VYvcl9Uf8ALKRIVq6cm1y0xV65eolbp/I6b655BsGT+Pfuqom4rSyaEHvWhTL0JmQMqZ4uTbCQwqSD6+Afh/Q==",
+                "exponent": "AAEAAQ==",
+                "length": 256
+              },
+              "fingerprint": "2eae9880acb90525031f44287a89a61139e041ffe1857a00228cece23b65a479"
+            },
+            "signature": {
+              "self_signed": true,
+              "signature_algorithm": "SHA256-RSA"
+            }
+          }
+        },
+        "server_key_exchange": {
+          "ec_params": {
+            "named_curve": 23
+          }
+        }
+      },
+      "transport_fingerprint": {
+        "id": 262,
+        "os": "CentOS",
+        "raw": "65160,64,true,MSTNW,1460,false,false"
+      },
+      "transport_protocol": "TCP",
+      "truncated": false
+    }
+  ],
+  "location": {
+    "continent": "Europe",
+    "country": "Germany",
+    "country_code": "DE",
+    "postal_code": "",
+    "timezone": "Europe/Berlin",
+    "coordinates": {
+      "latitude": 51.2993,
+      "longitude": 9.491
+    },
+    "registered_country": "Germany",
+    "registered_country_code": "DE"
+  },
+  "autonomous_system": {
+    "asn": 24940,
+    "description": "HETZNER-AS",
+    "bgp_prefix": "94.130.0.0/16",
+    "name": "HETZNER-AS",
+    "country_code": "DE"
+  },
+  "operating_system": {
+    "uniform_resource_identifier": "cpe:2.3:o:canonical:ubuntu_linux:20.04:*:*:*:*:*:*:*",
+    "part": "o",
+    "vendor": "Ubuntu",
+    "product": "Linux",
+    "version": "20.04",
+    "other": {
+      "family": "Linux"
+    }
+  },
+  "last_updated_at": "2021-07-04T07:35:21.073Z",
+  "location_updated_at": "2021-07-01T17:21:02.652372Z",
+  "autonomous_system_updated_at": "2021-07-01T17:21:02.818511Z"
+}
