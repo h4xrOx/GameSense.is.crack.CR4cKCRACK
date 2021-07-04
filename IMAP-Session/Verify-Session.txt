@@ -1,0 +1,307 @@
+openssl s_client --connect 94.130.72.121:993 --showcerts --debug
+CONNECTED(00000003)
+write to 0x7fffdb1d4290 [0x7fffdb1e57b0] (283 bytes => 283 (0x11B))
+0000 - 16 03 01 01 16 01 00 01-12 03 03 55 1c ec 9a 10   ...........U....
+0010 - 18 62 e2 22 84 e4 e9 94-59 bd f2 a7 b1 df 69 3e   .b."....Y.....i>
+0020 - ce 75 97 c9 11 9a 1e 22-1e d0 91 20 e8 17 49 c1   .u....."... ..I.
+0030 - fb 04 5d d3 9b a1 92 70-c2 bf 63 c4 f0 5b 52 30   ..]....p..c..[R0
+0040 - ca 1f ef f4 d4 0f 30 e9-4d 48 73 d6 00 3e 13 02   ......0.MHs..>..
+0050 - 13 03 13 01 c0 2c c0 30-00 9f cc a9 cc a8 cc aa   .....,.0........
+0060 - c0 2b c0 2f 00 9e c0 24-c0 28 00 6b c0 23 c0 27   .+./...$.(.k.#.'
+0070 - 00 67 c0 0a c0 14 00 39-c0 09 c0 13 00 33 00 9d   .g.....9.....3..
+0080 - 00 9c 00 3d 00 3c 00 35-00 2f 00 ff 01 00 00 8b   ...=.<.5./......
+0090 - 00 0b 00 04 03 00 01 02-00 0a 00 0c 00 0a 00 1d   ................
+00a0 - 00 17 00 1e 00 19 00 18-00 23 00 00 00 16 00 00   .........#......
+00b0 - 00 17 00 00 00 0d 00 2a-00 28 04 03 05 03 06 03   .......*.(......
+00c0 - 08 07 08 08 08 09 08 0a-08 0b 08 04 08 05 08 06   ................
+00d0 - 04 01 05 01 06 01 03 03-03 01 03 02 04 02 05 02   ................
+00e0 - 06 02 00 2b 00 05 04 03-04 03 03 00 2d 00 02 01   ...+........-...
+00f0 - 01 00 33 00 26 00 24 00-1d 00 20 c3 8b 9b a7 f2   ..3.&.$... .....
+0100 - c8 0d c4 c0 f4 90 e9 be-ef 84 38 cc 16 11 a4 ac   ..........8.....
+0110 - 7e 45 fc 11 11 e6 14 2e-b0 ed 40                  ~E........@
+read from 0x7fffdb1d4290 [0x7fffdb1dc593] (5 bytes => 5 (0x5))
+0000 - 16 03 03 00 7a                                    ....z
+read from 0x7fffdb1d4290 [0x7fffdb1dc598] (122 bytes => 122 (0x7A))
+0000 - 02 00 00 76 03 03 78 16-22 4d 54 73 e7 7f e5 b0   ...v..x."MTs....
+0010 - 1b 5f 23 02 41 cf 2f 7f-16 a3 ab 87 0f a6 ff 75   ._#.A./........u
+0020 - 52 db ba 1a 88 f2 20 e8-17 49 c1 fb 04 5d d3 9b   R..... ..I...]..
+0030 - a1 92 70 c2 bf 63 c4 f0-5b 52 30 ca 1f ef f4 d4   ..p..c..[R0.....
+0040 - 0f 30 e9 4d 48 73 d6 13-02 00 00 2e 00 2b 00 02   .0.MHs.......+..
+0050 - 03 04 00 33 00 24 00 1d-00 20 bd 90 e4 85 ed 1f   ...3.$... ......
+0060 - 94 85 bf f2 82 34 f6 0f-98 71 5b c8 42 61 a5 91   .....4...q[.Ba..
+0070 - 68 1c e7 03 64 db 52 4f-9d 1c                     h...d.RO..
+read from 0x7fffdb1d4290 [0x7fffdb1dc593] (5 bytes => 5 (0x5))
+0000 - 14 03 03 00 01                                    .....
+read from 0x7fffdb1d4290 [0x7fffdb1dc598] (1 bytes => 1 (0x1))
+0000 - 01                                                .
+read from 0x7fffdb1d4290 [0x7fffdb1dc593] (5 bytes => 5 (0x5))
+0000 - 17 03 03 00 17                                    .....
+read from 0x7fffdb1d4290 [0x7fffdb1dc598] (23 bytes => 23 (0x17))
+0000 - 4c 7d 2e 9d 62 32 16 81-80 6c 28 e7 e9 e0 ab e9   L}..b2...l(.....
+0010 - 09 94 f6 4a e2 83 f6                              ...J...
+Can't use SSL_get_servername
+read from 0x7fffdb1d4290 [0x7fffdb1dc593] (5 bytes => 5 (0x5))
+0000 - 17 03 03 03 8d                                    .....
+read from 0x7fffdb1d4290 [0x7fffdb1dc598] (909 bytes => 909 (0x38D))
+0000 - f8 ca c8 77 76 6b c4 9f-52 8e 3e c2 c1 66 fd 49   ...wvk..R.>..f.I
+0010 - ae 8a 9f b2 c4 d0 15 18-63 3a 55 49 de 59 98 2f   ........c:UI.Y./
+0020 - 02 35 ab 45 73 b9 56 8c-58 58 6a cb e6 6b 6d c5   .5.Es.V.XXj..km.
+0030 - c0 e3 00 28 57 cb 04 af-3a e6 0d 6b 6f 64 02 a2   ...(W...:..kod..
+0040 - 4d 62 60 12 e4 cd f4 a0-e9 12 ba ea a1 82 7f e0   Mb`.............
+0050 - 4e a4 4e 8d c3 f9 f0 68-23 4b 5d 7f b3 f8 2f da   N.N....h#K].../.
+0060 - 82 97 81 0e c7 52 9f ea-99 24 89 fe 40 95 bb ed   .....R...$..@...
+0070 - 19 72 99 91 8e 4a 64 7d-12 91 6b 9e 1f 08 5c 22   .r...Jd}..k...\"
+0080 - 2e e3 ed 7d 6b de 95 ab-3b ef bb 32 bf 18 80 76   ...}k...;..2...v
+0090 - 8d 95 0f f0 ed 0f 0c a8-86 18 f6 ed cf c6 ab 20   ...............
+00a0 - 71 69 ee 33 15 b3 39 7c-f7 9e 41 19 7e fb e7 6b   qi.3..9|..A.~..k
+00b0 - 9a 4e 70 5f 25 ea a5 e3-19 6f 5f ca 74 28 28 79   .Np_%....o_.t((y
+00c0 - 0c 20 59 ef a8 57 54 14-98 6e 0a e6 2a e3 8a ae   . Y..WT..n..*...
+00d0 - 8f f7 90 d9 31 fb ee 58-b7 54 a9 df bb ee 22 e7   ....1..X.T....".
+00e0 - 6e 9b a5 ef dc c3 c8 80-8e 02 44 92 79 e7 01 a3   n.........D.y...
+00f0 - 2c 7a 41 ea 0e 4f 1e 5a-1c 6f 4b 8f 03 08 52 9a   ,zA..O.Z.oK...R.
+0100 - 8f af 01 0c 77 a1 53 ef-a3 c4 71 b1 ab 2b eb cc   ....w.S...q..+..
+0110 - a0 f5 5e d0 6d 59 7d 70-b9 d6 4e 31 99 74 f3 ee   ..^.mY}p..N1.t..
+0120 - 54 b8 34 eb 60 d1 b3 51-c4 bf 34 87 c1 be ef 7c   T.4.`..Q..4....|
+0130 - 21 c8 92 a9 51 bb 8c b5-5c 68 d1 5c 33 6e bd 86   !...Q...\h.\3n..
+0140 - 94 74 76 53 bd d1 39 e2-77 36 ab 01 ce 01 bc 78   .tvS..9.w6.....x
+0150 - 41 66 13 97 37 a7 8c 5a-aa 95 7a dd 64 04 14 11   Af..7..Z..z.d...
+0160 - 2e 39 88 c5 38 f2 44 99-43 f5 ed c8 8b f2 e8 86   .9..8.D.C.......
+0170 - 35 41 72 f8 47 15 9c 41-00 bb 0c 96 93 2e 7a fb   5Ar.G..A......z.
+0180 - f1 f0 5a 1e b5 58 2d cf-06 63 98 2a dc 1a 1d 02   ..Z..X-..c.*....
+0190 - 86 d5 fc 1e 22 a5 57 40-e0 c0 7f a0 0c 2b 60 49   ....".W@.....+`I
+01a0 - 11 cb 8b 47 cb 71 69 ee-5c 3c f9 74 2e bc 85 5d   ...G.qi.\<.t...]
+01b0 - 7d 05 73 30 43 f9 9f ea-46 a3 58 96 40 46 c2 35   }.s0C...F.X.@F.5
+01c0 - c4 e0 ac 13 6b 3f ec 20-5a 77 93 fd 2a ec 8b f1   ....k?. Zw..*...
+01d0 - 54 a5 3e c4 cb f5 44 46-e3 79 0e cd 4d 6f 45 15   T.>...DF.y..MoE.
+01e0 - a0 95 03 b2 ec 21 61 8e-ef 35 be 5a 41 f0 3d 8c   .....!a..5.ZA.=.
+01f0 - cf ea 24 c1 27 41 4b 6e-ce 92 92 11 45 a1 74 4b   ..$.'AKn....E.tK
+0200 - d3 5f ed 84 25 9a fc d5-b9 f5 43 a9 95 30 6a 8d   ._..%.....C..0j.
+0210 - 04 35 57 8f 73 6c 30 75-e4 8d 9d df 47 1b dd 17   .5W.sl0u....G...
+0220 - c5 94 7a 0b ae 80 83 86-c3 0e 55 b4 30 68 77 7a   ..z.......U.0hwz
+0230 - eb e1 93 e6 5a ac e8 a6-ef 04 f4 d7 61 9f 29 47   ....Z.......a.)G
+0240 - e9 ab 4f 21 f0 7a 3b fe-96 66 3c 9f e5 30 13 c0   ..O!.z;..f<..0..
+0250 - 22 06 7b ef b8 a7 1d 57-b1 ff d9 36 db 50 1a 54   ".{....W...6.P.T
+0260 - 5e c8 4e ae 6f 45 aa 6f-cc 63 67 4f c7 3a a3 34   ^.N.oE.o.cgO.:.4
+0270 - 95 69 30 79 a0 fc 46 32-10 e2 77 ba 6c 70 a3 ee   .i0y..F2..w.lp..
+0280 - 30 08 f2 96 33 41 15 b8-3d a0 e0 3c eb 4d 34 17   0...3A..=..<.M4.
+0290 - 38 0c 10 14 d1 91 18 63-52 e2 18 d8 2b a0 8d d4   8......cR...+...
+02a0 - 9c ba 13 be 13 6e f8 75-8a c5 ed 9a 0c c0 0d 0b   .....n.u........
+02b0 - 81 35 cd ac 68 77 19 25-99 85 29 f5 9b b0 bf 54   .5..hw.%..)....T
+02c0 - da cf e6 b6 f5 78 8c 19-19 2a 88 05 09 6c a3 b7   .....x...*...l..
+02d0 - db 88 8a 0d 2f e7 9a ac-d6 36 3e e1 44 3a e3 58   ..../....6>.D:.X
+02e0 - 66 21 49 2d 85 3a 0d 31-ff 83 77 a7 d0 f0 ae ad   f!I-.:.1..w.....
+02f0 - a1 38 68 e1 b9 53 3d a4-b2 b6 ad 85 6c 5c 65 9d   .8h..S=.....l\e.
+0300 - 5a f8 db 46 f1 02 75 95-46 39 87 ed 61 52 05 9f   Z..F..u.F9..aR..
+0310 - be 09 bb d2 01 90 83 51-1f d2 69 3e cc de 6f f8   .......Q..i>..o.
+0320 - d2 e8 78 13 c7 c5 db cf-20 4e 78 fb 02 cf b4 09   ..x..... Nx.....
+0330 - 46 17 ac cb 48 08 b7 64-3e 14 66 d2 7e 84 e9 6d   F...H..d>.f.~..m
+0340 - 99 22 07 30 01 14 37 32-92 07 9f 3e d6 ec 6c cf   .".0..72...>..l.
+0350 - 35 8f b8 7b a9 fd 25 e3-bb 5c 18 9d 05 ea d2 a0   5..{..%..\......
+0360 - 87 22 2c f0 4a 7a d1 bd-91 97 21 f0 c6 8d 8f 2d   .",.Jz....!....-
+0370 - e1 22 eb ab 6c 3e 1e a4-00 07 7b 86 a4 2b 94 f2   ."..l>....{..+..
+0380 - 85 20 5f 4f c6 75 24 2f-86 4f e1 0a 44            . _O.u$/.O..D
+depth=0 C = AU, ST = Some-State, O = Internet Widgits Pty Ltd
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 C = AU, ST = Some-State, O = Internet Widgits Pty Ltd
+verify return:1
+read from 0x7fffdb1d4290 [0x7fffdb1dc593] (5 bytes => 5 (0x5))
+0000 - 17 03 03 01 19                                    .....
+read from 0x7fffdb1d4290 [0x7fffdb1dc598] (281 bytes => 281 (0x119))
+0000 - 14 bc c4 b9 14 41 f9 63-fb 00 77 7a 95 46 31 9a   .....A.c..wz.F1.
+0010 - 59 77 9d 23 59 42 ea 57-09 7c 37 c4 7a 7e 0a 96   Yw.#YB.W.|7.z~..
+0020 - d8 f0 cc e0 d0 90 50 52-00 f4 b9 48 13 bd 52 e5   ......PR...H..R.
+0030 - 7b 60 b0 dd ea ea 5d ba-24 f6 e2 b4 a4 c3 65 0a   {`....].$.....e.
+0040 - 06 71 b9 74 85 e2 90 53-70 8c ad 32 1a 7f 04 53   .q.t...Sp..2...S
+0050 - 5f a1 38 9a 3f 01 7c 20-cb b3 e6 e3 d4 13 7b 66   _.8.?.| ......{f
+0060 - 80 41 88 78 bc 09 25 71-91 a3 73 8e f1 b9 e6 0b   .A.x..%q..s.....
+0070 - 2f c7 a1 f9 d3 96 fa 9b-b7 49 10 17 ca 50 47 0e   /........I...PG.
+0080 - 71 bf 94 30 93 5b 7d b8-ce b4 ea a5 51 be 3f 35   q..0.[}.....Q.?5
+0090 - 59 e4 d2 34 ca ea e0 4f-5b 19 35 c4 cd 63 17 e1   Y..4...O[.5..c..
+00a0 - 2f 0f bd dd b6 a4 70 4c-8d 54 06 b1 3b 43 2e b7   /.....pL.T..;C..
+00b0 - 39 de 64 7a 1d c5 7a 7e-0c 79 74 e7 25 4d 8f 59   9.dz..z~.yt.%M.Y
+00c0 - ca 45 da c0 1f 4e 34 c4-ed 69 02 1e 40 ac 4c 9f   .E...N4..i..@.L.
+00d0 - 79 95 fe bd dd 02 8d b1-9d 11 de fe 77 08 f2 14   y...........w...
+00e0 - eb b7 4f a8 07 37 bf 0a-7b 3a 24 1a 61 31 3e 33   ..O..7..{:$.a1>3
+00f0 - d9 ff 78 e7 28 ad e6 b2-bd df 96 ae 55 e2 16 f5   ..x.(.......U...
+0100 - 40 e9 10 2b 9f fd c0 22-a1 cb 5c cc e8 61 93 b9   @..+..."..\..a..
+0110 - a6 1a 1a 8c 57 c8 2a fe-be                        ....W.*..
+read from 0x7fffdb1d4290 [0x7fffdb1dc593] (5 bytes => 5 (0x5))
+0000 - 17 03 03 00 45                                    ....E
+read from 0x7fffdb1d4290 [0x7fffdb1dc598] (69 bytes => 69 (0x45))
+0000 - fe be 45 93 56 95 67 14-32 c1 41 70 b6 e3 a3 c3   ..E.V.g.2.Ap....
+0010 - 52 a7 eb fa cb 38 2d 15-9e 02 7f 3e 95 a3 36 1d   R....8-....>..6.
+0020 - 11 27 cd 44 70 33 12 64-e2 d4 9d 6e 60 d7 7e 87   .'.Dp3.d...n`.~.
+0030 - d0 18 c8 ed 03 93 7e 32-b7 b5 dd 97 65 6d 1d 40   ......~2....em.@
+0040 - 79 11 1d 43 13                                    y..C.
+write to 0x7fffdb1d4290 [0x7fffdb1e57b0] (80 bytes => 80 (0x50))
+0000 - 14 03 03 00 01 01 17 03-03 00 45 12 b1 00 79 03   ..........E...y.
+0010 - 1b fb 19 3e eb d7 a8 a3-89 fb 75 09 8c 0e 8c 57   ...>......u....W
+0020 - b9 e1 0c 24 ca 65 92 45-84 d7 7a 70 8f 13 9c b4   ...$.e.E..zp....
+0030 - 5d 1e e8 2e e3 78 23 96-b4 46 f4 4a 96 74 07 1a   ]....x#..F.J.t..
+0040 - e7 98 13 a3 c2 eb c5 9c-da 74 70 c1 ff 50 b7 87   .........tp..P..
+---
+Certificate chain
+ 0 s:C = AU, ST = Some-State, O = Internet Widgits Pty Ltd
+   i:C = AU, ST = Some-State, O = Internet Widgits Pty Ltd
+-----BEGIN CERTIFICATE-----
+MIIDazCCAlOgAwIBAgIULhhcC1DsEJiExcElFuV/Ma06DAgwDQYJKoZIhvcNAQEL
+BQAwRTELMAkGA1UEBhMCQVUxEzARBgNVBAgMClNvbWUtU3RhdGUxITAfBgNVBAoM
+GEludGVybmV0IFdpZGdpdHMgUHR5IEx0ZDAeFw0yMTA3MDExMTMwMjJaFw0yMjA3
+MDExMTMwMjJaMEUxCzAJBgNVBAYTAkFVMRMwEQYDVQQIDApTb21lLVN0YXRlMSEw
+HwYDVQQKDBhJbnRlcm5ldCBXaWRnaXRzIFB0eSBMdGQwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDUzRF9QYvx7FzUH/061HLXwUVQV0jpQ2RNKMfMlAbg
+d20N5+8M1H8xRbLqrBti61Lo8QWl2vAzYOqOiX1tL6bH4ppedswFHQkDs4/esfhe
+pqNJ3J2QNkDsJGd+VbTSsR6UBymUjWiZFabFUJZBS0OV3Vsv1MmLnJGJzLb9YNGK
+A+Y6KBObhJ4v2wSWX7Eg2QHeNad2uQDkWRGbXE7fKPR5TISN8KwSKiuejV8uSIGG
+6Lj5Pb7LjWRdFX7ffZAKV5zVVi9yX1R/wAspEhWrpybXLTFXrl6iVun8jpvrnkGw
+ZP49+6qibitLJoQe9aFMvQmZAypni5NsJDCpIPr4B+H9AgMBAAGjUzBRMB0GA1Ud
+DgQWBBRE6Tdm83QRnTuTgCd6lOmeP8C92TAfBgNVHSMEGDAWgBRE6Tdm83QRnTuT
+gCd6lOmeP8C92TAPBgNVHRMBAf8EBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQCO
+JH3AxCKnI/hiQoG1J2S3O1o6r/mfmOrsl4WN5DcCVQKUrVks1KMOJ+bkpV2HmJGj
+WFkgHF4cWGjnQVpwOrMiRW6G1t3IclQOBZlFZSf9GfsY7YvCV7Eb6X84IS7z4h8z
+MA5yr8uj1ssTJKQV3eVqJjQX4xDXcvtiZv/pJQI3fOwBSaZLcSAXdusIacnxEIWS
+2jMgaJvlzf2J1UOxiNXQLatIFY4WZS+yuhzYMzDt/1TC0Xxx/t3zoXSPggN9LcIs
+BNF7UnljFrufYOZg7gWLc7dq2127kxIIb1tu1ZxJrRCJB+WVUcpG29K8YPLJnwCw
+JOexhbAAkMKpWHdqV0YQ
+-----END CERTIFICATE-----
+---
+Server certificate
+subject=C = AU, ST = Some-State, O = Internet Widgits Pty Ltd
+
+issuer=C = AU, ST = Some-State, O = Internet Widgits Pty Ltd
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 1435 bytes and written 363 bytes
+Verification error: self signed certificate
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 18 (self signed certificate)
+---
+read from 0x7fffdb1d4290 [0x7fffdb1dc593] (5 bytes => 5 (0x5))
+0000 - 17 03 03 00 ea                                    .....
+read from 0x7fffdb1d4290 [0x7fffdb1dc598] (234 bytes => 234 (0xEA))
+0000 - c3 5e 70 24 9e 81 7f 41-8f fd 54 86 16 0c aa 3b   .^p$...A..T....;
+0010 - 5b 19 7f a4 2f d7 3e 2b-c0 44 38 8d bf bb 59 5d   [.../.>+.D8...Y]
+0020 - 4b 16 f9 bb 58 6d 30 b0-71 f9 f4 da 26 c8 8e 1c   K...Xm0.q...&...
+0030 - 95 86 0a 6a 5a 9d aa d4-92 21 3c f0 d0 a0 6e b9   ...jZ....!<...n.
+0040 - 0e 02 03 f6 ca ab ce d1-4b 02 c0 a2 cd 55 39 d5   ........K....U9.
+0050 - 62 2b 57 41 92 5a 6a 88-ef 71 29 0b d3 af 4d 7c   b+WA.Zj..q)...M|
+0060 - 16 89 d3 6a a6 c4 fe c1-fd a7 f5 88 3a 2f 31 75   ...j........:/1u
+0070 - e6 02 2e 5e 88 b4 b5 70-e9 8e f8 fd ed 20 02 4d   ...^...p..... .M
+0080 - 37 1a 7a f4 78 17 79 9c-b3 3f d7 a6 75 68 2e d3   7.z.x.y..?..uh..
+0090 - 70 3e dc 14 5d 5a 2d 61-31 96 05 74 90 93 0c e7   p>..]Z-a1..t....
+00a0 - 2d ba 05 5a b8 b9 0f 82-67 51 8c 72 24 e4 e5 74   -..Z....gQ.r$..t
+00b0 - bc 43 9e c5 7a eb cc 68-35 43 35 cd 33 be e2 a4   .C..z..h5C5.3...
+00c0 - 0e a2 b3 37 41 08 e5 ea-c0 89 36 32 13 60 16 bc   ...7A.....62.`..
+00d0 - ae a3 58 17 69 ad 63 2f-0b 24 30 70 00 5d 72 9a   ..X.i.c/.$0p.]r.
+00e0 - 62 8a 88 a2 0a 33 64 20-1c 28                     b....3d .(
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_256_GCM_SHA384
+    Session-ID: 08B99E091074DBCBD1693A88E3D3F7185D8772646C8F1D00340D2AF5BD55BA8F
+    Session-ID-ctx:
+    Resumption PSK: 7214A488AF64E7CDF120E00A7B32E577E59E1925D57D194FF55DBD5D9866B02D90F1FF8DC58DA311DAAEA30734B4DBA6
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 63 86 7a 3b cd 47 12 0b-38 78 c6 c9 9b e5 8e 34   c.z;.G..8x.....4
+    0010 - 71 77 70 67 c1 a0 cb 78-31 c4 42 45 da a9 6c 9a   qwpg...x1.BE..l.
+    0020 - 33 48 ba 24 f7 77 58 38-b4 68 34 7f 2d 3f 2b 0d   3H.$.wX8.h4.-?+.
+    0030 - 6e b8 0a ad 6f 43 3a 83-0c 7f ad 85 82 d0 e2 50   n...oC:........P
+    0040 - d0 86 6b 51 61 a3 5a 89-41 57 2f d1 22 15 e3 33   ..kQa.Z.AW/."..3
+    0050 - 81 f4 90 4c 3e 9b 8b b9-c4 8c 94 17 be e3 c4 44   ...L>..........D
+    0060 - 82 b4 f9 d5 43 12 34 0d-46 88 4d 9c 85 91 da 83   ....C.4.F.M.....
+    0070 - d5 28 8a f2 10 c6 28 4b-b2 cf f5 d2 d6 bb 1c 09   .(....(K........
+    0080 - d6 e1 7e 73 0d dc 31 8e-2e b8 44 59 14 cd a9 f4   ..~s..1...DY....
+    0090 - 67 08 dd 16 bf af 80 6c-1a a4 1d 9a 25 c7 94 fd   g......l....%...
+    00a0 - 18 38 8f 18 12 42 ef eb-30 de 54 61 66 0c bb b8   .8...B..0.Taf...
+    00b0 - 27 39 07 81 a7 b6 56 9c-f8 5f d7 71 5b 1e b9 bc   '9....V.._.q[...
+
+    Start Time: 1625391037
+    Timeout   : 7200 (sec)
+    Verify return code: 18 (self signed certificate)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK
+read from 0x7fffdb1d4290 [0x7fffdb1dc593] (5 bytes => 5 (0x5))
+0000 - 17 03 03 00 ea                                    .....
+read from 0x7fffdb1d4290 [0x7fffdb1dc598] (234 bytes => 234 (0xEA))
+0000 - f8 cc 32 81 89 33 f5 c0-00 10 0a e9 e2 9f a2 2c   ..2..3.........,
+0010 - c0 65 0a a3 c3 31 e2 08-90 87 32 42 21 6b 78 0b   .e...1....2B!kx.
+0020 - 6f e4 17 d7 63 fb 4d 58-21 ce d9 da c0 5b f5 c2   o...c.MX!....[..
+0030 - cc a2 b6 fa 0c 7f aa b0-e0 ed 79 f8 c2 2e b7 5a   ..........y....Z
+0040 - fe 3a 60 c0 a5 a6 43 e1-74 11 f7 a6 41 cf 57 c1   .:`...C.t...A.W.
+0050 - 36 80 2d 8f fb c1 71 33-08 34 6a 96 7b 8d 9c 30   6.-...q3.4j.{..0
+0060 - ce 9f 4e 44 24 0f b0 65-71 4a 4f f6 c4 88 9e 98   ..ND$..eqJO.....
+0070 - 67 51 32 69 d1 c1 9a be-6b 72 30 d9 27 7a 57 ef   gQ2i....kr0.'zW.
+0080 - 2c b1 cf c1 df 4a af 57-5d 10 f8 c6 b6 97 4c 52   ,....J.W].....LR
+0090 - b4 c1 26 05 b8 50 db 32-43 30 4d 39 39 39 6a 24   ..&..P.2C0M999j$
+00a0 - bc 3a 6b b5 7c d6 48 72-81 33 e4 b6 73 91 22 f8   .:k.|.Hr.3..s.".
+00b0 - 30 51 d4 66 41 b2 33 7c-9b 28 39 32 14 1b 42 30   0Q.fA.3|.(92..B0
+00c0 - 6a 3a 5a 71 a6 b0 e6 3c-7d 1b 84 0e 4c fa d1 40   j:Zq...<}...L..@
+00d0 - 4d 5d 7f 34 d0 75 77 b6-68 9c 96 5c 47 d9 23 93   M].4.uw.h..\G.#.
+00e0 - 2f 8e 51 65 82 34 42 6d-5d 60                     /.Qe.4Bm]`
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_256_GCM_SHA384
+    Session-ID: 187EF15481B061C45D5398E2B2E1040A3ED7338DB53F3BA28621B9022FF3DF3E
+    Session-ID-ctx:
+    Resumption PSK: 28AA01DD72428B8D808604331A4ECC97634D3D4D70F7DAD01B76E87A50E8797306BEC56C96F122927F6DD416217046D0
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 63 86 7a 3b cd 47 12 0b-38 78 c6 c9 9b e5 8e 34   c.z;.G..8x.....4
+    0010 - 8d e8 43 f4 32 62 c8 2f-8b 3b 71 a9 8b b7 b7 c3   ..C.2b./.;q.....
+    0020 - ad a7 72 6b 75 4f 61 96-b0 61 be 62 db 25 73 06   ..rkuOa..a.b.%s.
+    0030 - 7b 76 96 8f 26 38 62 4b-aa 8f ba 13 13 63 d5 b0   {v..&8bK.....c..
+    0040 - 37 aa c9 76 f3 94 ec 4d-6a 9f a3 a2 1f 93 28 0c   7..v...Mj.....(.
+    0050 - 18 1d da 76 48 08 e0 ab-a6 5b e2 0e cc cb 7d f4   ...vH....[....}.
+    0060 - 3e bf 6d f1 ee 95 c5 25-35 a3 12 43 31 89 29 db   >.m....%5..C1.).
+    0070 - 77 89 53 99 e6 7b fb 29-82 a5 ef be d9 c2 9e df   w.S..{.)........
+    0080 - cd f7 a5 cb 59 76 b9 5d-54 c1 89 28 6e 81 9c 80   ....Yv.]T..(n...
+    0090 - f7 79 29 47 85 75 9b 55-aa f4 7f c6 28 d5 14 bf   .y)G.u.U....(...
+    00a0 - 95 98 dd a6 4c 9e ff d4-5f 89 ec ff ab 5c a9 4d   ....L..._....\.M
+    00b0 - a9 b3 e9 43 44 60 8f 22-2d 44 54 30 18 92 ad 32   ...CD`."-DT0...2
+
+    Start Time: 1625391037
+    Timeout   : 7200 (sec)
+    Verify return code: 18 (self signed certificate)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK
+read from 0x7fffdb1d4290 [0x7fffdb1dc593] (5 bytes => 5 (0x5))
+0000 - 17 03 03 00 81                                    .....
+read from 0x7fffdb1d4290 [0x7fffdb1dc598] (129 bytes => 129 (0x81))
+0000 - 63 89 52 cb 29 ce 91 da-6a a3 40 04 ec 23 bc 3c   c.R.)...j.@..#.<
+0010 - 2d 1b b1 f9 33 ac 0f 8e-da 3a 49 c3 7f 29 18 fc   -...3....:I..)..
+0020 - 25 5a 7b 7a 57 ba 77 86-fd a8 b7 70 d1 30 bd 2c   %Z{zW.w....p.0.,
+0030 - 50 f0 74 ff aa 09 70 88-f3 5c 51 2f fb c8 db 5b   P.t...p..\Q/...[
+0040 - 8d 90 c7 80 b0 de 0c 7d-3f 71 99 76 a1 67 3f 57   .......}?q.v.g?W
+0050 - f3 a2 f9 f8 ca 33 29 71-a6 6b d4 4c 60 f6 00 c5   .....3)q.k.L`...
+0060 - 9d b2 e0 52 60 5f 97 a5-a8 52 21 a5 30 48 3b 72   ...R`_...R!.0H;r
+0070 - 53 83 7f b5 09 58 39 c8-a3 04 fa b8 01 b3 33 59   S....X9.......3Y
+0080 - 3a                                                :
+* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL+ AUTH=PLAIN] Dovecot (Ubuntu) ready.
+04f50e70-acfa-4024-a30e-e6319ead637d
