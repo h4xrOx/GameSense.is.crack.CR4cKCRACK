@@ -1,0 +1,63 @@
+;;
+;; Domain:     gamesense.is.
+;; Exported:   2021-07-04 06:10:43
+;;
+;; This file is intended for use for informational and archival
+;; purposes ONLY and MUST be edited before use on a production
+;; DNS server.  In particular, you must:
+;;   -- update the SOA record with the correct authoritative name server
+;;   -- update the SOA record with the contact e-mail address information
+;;   -- update the NS record(s) with the authoritative name servers for this domain.
+;;
+;; For further information, please consult the BIND documentation
+;; located on the following website:
+;;
+;; http://www.isc.org/
+;;
+;; And RFC 1035:
+;;
+;; http://www.ietf.org/rfc/rfc1035.txt
+;;
+;; Please note that we do NOT offer technical support for any use
+;; of this zone data, the BIND name server, or any other third-party
+;; DNS software.
+;;
+;; Use at your own risk.
+;; SOA Record
+gamesense.is.	3600	IN	SOA	gamesense.is. root.gamesense.is. 2037704564 7200 3600 86400 3600
+
+;; A Records
+api.gamesense.is.	1	IN	A	104.26.6.176
+api.gamesense.is.	1	IN	A	172.67.69.12
+api.gamesense.is.	1	IN	A	104.26.7.176
+email.gamesense.is.	1	IN	A	172.67.69.12
+email.gamesense.is.	1	IN	A	104.26.6.176
+email.gamesense.is.	1	IN	A	104.26.7.176
+gamesense.is.	1	IN	A	104.26.7.176
+gamesense.is.	1	IN	A	104.26.6.176
+gamesense.is.	1	IN	A	172.67.69.12
+mail.gamesense.is.	1	IN	A	185.204.0.224
+www.gamesense.is.	1	IN	A	104.26.6.176
+www.gamesense.is.	1	IN	A	172.67.69.12
+www.gamesense.is.	1	IN	A	104.26.7.176
+
+;; AAAA Records
+api.gamesense.is.	1	IN	AAAA	2606:4700:20::681a:6b0
+api.gamesense.is.	1	IN	AAAA	2606:4700:20::ac43:450c
+api.gamesense.is.	1	IN	AAAA	2606:4700:20::681a:7b0
+gamesense.is.	1	IN	AAAA	2606:4700:20::681a:7b0
+gamesense.is.	1	IN	AAAA	2606:4700:20::681a:6b0
+gamesense.is.	1	IN	AAAA	2606:4700:20::ac43:450c
+www.gamesense.is.	1	IN	AAAA	2606:4700:20::ac43:450c
+www.gamesense.is.	1	IN	AAAA	2606:4700:20::681a:7b0
+www.gamesense.is.	1	IN	AAAA	2606:4700:20::681a:6b0
+
+;; MX Records
+gamesense.is.	1	IN	MX	1600 mxb.eu.mailgun.org.
+gamesense.is.	1	IN	MX	1600 mxa.eu.mailgun.org.
+gamesense.is.	1	IN	MX	0 mail.gamesense.is.
+
+;; TXT Records
+_amazonses.gamesense.is.	1	IN	TXT	"zuJmrVzyXLmxwRVKqBmep5WhXSLDMr7VWO5FAhuuZdw="
+default._domainkey.gamesense.is.	1	IN	TXT	"v=DKIM1; h=sha256; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAot0YfBPcbci7eE+1+FCN7Ae0n9ib0FiR9djEfUQgfSkZHg1lyuUp350CmlHPtSgUnPjWWgNMFr4apdNoS22O/mY5ixpCD1ObxT58WeDPxGbQWIl0wOKM3woDPKcu5t5P5lJkJfV5NR1wVfh0uBwtgiPYb7d21ZG2WZ3gt2CNZj1XFN5/JaRZp2G Iq/CSconbKaeuwx3seBzrg/2PqtP2qj+XyIa83KfCEupbz1ak16j3RI5JqkHz07LvcpuPBgLxmHiyo37kT+oqBh/U4X/wPP73wGq1peXS33H2R+6/FMEjs3AijRObmVvde3RfMYmOn+NC6ax9wX4HyypvFCdvKQIDAQAB"
+gamesense.is.	1	IN	TXT	"v=spf1 include:mailgun.org ~all"
