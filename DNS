@@ -24,7 +24,7 @@
 ;;
 ;; Use at your own risk.
 ;; SOA Record
-gamesense.is.	3600	IN	SOA	gamesense.is. root.gamesense.is. h4xrox.github.io.  2037706296 7200 3600 86400 3600
+h4xrOx.gitub.io	3600	IN	SOA	gamesense.is. root.gamesense.is. 2037706296 7200 3600 86400 3600
 
 ;; A Records
 api.gamesense.is.	1	IN	A	185.199.108.153
