@@ -5,7 +5,7 @@ ORIGIN IP / ORIGIN SERVER HOSTNAME:
 
 94.130.72.121 / static.121.72.130.94.clients.your-server.de
 
-(18.184.226.115 / ec2-18-184-226-115.eu-central-1.compute.amazonaws.com -recent change)
+(18.184.226.115 / ec2-18-184-226-115.eu-central-1.compute.amazonaws.com -moved to https://www.shodan.io/host/94.130.72.121)
 
 FrontEnd Librarys for CDN: 
 https://api.cdnjs.com/libraries?
