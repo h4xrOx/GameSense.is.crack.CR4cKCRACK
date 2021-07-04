@@ -1,0 +1,89 @@
+/* region footer block/component in BEM-ish format as developed for the marketing site */
+
+/*
+The purpose of this stylesheet is to be loaded in _after_ marketing/footer.css
+so as to layer-in a "light" theme that works better with the app. This is not
+the preferred strategy, but it's a relatively cheap and easily change-able way
+to bring the marketing footer into the app in a somewhat integrated fashion.
+ */
+
+footer {
+  background: #fafafa none; /* Style guide color: @off-white */
+  padding: 21.5px 0;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+/* HACK: Reset from material-kit.css */
+footer ul li {
+  display: list-item;
+}
+
+/*HACK: Reset from material-kit.css*/
+footer ul li a {
+  border-radius: 0;
+  display: inline;
+  font-size: 14px;
+  font-weight: 300;
+  padding: 0;
+  text-transform: none;
+}
+
+.footer__copyright-notice{
+  color: #595963;
+}
+
+.footer__copyright-notice--mobile{
+  color: #595963;
+}
+
+.footerLinkGroup__title {
+  color: #7f8192;
+  text-transform: none;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18px;
+}
+
+.footerLinkGroup__link {
+  color: #818188;
+}
+
+.footerLinkGroup__link:hover {
+  color: #595963;
+  text-decoration: underline;
+}
+
+.footerLinkGroup__link:active {
+  color: #595963;
+  text-decoration: underline;
+}
+
+.footerLinkGroup__link:visited {
+  color: #818188;
+  text-decoration: none;
+}
+
+.footer__linebreak--container hr {
+  border-color: rgba(89, 89, 99, 0.28);
+}
+
+.footer__logo--container svg g g {
+  fill: #7f8192;
+}
+
+.footer__social-link img {
+  filter: invert(.4);
+}
+
+/* HACK ALERT: Important for adjusting the body content to allow for our
+ * absolutely positioned fixed footer */
+
+body {
+  /* Footer is 118px */
+  padding-bottom: 125px;
+}
+
+/* endregion */
