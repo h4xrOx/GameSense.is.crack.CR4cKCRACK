@@ -1,0 +1,140 @@
+{
+  "tags": [
+    "unknown",
+    "self-signed",
+    "unexpired"
+  ],
+  "parents": [],
+  "precert": false,
+  "validation": {
+    "google_ct_primary": {
+      "was_valid": false,
+      "valid": false,
+      "parents": [],
+      "trusted_path": false,
+      "had_trusted_path": false,
+      "in_revocation_set": false,
+      "paths": [],
+      "whitelisted": false,
+      "type": "unknown",
+      "blacklisted": false
+    },
+    "nss": {
+      "was_valid": false,
+      "valid": false,
+      "parents": [],
+      "trusted_path": false,
+      "had_trusted_path": false,
+      "in_revocation_set": false,
+      "paths": [],
+      "whitelisted": false,
+      "type": "unknown",
+      "blacklisted": false
+    },
+    "apple": {
+      "was_valid": false,
+      "valid": false,
+      "parents": [],
+      "trusted_path": false,
+      "had_trusted_path": false,
+      "in_revocation_set": false,
+      "paths": [],
+      "whitelisted": false,
+      "type": "unknown",
+      "blacklisted": false
+    },
+    "microsoft": {
+      "was_valid": false,
+      "valid": false,
+      "parents": [],
+      "trusted_path": false,
+      "had_trusted_path": false,
+      "in_revocation_set": false,
+      "paths": [],
+      "whitelisted": false,
+      "type": "unknown",
+      "blacklisted": false
+    }
+  },
+  "parsed": {
+    "fingerprint_sha256": "7ee940a6f73fe2903ae71fb0fc2bcd7e0333551c6f5504b81ee7cbd27f1cc752",
+    "subject_key_info": {
+      "fingerprint_sha256": "2eae9880acb90525031f44287a89a61139e041ffe1857a00228cece23b65a479",
+      "key_algorithm": {
+        "name": "RSA"
+      },
+      "rsa_public_key": {
+        "length": 2048,
+        "modulus": "1M0RfUGL8exc1B/9OtRy18FFUFdI6UNkTSjHzJQG4HdtDefvDNR/MUWy6qwbYutS6PEFpdrwM2Dqjol9bS+mx+KaXnbMBR0JA7OP3rH4XqajSdydkDZA7CRnflW00rEelAcplI1omRWmxVCWQUtDld1bL9TJi5yRicy2/WDRigPmOigTm4SeL9sEll+xINkB3jWndrkA5FkRm1xO3yj0eUyEjfCsEiorno1fLkiBhui4+T2+y41kXRV+332QClec1VYvcl9Uf8ALKRIVq6cm1y0xV65eolbp/I6b655BsGT+Pfuqom4rSyaEHvWhTL0JmQMqZ4uTbCQwqSD6+Afh/Q==",
+        "exponent": 65537
+      }
+    },
+    "subject_dn": "C=AU, ST=Some-State, O=Internet Widgits Pty Ltd",
+    "signature": {
+      "self_signed": true,
+      "valid": true,
+      "value": "jiR9wMQipyP4YkKBtSdktztaOq/5n5jq7JeFjeQ3AlUClK1ZLNSjDifm5KVdh5iRo1hZIBxeHFho50FacDqzIkVuhtbdyHJUDgWZRWUn/Rn7GO2LwlexG+l/OCEu8+IfMzAOcq/Lo9bLEySkFd3laiY0F+MQ13L7Ymb/6SUCN3zsAUmmS3EgF3brCGnJ8RCFktozIGib5c39idVDsYjV0C2rSBWOFmUvsroc2DMw7f9UwtF8cf7d86F0j4IDfS3CLATRe1J5Yxa7n2DmYO4Fi3O3attdu5MSCG9bbtWcSa0QiQfllVHKRtvSvGDyyZ8AsCTnsYWwAJDCqVh3aldGEA==",
+      "signature_algorithm": {
+        "oid": "1.2.840.113549.1.1.11",
+        "name": "SHA256-RSA"
+      }
+    },
+    "redacted": false,
+    "validity": {
+      "start": "2021-07-01T11:30:22Z",
+      "length": 31536000,
+      "end": "2022-07-01T11:30:22Z"
+    },
+    "issuer_dn": "C=AU, ST=Some-State, O=Internet Widgits Pty Ltd",
+    "fingerprint_sha1": "c5fa20cafab385ac6e3feeb5527fce7485a82c66",
+    "version": 3,
+    "extensions": {
+      "authority_key_id": "44e93766f374119d3b9380277a94e99e3fc0bdd9",
+      "basic_constraints": {
+        "is_ca": true
+      },
+      "subject_key_id": "44e93766f374119d3b9380277a94e99e3fc0bdd9"
+    },
+    "validation_level": "unknown",
+    "signature_algorithm": {
+      "oid": "1.2.840.113549.1.1.11",
+      "name": "SHA256-RSA"
+    },
+    "tbs_fingerprint": "586326a6f5485f74a2e31e6bfe7e097e731fbd1a26db5b65856f0bdee6c2f757",
+    "serial_number": "263156811523637069466869004644461660133465394184",
+    "fingerprint_md5": "9c46d269440c09730f08f2ed55407f4a",
+    "subject": {
+      "province": [
+        "Some-State"
+      ],
+      "country": [
+        "AU"
+      ],
+      "organization": [
+        "Internet Widgits Pty Ltd"
+      ]
+    },
+    "tbs_noct_fingerprint": "586326a6f5485f74a2e31e6bfe7e097e731fbd1a26db5b65856f0bdee6c2f757",
+    "spki_subject_fingerprint": "89df494fe9f690cfa29ae6ea979e0d70ac57acb5fe9ead0f7cf6527d07977fe4",
+    "issuer": {
+      "province": [
+        "Some-State"
+      ],
+      "country": [
+        "AU"
+      ],
+      "organization": [
+        "Internet Widgits Pty Ltd"
+      ]
+    }
+  },
+  "metadata": {
+    "post_processed": false,
+    "source": "scan",
+    "parse_version": 0,
+    "parse_status": "success",
+    "seen_in_scan": true,
+    "updated_at": "2021-07-03T03:56:54",
+    "added_at": "2021-07-03T03:56:10+00:00"
+  }
+}
