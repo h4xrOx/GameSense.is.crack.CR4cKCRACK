@@ -3,6 +3,7 @@ GAMESENSE CRACK / GAMESENSE.IS / Join My Discord: https://discord.gg/gBsC839Dne 
 
 ORIGIN IP: 
 94.130.72.121/ ORIGIN SERVER HOSTNAME: static.121.72.130.94.clients.your-server.de
+18.184.226.115/ ec2-18-184-226-115.eu-central-1.compute.amazonaws.com
 
 FrontEnd Librarys for CDN: 
 https://api.cdnjs.com/libraries?
