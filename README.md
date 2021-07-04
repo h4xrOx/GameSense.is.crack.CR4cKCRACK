@@ -10,10 +10,9 @@ ORIGIN IP / ORIGIN SERVER HOSTNAME:
 FrontEnd Librarys for CDN: 
 https://api.cdnjs.com/libraries?
 
-https://documenter.getpostman.com/view/5158941/SWE3beWU  <<< this is documentation on how to use the API 50496860-0563-418b-ad97-0850c8a15687
-https://api.mailgun.org/v3/mxa.eu.mailgun.org/ // https://api.mailgun.org/v3/mail.gamesense.is .<<< these links downloads you 
+https://documenter.getpostman.com/view/5158941/SWE3beWU  <<< this is documentation on how to use the API
 
-Gamesense.is Mailgun Magnificent API Keys:
+https://api.mailgun.org/v3/mxa.eu.mailgun.org/ // https://api.mailgun.org/v3/mail.gamesense.is .<<< these links download you Gamesense.is Mailgun Magnificent API Keys:
 
 50496860-0563-418b-ad97-0850c8a15687 / 44c539b5-c536-4979-a553-23b91d5f007b / 542ff402-d9e8-4f86-8bbd-752b72093b1c
 
