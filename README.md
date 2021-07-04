@@ -1,9 +1,14 @@
 # gamesense.is_CRACKED
-GAMESENSE CRACK / GAMESENSE.IS / Join My Discord: https://discord.gg/gBsC839Dne / Join My WebSite https://h4xr0x.cc
+GAMESENSE CRACK / GAMESENSE.IS / Join My Discord: https://discord.gg/gBsC839Dne / Join My WebSite https://h4xr0x.cc #NEVERLOSE.CC=NOOBS
 
-ORIGIN IP: 94.130.72.121/ ORIGIN SERVER HOSTNAME: static.121.72.130.94.clients.your-server.de
-FrontEnd Librarys for CDN: https://api.cdnjs.com/libraries?
-Mailgun Magnificent API Keys: 44c539b5-c536-4979-a553-23b91d5f007b / 542ff402-d9e8-4f86-8bbd-752b72093b1c
+ORIGIN IP: 
+94.130.72.121/ ORIGIN SERVER HOSTNAME: static.121.72.130.94.clients.your-server.de
+
+FrontEnd Librarys for CDN: 
+https://api.cdnjs.com/libraries?
+
+Mailgun Magnificent API Keys:
+44c539b5-c536-4979-a553-23b91d5f007b / 542ff402-d9e8-4f86-8bbd-752b72093b1c
 
 ![image](https://user-images.githubusercontent.com/65768277/124374959-ed3d7400-dc64-11eb-9e24-cdab8653c064.png)
 
