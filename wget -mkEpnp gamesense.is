@@ -1,0 +1,77 @@
+wget -mkEpnp gamesense.is
+--2021-07-01 11:14:35--  http://gamesense.is/
+Resolving gamesense.is (gamesense.is)... 2606:4700:20::681a:7b0, 2606:4700:20::681a:6b0, 2606:4700:20::ac43:450c, ...
+Connecting to gamesense.is (gamesense.is)|2606:4700:20::681a:7b0|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://gamesense.is/ [following]
+--2021-07-01 11:14:35--  https://gamesense.is/
+Connecting to gamesense.is (gamesense.is)|2606:4700:20::681a:7b0|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘gamesense.is/index.html’
+
+gamesense.is/index.html           [ <=>                                              ]   2.77K  --.-KB/s    in 0.001s
+
+2021-07-01 11:14:36 (2.40 MB/s) - ‘gamesense.is/index.html’ saved [2838]
+
+Loading robots.txt; please ignore errors.
+--2021-07-01 11:14:36--  https://gamesense.is/robots.txt
+Reusing existing connection to [gamesense.is]:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-07-01 11:14:36 ERROR 404: Not Found.
+
+--2021-07-01 11:14:36--  https://gamesense.is/favicon.ico
+Reusing existing connection to [gamesense.is]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1150 (1.1K) [image/x-icon]
+Saving to: ‘gamesense.is/favicon.ico’
+
+gamesense.is/favicon.ico      100%[=================================================>]   1.12K  --.-KB/s    in 0.001s
+
+2021-07-01 11:14:36 (1.57 MB/s) - ‘gamesense.is/favicon.ico’ saved [1150/1150]
+
+--2021-07-01 11:14:36--  https://gamesense.is/_nuxt/bdd0a9f.js
+Reusing existing connection to [gamesense.is]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3070 (3.0K) [application/javascript]
+Saving to: ‘gamesense.is/_nuxt/bdd0a9f.js’
+
+gamesense.is/_nuxt/bdd0a9f.js 100%[=================================================>]   3.00K  --.-KB/s    in 0.002s
+
+2021-07-01 11:14:36 (1.68 MB/s) - ‘gamesense.is/_nuxt/bdd0a9f.js’ saved [3070/3070]
+
+--2021-07-01 11:14:36--  https://gamesense.is/_nuxt/4dd7bd3.js
+Reusing existing connection to [gamesense.is]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 261759 (256K) [application/javascript]
+Saving to: ‘gamesense.is/_nuxt/4dd7bd3.js’
+
+gamesense.is/_nuxt/4dd7bd3.js 100%[=================================================>] 255.62K  1.43MB/s    in 0.2s
+
+2021-07-01 11:14:37 (1.43 MB/s) - ‘gamesense.is/_nuxt/4dd7bd3.js’ saved [261759/261759]
+
+--2021-07-01 11:14:37--  https://gamesense.is/_nuxt/d5f38e1.js
+Reusing existing connection to [gamesense.is]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 146994 (144K) [application/javascript]
+Saving to: ‘gamesense.is/_nuxt/d5f38e1.js’
+
+gamesense.is/_nuxt/d5f38e1.js 100%[=================================================>] 143.55K  --.-KB/s    in 0.01s
+
+2021-07-01 11:14:37 (14.4 MB/s) - ‘gamesense.is/_nuxt/d5f38e1.js’ saved [146994/146994]
+
+--2021-07-01 11:14:37--  https://gamesense.is/_nuxt/9f751af.js
+Reusing existing connection to [gamesense.is]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 165599 (162K) [application/javascript]
+Saving to: ‘gamesense.is/_nuxt/9f751af.js’
+
+gamesense.is/_nuxt/9f751af.js 100%[=================================================>] 161.72K  --.-KB/s    in 0.04s
+
+2021-07-01 11:14:37 (3.53 MB/s) - ‘gamesense.is/_nuxt/9f751af.js’ saved [165599/165599]
+
+FINISHED --2021-07-01 11:14:37--
+Total wall clock time: 2.2s
+Downloaded: 6 files, 568K in 0.2s (2.39 MB/s)
+Converting links in gamesense.is/index.html... 9.
+9-0
