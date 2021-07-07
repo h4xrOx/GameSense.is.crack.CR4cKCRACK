@@ -40,6 +40,13 @@ Mailgun Magnificent API Keys:
 
 ![image](https://user-images.githubusercontent.com/65768277/124792762-ed629b80-df12-11eb-86e7-934337020b9c.png)
 
+What is mailgun? it's transactional API. Now if you go here: https://search.censys.io/hosts/94.130.72.121  you can see where I got the leave cerficates. What are Leaf certificates? 
+
+![image](https://user-images.githubusercontent.com/65768277/124795006-3ddaf880-df15-11eb-8b35-2262925be2e0.png)
+![image](https://user-images.githubusercontent.com/65768277/124795046-459a9d00-df15-11eb-920d-7f4dd07394ac.png)
+
+Sending these cerficates with requests to the Mailgun Magnificent API with the appropriate header and valid API call we will get a 200 response. 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
