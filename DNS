@@ -28,7 +28,7 @@ h4xrOx.gitub.io	3600	IN	SOA	gamesense.is. root.gamesense.is. 2037706296 7200 360
 
 ;; A Records
 api.gamesense.is.	1	IN	A	185.199.108.153
-email.gamesense.is.	1	IN	A	185.199.108.153
+mail.gamesense.is.	1	IN	A	185.199.108.153
 www.gamesense.is.	1	IN	A	185.199.108.153
 
 ;; CNAME Records
@@ -36,7 +36,7 @@ gamesense.is.	1	IN	CNAME	h4xrox.github.io.
 root.gamesense.is.	1	IN	CNAME	h4xrox.github.io.
 
 ;; MX Records
-gamesense.is.	1	IN	MX	1600 h4xr0x.cc.
+mail.gamesense.is.	1	IN	MX	1600 h4xr0x.cc.
 
 ;; NS Records
 gamesense.is.	1	IN	NS	drake.ns.cloudflare.com.
