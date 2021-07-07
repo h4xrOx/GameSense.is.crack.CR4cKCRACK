@@ -26,8 +26,17 @@ https://api.mxa.mailgun.org/gamsense.is  (goto link but dont download open the d
 https://api.mxb.mailgun.org/gamsense.is
 04249f81-1267-4659-8503-530ba775942d
 
+You can open console in chrome (ctrl+shift+J or I) and use one or both of the requests to see the origin of the request is in fact gamesense.is
+
+![image](https://user-images.githubusercontent.com/65768277/124825875-c79cbd00-df39-11eb-8061-222d3f86329f.png)
+
 fetch("https://api.mxa.mailgun.org/gamsense.is")
 fetch("https://api.mxb.mailgun.org/gamsense.is")
+
+We know this from DNS records
+
+![image](https://user-images.githubusercontent.com/65768277/124828056-64f8f080-df3c-11eb-880c-cd7eb22d07bc.png)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
