@@ -20,11 +20,14 @@ https://api.cdnjs.com/libraries?
 
 https://documenter.getpostman.com/view/5158941/SWE3beWU // this is documentation on how to use the API
 
-https://api.mxa.mailgun.org/mail.gamsense.is  (goto link but dont download open the download folder its .tmp name will be the key value)
+https://api.mxa.mailgun.org/gamsense.is  (goto link but dont download open the download folder its .tmp name will be the key value)
 870ff8ed-f758-4967-b44b-a513c25599aa
 
-https://api.mxb.mailgun.org/mail.gamsense.is
+https://api.mxb.mailgun.org/gamsense.is
 04249f81-1267-4659-8503-530ba775942d
+
+fetch("https://api.mxa.mailgun.org/gamsense.is")
+fetch("https://api.mxb.mailgun.org/gamsense.is")
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
