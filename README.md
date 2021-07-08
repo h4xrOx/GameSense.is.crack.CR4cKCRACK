@@ -32,7 +32,6 @@ https://51.124.78.146:19080/explorer/index.html
 **Loader / Client**
 
 Services hosted on: https://23.128.64.141:62642/ / ip4.seeip.org ASN: Joe's Datacenter, LLC
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Loader API that gives access to the actual cheat runs at https://51.124.78.146:19080/ 
 This is their ip for hosting with Azure; the login panel is hosted at: 20.190.152.20 and its shared you can view that documentation here: 
