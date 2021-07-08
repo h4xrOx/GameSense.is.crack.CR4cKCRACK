@@ -5,15 +5,20 @@ GAMESENSE CRACK / GAMESENSE.IS / Join My Discord: https://discord.gg/gBsC839Dne 
 **CURRENT ORIGIN IP / ORIGIN SERVER HOSTNAME:**
 
 **Website:** 
+
 94.130.72.121 / static.121.72.130.94.clients.your-server.de
 
 **Azure Cloud Server:** Microsoft-HTTPAPI/2.0   
+
 51.124.78.146 / settingsfd-prod-weu1-endpoint.trafficmanager.net
 
 **Azure Service Fabric Cluster:** 
 *login Team Explorer:* 
+
 https://login.microsoftonline.com/33e01921-4d64-4f8c-a055-5bdaffd5e33d/oauth2/authorize?response_type=id_token&client_id=7057ca43-bacd-471b-ad74-63d2f1d77f49  
+
 *Index of Explorer*
+
 https://51.124.78.146:19080/explorer/index.html
 
 ![image](https://user-images.githubusercontent.com/65768277/124973922-c3cc7180-dff1-11eb-97f7-af4a07faaa1d.png)
@@ -25,8 +30,8 @@ This is their ip for hosting with Azure; the login panel is hosted at: 20.190.15
 You need to have appropriate cerfificates installed as well as an IP thats whitelisted. 
 
 Leaf Certifcates:
-
 Authority Information Access Locations:
+
 Issuer: http://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20TLS%20Issuing%20CA%2005%20-%20xsign.crt
 CRL Distribution points: http://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2005.crl
 
@@ -44,9 +49,11 @@ d6831ba43607f5ac19778d627531562af55145f191cab5efafa0e0005442b302
 Now I dont use cheats, I dont play CSGO; If I wanted authorization to use the cheat - I would just pay for it; I want their source - because I think its a scam to sell kids pasted illegal cheats at 35$/mo. To Log into their Team Explorer, have access to the entire cluster, Azure DevOps Server, ++a long list of other services ( see list here: 20.190.152.20 and to get the code for this ( and neverlose and a bunch other pasted shit - same Team ) We go here: 
 
 *now if you do everything right; it wont ask you to login, it will take you to the link below, full instructions will only be given to members of https://h4xr0x.cc*
+
 https://51.124.78.146:19080/explorer/index.html
 
 *now if you are not a member of https://h4xr0x.cc, the link below is to login to their Team Explorer*
+
 https://login.microsoftonline.com/33e01921-4d64-4f8c-a055-5bdaffd5e33d/oauth2/authorize?response_type=id_token&client_id=7057ca43-bacd-471b-ad74-63d2f1d77f49
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
