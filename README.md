@@ -21,17 +21,17 @@ https://login.microsoftonline.com/33e01921-4d64-4f8c-a055-5bdaffd5e33d/oauth2/au
 
 https://51.124.78.146:19080/explorer/index.html
 
+
+
 ![image](https://user-images.githubusercontent.com/65768277/124973922-c3cc7180-dff1-11eb-97f7-af4a07faaa1d.png)
 
 *openssl s_client --connect 51.124.78.146:19080 --showcerts --crl_download*
 
 ![image](https://user-images.githubusercontent.com/65768277/124977881-abab2100-dff6-11eb-8665-40897e2c985e.png)
 
-
 **Loader / Client**
+
 Services hosted on: https://23.128.64.141:62642/ / ip4.seeip.org ASN: Joe's Datacenter, LLC
-
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Loader API that gives access to the actual cheat runs at https://51.124.78.146:19080/ 
@@ -70,11 +70,12 @@ https://login.microsoftonline.com/33e01921-4d64-4f8c-a055-5bdaffd5e33d/oauth2/au
 
 How the loader works: 
 
-The First connection is to ip4.seeip.org / 23.128.64.141 to check to see if the IP is Whitellisted in their Azure Services.
+The First connection is to ip4.seeip.org / 23.128.64.141 to check to see if the IP is Whitellisted in their Azure Services. Loader / Client
+Services hosted on: https://23.128.64.141:62642/ / ip4.seeip.org ASN: Joe's Datacenter, LLC and has 3051 different changes to the registry, uploads 756 files, and runs 69 different modules, as you can see here: https://app.any.run/tasks/16bf65e1-fba8-421c-9c28-b7b58fd663fe/
 
+![image](https://user-images.githubusercontent.com/65768277/124982981-03e52180-dffd-11eb-87f3-485a5fbf0c39.png)
 
-
-
+If it all checks out that you bought the cheat; then they dont just RAT you - You connect to 51.124.78.146, they give you some permissions on their Azure Serives to use the User Interface ( their cheat ) only 35$/mo to give them all your information and complete administrative access to your computer.
 
 I wouldnt sugguest opening the loader or trying to login their azure on your own device or accounts, or purchasing the cheat, after reversing the Loader They give themselves complete access to your computer; basically a RAT you consent to by purchasing their cheat:
 
