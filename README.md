@@ -28,6 +28,9 @@ https://51.124.78.146:19080/explorer/index.html
 ![image](https://user-images.githubusercontent.com/65768277/124977881-abab2100-dff6-11eb-8665-40897e2c985e.png)
 
 
+**Loader / Client**
+Services hosted on: https://23.128.64.141:62642/ / ip4.seeip.org ASN: Joe's Datacenter, LLC
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -65,14 +68,23 @@ https://login.microsoftonline.com/33e01921-4d64-4f8c-a055-5bdaffd5e33d/oauth2/au
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*Everything below was origional method I used to get the website to give me an Activation Token to Download the Loader. After Having access to that; I was able to grab the cheat source as I show above, below is still relevant information if you just want a key; members of https://h4xr0x.cc will be getting the cheat source.*
+How the loader works: 
 
-However I wouldnt sugguest it, after reversing the Loader They give themselves complete access to your computer; basically a RAT you consent to by purchasing their cheat:
+The First connection is to ip4.seeip.org / 23.128.64.141 to check to see if the IP is Whitellisted in their Azure Services.
+
+
+
+
+
+I wouldnt sugguest opening the loader or trying to login their azure on your own device or accounts, or purchasing the cheat, after reversing the Loader They give themselves complete access to your computer; basically a RAT you consent to by purchasing their cheat:
+
 
 ![image](https://user-images.githubusercontent.com/65768277/124975128-499cec80-dff3-11eb-88bf-ac52bb8af68b.png)
 
 ![image](https://user-images.githubusercontent.com/65768277/124976070-65ed5900-dff4-11eb-8150-e6bab238f70d.png)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Everything below was origional method I used to get the website to give me an Activation Token to Download the Loader. After Having access to that; I was able to grab the cheat source as I show above, below is still relevant information if you just want a key; members of https://h4xr0x.cc will be getting the cheat source.*
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 FrontEnd Librarys for WebSite for CDN: 
