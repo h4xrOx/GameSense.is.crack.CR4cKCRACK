@@ -23,6 +23,12 @@ https://51.124.78.146:19080/explorer/index.html
 
 ![image](https://user-images.githubusercontent.com/65768277/124973922-c3cc7180-dff1-11eb-97f7-af4a07faaa1d.png)
 
+*openssl s_client --connect 51.124.78.146:19080 --showcerts --crl_download*
+
+![image](https://user-images.githubusercontent.com/65768277/124977881-abab2100-dff6-11eb-8665-40897e2c985e.png)
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Loader API that gives access to the actual cheat runs at https://51.124.78.146:19080/ 
