@@ -2,13 +2,13 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 GAMESENSE CRACK / GAMESENSE.IS / Join My Discord: https://discord.gg/gBsC839Dne / Join My WebSite https://h4xr0x.cc #NEVERLOSE.CC=NOOBS
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-GAMESENSE.IS GAMESENSE.IS NEVERLOSE.cc NEVERLOSE.cc Gmbh SCAM
+V![image](https://user-images.githubusercontent.com/65768277/125208673-8bc76780-e259-11eb-8395-2a2b6b87731c.png)                                                              NOTE::they started moving domains around after this was posted, Im posting this about 5 minutes after they started the move, and will update this on 7/11/2021 3:00PM Centeral Time 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-https://my.mail.ru/mail/volna1984/ Volodko Natalia Alexandrovna (5-8th grade teacher @https://shkola15.edusite.ru/ (original dev origionally hosted it on gmbh
+**https://my.mail.ru/mail/volna1984/ Volodko Natalia Alexandrovna (5-8th grade teacher @https://shkola15.edusite.ru/ (original dev origionally hosted it on gmbh**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Sven Engelhardt - Senior Software-Entwickler - SCHUFA Holding AG Senior Software-Entwickler, currentl (Gmbh) Admin too. https://www.xing.com/profile/Sven_Engelhardt13
+**Sven Engelhardt - Senior Software-Entwickler - SCHUFA Holding AG Senior Software-Entwickler, currentl (Gmbh) Admin too. https://www.xing.com/profile/Sven_Engelhardt13**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Tobias Küttner of GTT started his carreer at (Gmbh) As an admin as well; and now all 3 are partnered at Tiscali International , or (TCI clan) when they are cheating at ESPORTS
+**Tobias Küttner of GTT started his carreer at (Gmbh) As an admin as well; and now all 3 are partnered at Tiscali International 
 https://www.linkedin.com/in/tobias-k%2525C3%2525BCttner-a0326650
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is = to insider trading / illegal / and a SCAM in USA, I am not so sure the laws in Russia, or Germany.If you have Cheats.. dont host them on their servers..... just saying
@@ -21,7 +21,7 @@ This is = to insider trading / illegal / and a SCAM in USA, I am not so sure the
 ![image](https://user-images.githubusercontent.com/65768277/125164730-4de31a00-e159-11eb-81c7-ddaa0f627853.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*****Web hosting:GTT, Gmbh, Tiscali International, static.145.187.99.88.clients.your-server.de, uli1.favanaco.com, NeverLose.cc, HostiMan.ru, host-bd883e0e.hostiman.com, ,81.90.180.68, astralix.su, hc3324-5.iphmx.com, interoute.com (_xmpp-server) | All Behind Cloudflare , ALways Dox themselves with MX records/ constantly switching it up, Like NeverLose.cc could share with novihacks, Favanaco, or interoute.com, 3 different HOST, trusting eachother on the BGP (border gateway protocal) Thats how you break the net*****
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*****Web hosting:PSINet Europe, now owned by Interoute Communicatio, GTT, Gmbh, Tiscali International, static.145.187.99.88.clients.your-server.de, uli1.favanaco.com, NeverLose.cc, HostiMan.ru, host-bd883e0e.hostiman.com, ,81.90.180.68, astralix.su, hc3324-5.iphmx.com, interoute.net, interoute.com (_xmpp-server) | All Behind Cloudflare , ALways Dox themselves with MX records/ constantly switching it up, Like NeverLose.cc was sharing MX records with uli1.favanaco.com when I posted this, now novihacks, and neverlose share ez.mail.eu, 3 different HOST, trusting eachother on the BGP (border gateway protocal) Thats how you break the net*****
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **ROOT/ORIGIN/CACHE-SERVER:** cs.interoute.com | 195.143.229.82 https://search.censys.io/hosts/195.143.229.82/whois  This Where These Guys Names First Pop Up in my Recon
@@ -36,11 +36,8 @@ v=spf1 include:spf100.domaincontrol.com include:spf.protection.outlook.com ip4:6
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/65768277/125188768-a0284780-e1fa-11eb-9de2-fe6b5b448f19.png)
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------200608._domainkey
-k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDGoQCNwAQdJBy23MrShs1EuHqK/dtDC33QrTqgWd9CJmtM3CK2ZiTYugkhcxnkEtGbzg+IJqcDRNkZHyoRezTf6QbinBB2dbyANEuwKI5DVRBFowQOj9zvM3IvxAEboMlb0szUjAoML94HOkKuGuCkdZ1gbVEi3GcVwrIQphal1QIDAQAB;
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-*ALL IP's AND Explanations For Them*
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*ALL IP's AND Explanations For NS records in SS below*
 v=spf1 ip4:212.134.98.1 ip4:62.50.0.132 ip4:62.50.53.100 ip4:195.81.155.210 ip4:62.50.132.61 ip4:62.50.64.220 ip4:194.42.224.140 ip4:154.15.202.142 ip4:154.15.207.142 ip4:154.15.206.146 ip4:195.7.80.23 ip4:194.231.55.234 ip4:213.39.41.54 ip4:185.33.167.13 4 ip4:68.232.147.154 ip4:68.232.155.226 ip4:68.232.143.173 ip4:68.232.143.192 ip4:68.232.147.154 ip4:68.232.155.226 ip4:68.232.143.173 ip4:68.232.143.192 -all
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
