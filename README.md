@@ -1,6 +1,18 @@
 # gamesense.is_CRACKED  #NeverLose DUMPED
 
 GAMESENSE CRACK / GAMESENSE.IS / Join My Discord: https://discord.gg/gBsC839Dne / Join My WebSite https://h4xr0x.cc #NEVERLOSE.CC=NOOBS
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+GAMESENSE.IS GAMESENSE.IS NEVERLOSE.cc NEVERLOSE.cc Gmbh SCAM
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+https://my.mail.ru/mail/volna1984/ Volodko Natalia Alexandrovna (5-8th grade teacher @https://shkola15.edusite.ru/ (original dev origionally hosted it on gmbh
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sven Engelhardt - Senior Software-Entwickler - SCHUFA Holding AG Senior Software-Entwickler, currentl (Gmbh) Admin too. https://www.xing.com/profile/Sven_Engelhardt13
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tobias Küttner of GTT started his carreer at (Gmbh) As an admin as well; and now all 3 are partnered at Tiscali International , or (TCI clan) when they are cheating at ESPORTS-
+https://www.linkedin.com/in/tobias-k%2525C3%2525BCttner-a0326650
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This is = to insider trading / illegal / and a SCAM in USA, I am not so sure the laws in Russia, or Germany.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*****Web hosting: static.145.187.99.88.clients.your-server.de, uli1.favanaco.com NeverLose.cc, astralix.su, hc3324-5.iphmx.com, interoute.com (_xmpp-server) | *****
 
 ![image](https://user-images.githubusercontent.com/65768277/125190455-d4a00180-e202-11eb-8bed-001827d2864d.png)
 ![image](https://user-images.githubusercontent.com/65768277/125146396-2fded080-e0eb-11eb-94bf-f316d5300c42.png)
