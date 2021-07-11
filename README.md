@@ -1,8 +1,13 @@
-# gamesense.is_CRACKED  #NeverLose DUMPED
+# gamesense.is_CRACKED  #NeverLose DUMPED 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-GAMESENSE CRACK / GAMESENSE.IS / Join My Discord: https://discord.gg/gBsC839Dne / Join My WebSite https://h4xr0x.cc #NEVERLOSE.CC=NOOBS
+GAMESENSE CRACK / GAMESENSE.IS / Join My Discord: https://discord.gg/gBsC839Dne / Join My WebSite https://h4xr0x.cc
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-V![image](https://user-images.githubusercontent.com/65768277/125208673-8bc76780-e259-11eb-8395-2a2b6b87731c.png)                                                              NOTE::they started moving domains around after this was posted, Im posting this about 5 minutes after they started the move, and will update this on 7/11/2021 3:00PM Centeral Time 
+
+NOTE::they started moving domains around after this was posted, Im posting this about 5 minutes after they started the move, and will update this As I can on 7/11/2021 3:00PM Centeral Time 
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+V![image](https://user-images.githubusercontent.com/65768277/125208673-8bc76780-e259-11eb-8395-2a2b6b87731c.png)                                                              
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **https://my.mail.ru/mail/volna1984/ Volodko Natalia Alexandrovna (5-8th grade teacher @https://shkola15.edusite.ru/ (original dev origionally hosted it on gmbh**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
