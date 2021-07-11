@@ -1,13 +1,16 @@
 # gamesense.is_CRACKED  #NeverLose DUMPED 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 GAMESENSE CRACK / GAMESENSE.IS / Join My Discord: https://discord.gg/gBsC839Dne / Join My WebSite https://h4xr0x.cc
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**GAMESENSE.IS**   **GAMESENSE.IS**  NEVERLOSE.cc NEVERLOSE.cc **Gmbh SCAM** 
+
 
 NOTE::they started moving domains around after this was posted, Im posting this about 5 minutes after they started the move, and will update this As I can on 7/11/2021 3:00PM Centeral Time 
+![image](https://user-images.githubusercontent.com/65768277/125208976-676c8a80-e25b-11eb-96a4-fdca6cc058dd.png)
+![image](https://user-images.githubusercontent.com/65768277/125209168-ac44f100-e25c-11eb-88e7-8f57b2010b11.png)
+![image](https://user-images.githubusercontent.com/65768277/125209253-31300a80-e25d-11eb-8e59-1d8ea8fc5a26.png)
 
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-V![image](https://user-images.githubusercontent.com/65768277/125208673-8bc76780-e259-11eb-8395-2a2b6b87731c.png)                                                              
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------all about the MX records with these guys
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                 NEVERLOSE.CC / GAMESENSE.IS ? WHO ARE THESE GUYS? OR GIRL? 2 DUDES and A GIRL 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **https://my.mail.ru/mail/volna1984/ Volodko Natalia Alexandrovna (5-8th grade teacher @https://shkola15.edusite.ru/ (original dev origionally hosted it on gmbh**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
