@@ -8,7 +8,7 @@ https://my.mail.ru/mail/volna1984/ Volodko Natalia Alexandrovna (5-8th grade tea
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sven Engelhardt - Senior Software-Entwickler - SCHUFA Holding AG Senior Software-Entwickler, currentl (Gmbh) Admin too. https://www.xing.com/profile/Sven_Engelhardt13
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Tobias Küttner of GTT started his carreer at (Gmbh) As an admin as well; and now all 3 are partnered at Tiscali International , or (TCI clan) when they are cheating at ESPORTS-
+Tobias Küttner of GTT started his carreer at (Gmbh) As an admin as well; and now all 3 are partnered at Tiscali International , or (TCI clan) when they are cheating at ESPORTS
 https://www.linkedin.com/in/tobias-k%2525C3%2525BCttner-a0326650
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is = to insider trading / illegal / and a SCAM in USA, I am not so sure the laws in Russia, or Germany.
@@ -20,8 +20,6 @@ This is = to insider trading / illegal / and a SCAM in USA, I am not so sure the
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 **NEVERLOSE.CC**  (Sven Engelhardt) & (Tobias Küttner) **GAMESENSE.IS**
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*****Web hosting: static.145.187.99.88.clients.your-server.de, uli1.favanaco.com NeverLose.cc, astralix.su, hc3324-5.iphmx.com, interoute.com (_xmpp-server) | *****
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
