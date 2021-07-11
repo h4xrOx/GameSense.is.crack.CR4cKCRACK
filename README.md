@@ -1,4 +1,5 @@
-# gamesense.is_CRACKED
+# gamesense.is_CRACKED  *who are these guys? = **ROOOT IP:** 195.143.229.82 https://search.censys.io/hosts/195.143.229.82/whois  A record on CS interoute.com (See Screen S hots) competitive csgo players
+
 GAMESENSE CRACK / GAMESENSE.IS / Join My Discord: https://discord.gg/gBsC839Dne / Join My WebSite https://h4xr0x.cc #NEVERLOSE.CC=NOOBS
 
 ![image](https://user-images.githubusercontent.com/65768277/125146396-2fded080-e0eb-11eb-94bf-f316d5300c42.png)
