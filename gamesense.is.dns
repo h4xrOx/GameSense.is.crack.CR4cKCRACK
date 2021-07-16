@@ -1,0 +1,57 @@
+;;
+;; Domain:     gamesense.is.
+;; Exported:   2021-07-16 18:42:58
+;;
+;; This file is intended for use for informational and archival
+;; purposes ONLY and MUST be edited before use on a production
+;; DNS server.  In particular, you must:
+;;   -- update the SOA record with the correct authoritative name server
+;;   -- update the SOA record with the contact e-mail address information
+;;   -- update the NS record(s) with the authoritative name servers for this domain.
+;;
+;; For further information, please consult the BIND documentation
+;; located on the following website:
+;;
+;; http://www.isc.org/
+;;
+;; And RFC 1035:
+;;
+;; http://www.ietf.org/rfc/rfc1035.txt
+;;
+;; Please note that we do NOT offer technical support for any use
+;; of this zone data, the BIND name server, or any other third-party
+;; DNS software.
+;;
+;; Use at your own risk.
+;; SOA Record
+gamesense.is.	3600	IN	SOA	gamesense.is. root.gamesense.is. 2037812757 7200 3600 86400 3600
+
+;; A Records
+api.gamesense.is.	1	IN	A	104.26.6.176
+api.gamesense.is.	1	IN	A	172.67.69.12
+api.gamesense.is.	1	IN	A	104.26.7.176
+gamesense.is.	1	IN	A	104.26.7.176
+gamesense.is.	1	IN	A	172.67.69.12
+gamesense.is.	1	IN	A	104.26.6.176
+mail.gamesense.is.	1	IN	A	94.130.72.121
+www.gamesense.is.	1	IN	A	104.26.6.176
+www.gamesense.is.	1	IN	A	104.26.7.176
+www.gamesense.is.	1	IN	A	172.67.69.12
+
+;; AAAA Records
+api.gamesense.is.	1	IN	AAAA	2606:4700:20::681a:6b0
+api.gamesense.is.	1	IN	AAAA	2606:4700:20::681a:7b0
+api.gamesense.is.	1	IN	AAAA	2606:4700:20::ac43:450c
+gamesense.is.	1	IN	AAAA	2606:4700:20::681a:7b0
+gamesense.is.	1	IN	AAAA	2606:4700:20::ac43:450c
+gamesense.is.	1	IN	AAAA	2606:4700:20::681a:6b0
+www.gamesense.is.	1	IN	AAAA	2606:4700:20::681a:6b0
+www.gamesense.is.	1	IN	AAAA	2606:4700:20::ac43:450c
+www.gamesense.is.	1	IN	AAAA	2606:4700:20::681a:7b0
+
+;; MX Records
+gamesense.is.	1	IN	MX	0 mail.gamesense.is.
+
+;; TXT Records
+default._domainkey.gamesense.is.	1	IN	TXT	"v=DKIM1; h=sha256; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxKZy81FpeW3w/kRYWdzk2adSzzYE54dTIrKpQgNn4esaY3BfQkuUWskwKfPNXV+GZZKYE0CuA1pefO4cyDC7HTQMNKhjWXUnHtDJ6QBqmnmOFpeP/daG9o2XC2cHS7rPRTdF5fgJb96/NUi/1gHwGKoKTaYAlNwY8YFoJoc/pMK5VdxDrG5zNcH jJvLTwiPhUcyRHOp+eaaz6pbEOugk5KbR8JY5VZ+1sdPAjzx0GRN97rwGZahzLtybyFumZ6sKwOzbf3Ofl5b1RkvokB24AlGiNeBQe5qNFz7DyY8veiEAYU0Frb6vYIgoFTzBYu3y6yO23nk6xck+fbAleZjOeQIDAQAB"
+_dmarc.gamesense.is.	1	IN	TXT	"v=DMARC1; p=none"
