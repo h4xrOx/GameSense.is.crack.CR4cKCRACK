@@ -1,0 +1,1983 @@
+09:30:54.541 gamesense.is/:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+09:30:54.546 8f425cc.js:2 Custom JavaScript for websites enabled.
+Please visit https://xcv58.xyz/inject-js if you have any issue.
+09:30:57.645 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+09:31:11.001 XHR finished loading: POST "<URL>".
+09:31:11.001 XHR finished loading: POST "<URL>".
+09:31:11.001 XHR finished loading: POST "<URL>".
+09:31:11.001 XHR finished loading: POST "<URL>".
+09:31:11.001 XHR finished loading: POST "<URL>".
+09:31:11.001 XHR finished loading: POST "<URL>".
+09:31:11.001 XHR finished loading: POST "<URL>".
+09:31:01.355 }
+
+function showRawData(id) {
+	var div = document.getElementById(id);
+	div.childNodes[0].style = 'display:none;visibility:hidden';
+	div.childNodes[1].style = 'display:block;visibility:visible';
+}
+09:31:01.376 VM64:1 Uncaught SyntaxError: Unexpected token '}'
+09:31:11.318 Navigated to https://gamesense.is/
+09:31:11.456 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+09:31:11.946 gamesense.is/:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+09:31:11.963 VM122:2 Custom JavaScript for websites enabled.
+Please visit https://xcv58.xyz/inject-js if you have any issue.
+09:31:12.182 VM111:1 XHR finished loading: GET "https://api.gamesense.is/v1/products/".
+(anonymous) @ VM111:1
+t.exports @ VM111:1
+t.exports @ VM111:1
+09:31:20.710 XHR finished loading: POST "<URL>".
+09:31:20.710 XHR finished loading: POST "<URL>".
+09:31:20.710 XHR finished loading: POST "<URL>".
+09:31:20.710 XHR finished loading: POST "<URL>".
+09:31:20.710 XHR finished loading: POST "<URL>".
+09:31:20.710 XHR finished loading: POST "<URL>".
+09:31:12.977 VM130:182 XHR finished loading: GET "https://mc.yandex.ru/watch/82143082?wmode=7&page-url=https%3A%2F%2Fgamesense.is%2F&charset=utf-8&ut=noindex&browser-info=pv%3A1%3Agdpr%3A14%3Avf%3A2fhsb6k71knxmy9rf%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A581%3Acn%3A1%3Adp%3A0%3Als%3A886591777679%3Ahid%3A289348781%3Az%3A-300%3Ai%3A20210704093112%3Aet%3A1625409073%3Ac%3A1%3Arn%3A1056920886%3Arqn%3A50%3Au%3A1624771784271512339%3Aw%3A1583x208%3As%3A1600x900x24%3Ask%3A1%3Acpf%3A1%3Ans%3A1625409070816%3Ads%3A0%2C0%2C330%2C2%2C3%2C0%2C%2C495%2C0%2C%2C%2C%2C854%3Adsn%3A0%2C0%2C330%2C2%2C2%2C0%2C%2C506%2C0%2C%2C%2C%2C854%3Awv%3A2%3Arqnl%3A1%3Aadb%3A2%3Ati%3A2%3Ast%3A1625409073%3At%3AGameSense".
+(anonymous) @ VM130:182
+(anonymous) @ VM130:181
+(anonymous) @ VM130:129
+Ih @ VM130:95
+(anonymous) @ VM130:94
+09:31:13.535 VM130:102 [Violation] 'setTimeout' handler took 69ms
+09:31:20.971 Navigated to https://gamesense.is/
+09:31:21.106 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+09:31:21.607 gamesense.is/:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+09:31:21.615 VM186:2 Custom JavaScript for websites enabled.
+Please visit https://xcv58.xyz/inject-js if you have any issue.
+09:31:21.707 VM175:1 XHR finished loading: GET "https://api.gamesense.is/v1/products/".
+(anonymous) @ VM175:1
+t.exports @ VM175:1
+t.exports @ VM175:1
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:32:17.715 XHR finished loading: POST "<URL>".
+09:31:22.558 VM194:182 XHR finished loading: GET "https://mc.yandex.ru/watch/82143082?wmode=7&page-url=https%3A%2F%2Fgamesense.is%2F&charset=utf-8&ut=noindex&browser-info=pv%3A1%3Agdpr%3A14%3Avf%3A2fhsb6k71knxmy9rf%3Afp%3A1474%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A581%3Acn%3A1%3Adp%3A0%3Als%3A886591777679%3Ahid%3A454752644%3Az%3A-300%3Ai%3A20210704093122%3Aet%3A1625409082%3Ac%3A1%3Arn%3A328940277%3Arqn%3A51%3Au%3A1624771784271512339%3Aw%3A1583x208%3As%3A1600x900x24%3Ask%3A1%3Acpf%3A1%3Ans%3A1625409080517%3Ads%3A0%2C0%2C298%2C3%2C2%2C0%2C%2C468%2C0%2C%2C%2C%2C801%3Adsn%3A0%2C0%2C298%2C3%2C2%2C0%2C%2C482%2C0%2C%2C%2C%2C801%3Awv%3A2%3Arqnl%3A1%3Aadb%3A2%3Ati%3A2%3Ast%3A1625409082%3At%3AGameSense".
+(anonymous) @ VM194:182
+(anonymous) @ VM194:181
+(anonymous) @ VM194:129
+Ih @ VM194:95
+(anonymous) @ VM194:94
+09:31:23.330 VM194:102 [Violation] 'setTimeout' handler took 64ms
+09:32:18.055 VM194:182 XHR finished loading: GET "https://mc.yandex.ru/watch/82143082?page-url=https%3A%2F%2Fgamesense.is%2Flogin&page-ref=https%3A%2F%2Fgamesense.is%2F&charset=utf-8&ut=noindex&browser-info=pv%3A1%3Aar%3A1%3Agdpr%3A14%3Avf%3A2fhsb6k71knxmy9rf%3Afu%3A1%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A581%3Acn%3A1%3Adp%3A0%3Als%3A886591777679%3Ahid%3A454752644%3Az%3A-300%3Ai%3A20210704093217%3Aet%3A1625409138%3Ac%3A1%3Arn%3A683291208%3Arqn%3A53%3Au%3A1624771784271512339%3Aw%3A1583x208%3As%3A1600x900x24%3Ask%3A1%3Acpf%3A1%3Aeu%3A2%3Ans%3A1625409080517%3Awv%3A2%3Arqnl%3A1%3Aadb%3A2%3Afid%3A4%3Ati%3A2%3Ast%3A1625409138%3At%3AGameSense".
+(anonymous) @ VM448:182
+(anonymous) @ VM448:181
+(anonymous) @ VM448:129
+Ih @ VM448:95
+(anonymous) @ VM448:94
+09:33:53.905 gamesense.is/:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+09:33:53.938 VM440:2 Custom JavaScript for websites enabled.
+Please visit https://xcv58.xyz/inject-js if you have any issue.
+09:33:53.958 Navigated to https://gamesense.is/login/
+09:33:54.765 VM430:1 XHR finished loading: GET "https://api.gamesense.is/v1/products/".
+(anonymous) @ VM430:1
+t.exports @ VM430:1
+t.exports @ VM430:1
+09:33:54.784 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:34:01.891 XHR finished loading: POST "<URL>".
+09:33:54.838 VM448:182 XHR finished loading: GET "https://mc.yandex.ru/watch/82143082?wmode=7&page-url=https%3A%2F%2Fgamesense.is%2Flogin&charset=utf-8&ut=noindex&browser-info=pv%3A1%3Agdpr%3A14%3Avf%3A2fhsb6k71knxmy9rf%3Afp%3A1848%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A581%3Acn%3A1%3Adp%3A0%3Als%3A886591777679%3Ahid%3A1005849860%3Az%3A-300%3Ai%3A20210704093354%3Aet%3A1625409234%3Ac%3A1%3Arn%3A496571957%3Arqn%3A54%3Au%3A1624771784271512339%3Aw%3A1583x521%3As%3A1600x900x24%3Ask%3A1%3Acpf%3A1%3Ans%3A1625409232431%3Ads%3A0%2C0%2C181%2C2%2C430%2C0%2C%2C489%2C0%2C%2C%2C%2C1120%3Adsn%3A0%2C0%2C182%2C2%2C430%2C0%2C%2C499%2C0%2C%2C%2C%2C1120%3Awv%3A2%3Arqnl%3A1%3Aadb%3A2%3Ati%3A2%3Ast%3A1625409235%3At%3AGameSense".
+(anonymous) @ VM448:182
+(anonymous) @ VM448:181
+(anonymous) @ VM448:129
+Ih @ VM448:95
+(anonymous) @ VM448:94
+09:33:55.439 VM448:102 [Violation] 'setTimeout' handler took 65ms
+09:34:19.361 }
+
+function createRDAPLink(url, title) {
+	var link = document.createElement('a');
+
+	link.href = 'javascript:void(0)';
+	link.title = url;
+
+	link.appendChild(document.createTextNode(title));
+
+	return link;
+}
+
+function ucfirst(string) {
+	return string.charAt(0).toUpperCase() + string.slice(1);
+}
+09:34:19.372 VM509:1 Uncaught SyntaxError: Unexpected token '}'
+09:35:32.791 VM448:102 [Violation] 'setTimeout' handler took 52ms
+09:38:45.520 {"settings":{"button_goals":0,"c_recp":"1.00000","form_goals":0,"pcs":"0","webvisor":{"arch_type":"none","date":"2021-06-26 05:26:24","forms":1,"recp":"1.00000"},"eu":2},"userData":{}}
+09:38:45.530 {settings: {…}, userData: {…}}settings: button_goals: 0c_recp: "1.00000"eu: 2form_goals: 0pcs: "0"webvisor: {arch_type: "none", date: "2021-06-26 05:26:24", forms: 1, recp: "1.00000"}__proto__: ObjectuserData: {}__proto__: constructor: ƒ Object()hasOwnProperty: ƒ hasOwnProperty()isPrototypeOf: ƒ isPrototypeOf()propertyIsEnumerable: ƒ propertyIsEnumerable()toLocaleString: ƒ toLocaleString()toString: ƒ toString()valueOf: ƒ valueOf()__defineGetter__: ƒ __defineGetter__()__defineSetter__: ƒ __defineSetter__()__lookupGetter__: ƒ __lookupGetter__()__lookupSetter__: ƒ __lookupSetter__()get __proto__: ƒ __proto__()set __proto__: ƒ __proto__()
+09:40:07.264 {"settings":{"button_goals":3,"c_recp":"1.00000","form_goals":3,"pcs":"3","webvisor":{"arch_type":"x86","date":"2021-06-26 05:26:24","forms":3,"recp":"1.00000"},"eu":2},"h4xr0x":{}}
+09:40:07.276 {settings: {…}, h4xr0x: {…}}h4xr0x: __proto__: constructor: ƒ Object()hasOwnProperty: ƒ hasOwnProperty()isPrototypeOf: ƒ isPrototypeOf()propertyIsEnumerable: ƒ propertyIsEnumerable()toLocaleString: ƒ toLocaleString()toString: ƒ toString()valueOf: ƒ valueOf()__defineGetter__: ƒ __defineGetter__()__defineSetter__: ƒ __defineSetter__()__lookupGetter__: ƒ __lookupGetter__()__lookupSetter__: ƒ __lookupSetter__()get __proto__: ƒ __proto__()set __proto__: ƒ __proto__()settings: {button_goals: 3, c_recp: "1.00000", form_goals: 3, pcs: "3", webvisor: {…}, …}__proto__: Object
+09:40:35.386 VM448:182 XHR failed loading: POST "https://mc.yandex.ru/webvisor/82143082?wv-check=29577&wv-type=0&wmode=0&wv-part=3&wv-hit=1005849860&page-url=https%3A%2F%2Fgamesense.is%2Flogin&rn=473147093&browser-info=gdpr%3A14%3Aet%3A1625409635%3Aw%3A1583x293%3Av%3A581%3Az%3A-300%3Ai%3A20210704094035%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmy9rf%3Awe%3A1%3Ati%3A2%3Ast%3A1625409635".
+(anonymous) @ VM448:182
+(anonymous) @ VM448:181
+(anonymous) @ VM448:129
+Ih @ VM448:95
+(anonymous) @ VM448:94
+09:40:35.492 Navigated to https://gamesense.is/login/?{%22settings%22:{%22button_goals%22:3,%22c_recp%22:%221.00000%22,%22form_goals%22:3,%22pcs%22:%223%22,%22webvisor%22:{%22arch_type%22:%22x86%22,%22date%22:%222021-06-26%2005:26:24%22,%22forms%22:3,%22recp%22:%221.00000%22},%22eu%22:2},%22h4xr0x%22:{}}
+09:40:35.794 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+09:40:36.252 gamesense.is/:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+09:40:36.267 detector.js:2 Custom JavaScript for websites enabled.
+Please visit https://xcv58.xyz/inject-js if you have any issue.
+09:40:36.773 (index):1 XHR finished loading: GET "https://api.gamesense.is/v1/products/".
+(anonymous) @ (index):1
+t.exports @ (index):1
+t.exports @ (index):1
+09:40:48.355 XHR finished loading: POST "<URL>".
+09:40:48.355 XHR finished loading: POST "<URL>".
+09:40:48.355 XHR finished loading: POST "<URL>".
+09:40:48.355 XHR finished loading: POST "<URL>".
+09:40:48.355 XHR finished loading: POST "<URL>".
+09:40:48.355 XHR finished loading: POST "<URL>".
+09:40:48.355 XHR finished loading: POST "<URL>".
+09:40:48.355 XHR finished loading: POST "<URL>".
+09:40:48.355 XHR finished loading: POST "<URL>".
+09:40:48.355 XHR finished loading: POST "<URL>".
+09:40:48.355 XHR finished loading: POST "<URL>".
+09:40:48.355 XHR finished loading: POST "<URL>".
+09:40:48.355 XHR finished loading: POST "<URL>".
+09:40:48.355 XHR finished loading: POST "<URL>".
+09:40:48.355 XHR finished loading: POST "<URL>".
+09:40:48.355 XHR finished loading: POST "<URL>".
+09:40:48.355 XHR finished loading: POST "<URL>".
+09:40:48.355 XHR finished loading: POST "<URL>".
+09:40:36.960 content.js:39 XHR finished loading: POST "https://www.google-analytics.com/j/collect?v=1&_v=j91&a=2045731113&t=screenview&_s=1&cd=login&dl=https%3A%2F%2Fgamesense.is%2Flogin%2F%3F%7B%2522settings%2522%3A%7B%2522button_goals%2522%3A3%2C%2522c_recp%2522%3A%25221.00000%2522%2C%2522form_goals%2522%3A3%2C%2522pcs%2522%3A%25223%2522%2C%2522webvisor%2522%3A%7B%2522arch_type%2522%3A%2522x86%2522%2C%2522date%2522%3A%25222021-06-26%252005%3A26%3A24%2522%2C%2522forms%2522%3A3%2C%2522recp%2522%3A%25221.00000%2522%7D%2C%2522eu%2522%3A2%7D%2C%2522h4xr0x%2522%3A%7B%7D%7D&ul=en-us&de=UTF-8&dt=GameSense&sd=24-bit&sr=1600x900&vp=1600x293&je=0&_u=CACAAEABEAAAAC~&jid=1087292412&gjid=330566485&cid=167011044.1624771781&tid=G-KGH9GMX858&_gid=1132962649.1625393290&_r=1&_slc=1&z=999551316".
+wd @ content.js:39
+pe @ content.js:38
+Sa @ content.js:43
+Ha.D @ content.js:41
+pc.send @ content.js:76
+X.b.<computed> @ content.js:56
+Z.v @ content.js:92
+Z.D @ content.js:91
+N @ content.js:92
+(anonymous) @ 4dd7bd3.js:1
+m @ 4dd7bd3.js:1
+k @ 4dd7bd3.js:1
+E @ 4dd7bd3.js:1
+(anonymous) @ 4dd7bd3.js:1
+(anonymous) @ (index):1
+(anonymous) @ (index):1
+(anonymous) @ (index):1
+r @ (index):1
+r @ (index):1
+jt @ (index):1
+(anonymous) @ (index):1
+r @ (index):1
+(anonymous) @ (index):1
+(anonymous) @ (index):1
+(anonymous) @ (index):1
+x @ (index):1
+r @ (index):1
+r @ (index):1
+(anonymous) @ (index):1
+(anonymous) @ (index):1
+(anonymous) @ (index):1
+v @ (index):1
+(anonymous) @ (index):1
+(anonymous) @ (index):1
+r @ (index):1
+l @ (index):1
+Show 6 more frames
+09:40:40.691 run_content_script.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=1&wv-hit=695541410&page-url=https%3A%2F%2Fgamesense.is%2Flogin%3F%257B%2522settings%2522%253A%257B%2522button_goals%2522%253A3%2C%2522c_recp%2522%253A%25221.00000%2522%2C%2522form_goals%2522%253A3%2C%2522pcs%2522%253A%25223%2522%2C%2522webvisor%2522%253A%257B%2522arch_type%2522%253A%2522x86%2522%2C%2522date%2522%253A%25222021-06-26%252B05%253A26%253A24%2522%2C%2522forms%2522%253A3%2C%2522recp%2522%253A%25221.00000%2522%257D%2C%2522eu%2522%253A2%257D%2C%2522h4xr0x%2522%253A%257B%257D%257D&rn=442869476&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625409640%3Aw%3A1583x293%3Av%3A581%3Az%3A-300%3Ai%3A20210704094040%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmy9rf%3Awe%3A1%3Ati%3A2%3Ast%3A1625409640".
+(anonymous) @ run_content_script.js:182
+(anonymous) @ run_content_script.js:181
+(anonymous) @ run_content_script.js:129
+Ih @ run_content_script.js:95
+(anonymous) @ run_content_script.js:94
+09:40:40.913 run_content_script.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=1&wv-hit=695541410&page-url=https%3A%2F%2Fgamesense.is%2Flogin%3F%257B%2522settings%2522%253A%257B%2522button_goals%2522%253A3%2C%2522c_recp%2522%253A%25221.00000%2522%2C%2522form_goals%2522%253A3%2C%2522pcs%2522%253A%25223%2522%2C%2522webvisor%2522%253A%257B%2522arch_type%2522%253A%2522x86%2522%2C%2522date%2522%253A%25222021-06-26%252B05%253A26%253A24%2522%2C%2522forms%2522%253A3%2C%2522recp%2522%253A%25221.00000%2522%257D%2C%2522eu%2522%253A2%257D%2C%2522h4xr0x%2522%253A%257B%257D%257D&rn=31916744&wv-type=3&browser-info=bt%3A1%3Agdpr%3A14%3Aet%3A1625409640%3Aw%3A1583x293%3Av%3A581%3Az%3A-300%3Ai%3A20210704094040%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmy9rf%3Awe%3A1%3Ati%3A2%3Ast%3A1625409640".
+(anonymous) @ run_content_script.js:182
+(anonymous) @ run_content_script.js:181
+(anonymous) @ run_content_script.js:129
+Ih @ run_content_script.js:95
+(anonymous) @ run_content_script.js:94
+09:40:44.311 run_content_script.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=2&wv-hit=695541410&page-url=https%3A%2F%2Fgamesense.is%2Flogin%3F%257B%2522settings%2522%253A%257B%2522button_goals%2522%253A3%2C%2522c_recp%2522%253A%25221.00000%2522%2C%2522form_goals%2522%253A3%2C%2522pcs%2522%253A%25223%2522%2C%2522webvisor%2522%253A%257B%2522arch_type%2522%253A%2522x86%2522%2C%2522date%2522%253A%25222021-06-26%252B05%253A26%253A24%2522%2C%2522forms%2522%253A3%2C%2522recp%2522%253A%25221.00000%2522%257D%2C%2522eu%2522%253A2%257D%2C%2522h4xr0x%2522%253A%257B%257D%257D&rn=374195100&wv-type=3&browser-info=bt%3A1%3Agdpr%3A14%3Aet%3A1625409644%3Aw%3A1583x293%3Av%3A581%3Az%3A-300%3Ai%3A20210704094044%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmy9rf%3Awe%3A1%3Ati%3A2%3Ast%3A1625409644".
+(anonymous) @ run_content_script.js:182
+(anonymous) @ run_content_script.js:181
+(anonymous) @ run_content_script.js:129
+Ih @ run_content_script.js:95
+(anonymous) @ run_content_script.js:94
+09:40:48.333 run_content_script.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=2&wv-hit=695541410&page-url=https%3A%2F%2Fgamesense.is%2Flogin%3F%257B%2522settings%2522%253A%257B%2522button_goals%2522%253A3%2C%2522c_recp%2522%253A%25221.00000%2522%2C%2522form_goals%2522%253A3%2C%2522pcs%2522%253A%25223%2522%2C%2522webvisor%2522%253A%257B%2522arch_type%2522%253A%2522x86%2522%2C%2522date%2522%253A%25222021-06-26%252B05%253A26%253A24%2522%2C%2522forms%2522%253A3%2C%2522recp%2522%253A%25221.00000%2522%257D%2C%2522eu%2522%253A2%257D%2C%2522h4xr0x%2522%253A%257B%257D%257D&rn=245517061&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625409648%3Aw%3A1583x293%3Av%3A581%3Az%3A-300%3Ai%3A20210704094048%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmy9rf%3Awe%3A1%3Ati%3A2%3Ast%3A1625409648".
+(anonymous) @ run_content_script.js:182
+(anonymous) @ run_content_script.js:181
+(anonymous) @ run_content_script.js:129
+Ih @ run_content_script.js:95
+(anonymous) @ run_content_script.js:94
+09:40:50.895 run_content_script.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=3&wv-hit=695541410&page-url=https%3A%2F%2Fgamesense.is%2Flogin%3F%257B%2522settings%2522%253A%257B%2522button_goals%2522%253A3%2C%2522c_recp%2522%253A%25221.00000%2522%2C%2522form_goals%2522%253A3%2C%2522pcs%2522%253A%25223%2522%2C%2522webvisor%2522%253A%257B%2522arch_type%2522%253A%2522x86%2522%2C%2522date%2522%253A%25222021-06-26%252B05%253A26%253A24%2522%2C%2522forms%2522%253A3%2C%2522recp%2522%253A%25221.00000%2522%257D%2C%2522eu%2522%253A2%257D%2C%2522h4xr0x%2522%253A%257B%257D%257D&rn=194164007&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625409651%3Aw%3A1583x293%3Av%3A581%3Az%3A-300%3Ai%3A20210704094050%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmy9rf%3Awe%3A1%3Ati%3A2%3Ast%3A1625409651".
+(anonymous) @ run_content_script.js:182
+(anonymous) @ run_content_script.js:181
+(anonymous) @ run_content_script.js:129
+Ih @ run_content_script.js:95
+(anonymous) @ run_content_script.js:94
+09:40:52.869 run_content_script.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=4&wv-hit=695541410&page-url=https%3A%2F%2Fgamesense.is%2Flogin%3F%257B%2522settings%2522%253A%257B%2522button_goals%2522%253A3%2C%2522c_recp%2522%253A%25221.00000%2522%2C%2522form_goals%2522%253A3%2C%2522pcs%2522%253A%25223%2522%2C%2522webvisor%2522%253A%257B%2522arch_type%2522%253A%2522x86%2522%2C%2522date%2522%253A%25222021-06-26%252B05%253A26%253A24%2522%2C%2522forms%2522%253A3%2C%2522recp%2522%253A%25221.00000%2522%257D%2C%2522eu%2522%253A2%257D%2C%2522h4xr0x%2522%253A%257B%257D%257D&rn=640814223&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625409653%3Aw%3A1583x293%3Av%3A581%3Az%3A-300%3Ai%3A20210704094052%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmy9rf%3Awe%3A1%3Ati%3A2%3Ast%3A1625409653".
+(anonymous) @ run_content_script.js:182
+(anonymous) @ run_content_script.js:181
+(anonymous) @ run_content_script.js:129
+Ih @ run_content_script.js:95
+(anonymous) @ run_content_script.js:94
+09:40:59.090 run_content_script.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=5&wv-hit=695541410&page-url=https%3A%2F%2Fgamesense.is%2Flogin%3F%257B%2522settings%2522%253A%257B%2522button_goals%2522%253A3%2C%2522c_recp%2522%253A%25221.00000%2522%2C%2522form_goals%2522%253A3%2C%2522pcs%2522%253A%25223%2522%2C%2522webvisor%2522%253A%257B%2522arch_type%2522%253A%2522x86%2522%2C%2522date%2522%253A%25222021-06-26%252B05%253A26%253A24%2522%2C%2522forms%2522%253A3%2C%2522recp%2522%253A%25221.00000%2522%257D%2C%2522eu%2522%253A2%257D%2C%2522h4xr0x%2522%253A%257B%257D%257D&rn=919166442&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625409659%3Aw%3A1583x293%3Av%3A581%3Az%3A-300%3Ai%3A20210704094058%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmy9rf%3Awe%3A1%3Ati%3A2%3Ast%3A1625409659".
+(anonymous) @ run_content_script.js:182
+(anonymous) @ run_content_script.js:181
+(anonymous) @ run_content_script.js:129
+Ih @ run_content_script.js:95
+(anonymous) @ run_content_script.js:94
+09:41:02.990 run_content_script.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=6&wv-hit=695541410&page-url=https%3A%2F%2Fgamesense.is%2Flogin%3F%257B%2522settings%2522%253A%257B%2522button_goals%2522%253A3%2C%2522c_recp%2522%253A%25221.00000%2522%2C%2522form_goals%2522%253A3%2C%2522pcs%2522%253A%25223%2522%2C%2522webvisor%2522%253A%257B%2522arch_type%2522%253A%2522x86%2522%2C%2522date%2522%253A%25222021-06-26%252B05%253A26%253A24%2522%2C%2522forms%2522%253A3%2C%2522recp%2522%253A%25221.00000%2522%257D%2C%2522eu%2522%253A2%257D%2C%2522h4xr0x%2522%253A%257B%257D%257D&rn=88770476&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625409663%3Aw%3A1583x293%3Av%3A581%3Az%3A-300%3Ai%3A20210704094102%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmy9rf%3Awe%3A1%3Ati%3A2%3Ast%3A1625409663".
+(anonymous) @ run_content_script.js:182
+(anonymous) @ run_content_script.js:181
+(anonymous) @ run_content_script.js:129
+Ih @ run_content_script.js:95
+(anonymous) @ run_content_script.js:94
+09:41:05.024 run_content_script.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=7&wv-hit=695541410&page-url=https%3A%2F%2Fgamesense.is%2Flogin%3F%257B%2522settings%2522%253A%257B%2522button_goals%2522%253A3%2C%2522c_recp%2522%253A%25221.00000%2522%2C%2522form_goals%2522%253A3%2C%2522pcs%2522%253A%25223%2522%2C%2522webvisor%2522%253A%257B%2522arch_type%2522%253A%2522x86%2522%2C%2522date%2522%253A%25222021-06-26%252B05%253A26%253A24%2522%2C%2522forms%2522%253A3%2C%2522recp%2522%253A%25221.00000%2522%257D%2C%2522eu%2522%253A2%257D%2C%2522h4xr0x%2522%253A%257B%257D%257D&rn=24526950&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625409665%3Aw%3A1583x293%3Av%3A581%3Az%3A-300%3Ai%3A20210704094104%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmy9rf%3Awe%3A1%3Ati%3A2%3Ast%3A1625409665".
+(anonymous) @ run_content_script.js:182
+(anonymous) @ run_content_script.js:181
+(anonymous) @ run_content_script.js:129
+Ih @ run_content_script.js:95
+(anonymous) @ run_content_script.js:94
+09:41:07.259 run_content_script.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wv-check=65294&wv-type=0&wmode=0&wv-part=1&wv-hit=695541410&page-url=https%3A%2F%2Fgamesense.is%2Flogin%3F%257B%2522settings%2522%253A%257B%2522button_goals%2522%253A3%2C%2522c_recp%2522%253A%25221.00000%2522%2C%2522form_goals%2522%253A3%2C%2522pcs%2522%253A%25223%2522%2C%2522webvisor%2522%253A%257B%2522arch_type%2522%253A%2522x86%2522%2C%2522date%2522%253A%25222021-06-26%252B05%253A26%253A24%2522%2C%2522forms%2522%253A3%2C%2522recp%2522%253A%25221.00000%2522%257D%2C%2522eu%2522%253A2%257D%2C%2522h4xr0x%2522%253A%257B%257D%257D&rn=301741228&browser-info=gdpr%3A14%3Aet%3A1625409667%3Aw%3A1583x293%3Av%3A581%3Az%3A-300%3Ai%3A20210704094107%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmy9rf%3Awe%3A1%3Ati%3A2%3Ast%3A1625409667".
+(anonymous) @ run_content_script.js:182
+(anonymous) @ run_content_script.js:181
+(anonymous) @ run_content_script.js:129
+Ih @ run_content_script.js:95
+(anonymous) @ run_content_script.js:94
+09:41:31.401 run_content_script.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=8&wv-hit=695541410&page-url=https%3A%2F%2Fgamesense.is%2Flogin%3F%257B%2522settings%2522%253A%257B%2522button_goals%2522%253A3%2C%2522c_recp%2522%253A%25221.00000%2522%2C%2522form_goals%2522%253A3%2C%2522pcs%2522%253A%25223%2522%2C%2522webvisor%2522%253A%257B%2522arch_type%2522%253A%2522x86%2522%2C%2522date%2522%253A%25222021-06-26%252B05%253A26%253A24%2522%2C%2522forms%2522%253A3%2C%2522recp%2522%253A%25221.00000%2522%257D%2C%2522eu%2522%253A2%257D%2C%2522h4xr0x%2522%253A%257B%257D%257D&rn=926419791&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625409691%3Aw%3A1583x293%3Av%3A581%3Az%3A-300%3Ai%3A20210704094131%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmy9rf%3Awe%3A1%3Ati%3A2%3Ast%3A1625409691".
+(anonymous) @ run_content_script.js:182
+(anonymous) @ run_content_script.js:181
+(anonymous) @ run_content_script.js:129
+Ih @ run_content_script.js:95
+(anonymous) @ run_content_script.js:94
+09:41:33.400 run_content_script.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=9&wv-hit=695541410&page-url=https%3A%2F%2Fgamesense.is%2Flogin%3F%257B%2522settings%2522%253A%257B%2522button_goals%2522%253A3%2C%2522c_recp%2522%253A%25221.00000%2522%2C%2522form_goals%2522%253A3%2C%2522pcs%2522%253A%25223%2522%2C%2522webvisor%2522%253A%257B%2522arch_type%2522%253A%2522x86%2522%2C%2522date%2522%253A%25222021-06-26%252B05%253A26%253A24%2522%2C%2522forms%2522%253A3%2C%2522recp%2522%253A%25221.00000%2522%257D%2C%2522eu%2522%253A2%257D%2C%2522h4xr0x%2522%253A%257B%257D%257D&rn=767113623&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625409693%3Aw%3A1583x293%3Av%3A581%3Az%3A-300%3Ai%3A20210704094133%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmy9rf%3Awe%3A1%3Ati%3A2%3Ast%3A1625409693".
+(anonymous) @ run_content_script.js:182
+(anonymous) @ run_content_script.js:181
+(anonymous) @ run_content_script.js:129
+Ih @ run_content_script.js:95
+(anonymous) @ run_content_script.js:94
+09:41:35.967 run_content_script.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=10&wv-hit=695541410&page-url=https%3A%2F%2Fgamesense.is%2Flogin%3F%257B%2522settings%2522%253A%257B%2522button_goals%2522%253A3%2C%2522c_recp%2522%253A%25221.00000%2522%2C%2522form_goals%2522%253A3%2C%2522pcs%2522%253A%25223%2522%2C%2522webvisor%2522%253A%257B%2522arch_type%2522%253A%2522x86%2522%2C%2522date%2522%253A%25222021-06-26%252B05%253A26%253A24%2522%2C%2522forms%2522%253A3%2C%2522recp%2522%253A%25221.00000%2522%257D%2C%2522eu%2522%253A2%257D%2C%2522h4xr0x%2522%253A%257B%257D%257D&rn=703954663&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625409696%3Aw%3A1583x293%3Av%3A581%3Az%3A-300%3Ai%3A20210704094135%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmy9rf%3Awe%3A1%3Ati%3A2%3Ast%3A1625409696".
+(anonymous) @ run_content_script.js:182
+(anonymous) @ run_content_script.js:181
+(anonymous) @ run_content_script.js:129
+Ih @ run_content_script.js:95
+(anonymous) @ run_content_script.js:94
+09:42:11.991 run_content_script.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=11&wv-hit=695541410&page-url=https%3A%2F%2Fgamesense.is%2Flogin%3F%257B%2522settings%2522%253A%257B%2522button_goals%2522%253A3%2C%2522c_recp%2522%253A%25221.00000%2522%2C%2522form_goals%2522%253A3%2C%2522pcs%2522%253A%25223%2522%2C%2522webvisor%2522%253A%257B%2522arch_type%2522%253A%2522x86%2522%2C%2522date%2522%253A%25222021-06-26%252B05%253A26%253A24%2522%2C%2522forms%2522%253A3%2C%2522recp%2522%253A%25221.00000%2522%257D%2C%2522eu%2522%253A2%257D%2C%2522h4xr0x%2522%253A%257B%257D%257D&rn=957291002&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625409732%3Aw%3A1583x293%3Av%3A581%3Az%3A-300%3Ai%3A20210704094211%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmy9rf%3Awe%3A1%3Ati%3A2%3Ast%3A1625409732".
+(anonymous) @ run_content_script.js:182
+(anonymous) @ run_content_script.js:181
+(anonymous) @ run_content_script.js:129
+Ih @ run_content_script.js:95
+(anonymous) @ run_content_script.js:94
+09:42:24.037 run_content_script.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=12&wv-hit=695541410&page-url=https%3A%2F%2Fgamesense.is%2Flogin%3F%257B%2522settings%2522%253A%257B%2522button_goals%2522%253A3%2C%2522c_recp%2522%253A%25221.00000%2522%2C%2522form_goals%2522%253A3%2C%2522pcs%2522%253A%25223%2522%2C%2522webvisor%2522%253A%257B%2522arch_type%2522%253A%2522x86%2522%2C%2522date%2522%253A%25222021-06-26%252B05%253A26%253A24%2522%2C%2522forms%2522%253A3%2C%2522recp%2522%253A%25221.00000%2522%257D%2C%2522eu%2522%253A2%257D%2C%2522h4xr0x%2522%253A%257B%257D%257D&rn=850426436&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625409744%3Aw%3A1583x293%3Av%3A581%3Az%3A-300%3Ai%3A20210704094223%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmy9rf%3Awe%3A1%3Ati%3A2%3Ast%3A1625409744".
+(anonymous) @ run_content_script.js:182
+(anonymous) @ run_content_script.js:181
+(anonymous) @ run_content_script.js:129
+Ih @ run_content_script.js:95
+(anonymous) @ run_content_script.js:94
+09:42:28.725 run_content_script.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=13&wv-hit=695541410&page-url=https%3A%2F%2Fgamesense.is%2Flogin%3F%257B%2522settings%2522%253A%257B%2522button_goals%2522%253A3%2C%2522c_recp%2522%253A%25221.00000%2522%2C%2522form_goals%2522%253A3%2C%2522pcs%2522%253A%25223%2522%2C%2522webvisor%2522%253A%257B%2522arch_type%2522%253A%2522x86%2522%2C%2522date%2522%253A%25222021-06-26%252B05%253A26%253A24%2522%2C%2522forms%2522%253A3%2C%2522recp%2522%253A%25221.00000%2522%257D%2C%2522eu%2522%253A2%257D%2C%2522h4xr0x%2522%253A%257B%257D%257D&rn=1046830059&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625409749%3Aw%3A1583x293%3Av%3A581%3Az%3A-300%3Ai%3A20210704094228%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmy9rf%3Awe%3A1%3Ati%3A2%3Ast%3A1625409749".
+(anonymous) @ run_content_script.js:182
+(anonymous) @ run_content_script.js:181
+(anonymous) @ run_content_script.js:129
+Ih @ run_content_script.js:95
+(anonymous) @ run_content_script.js:94
+09:42:28.727 run_content_script.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=3&wv-hit=695541410&page-url=https%3A%2F%2Fgamesense.is%2Flogin%3F%257B%2522settings%2522%253A%257B%2522button_goals%2522%253A3%2C%2522c_recp%2522%253A%25221.00000%2522%2C%2522form_goals%2522%253A3%2C%2522pcs%2522%253A%25223%2522%2C%2522webvisor%2522%253A%257B%2522arch_type%2522%253A%2522x86%2522%2C%2522date%2522%253A%25222021-06-26%252B05%253A26%253A24%2522%2C%2522forms%2522%253A3%2C%2522recp%2522%253A%25221.00000%2522%257D%2C%2522eu%2522%253A2%257D%2C%2522h4xr0x%2522%253A%257B%257D%257D&rn=79468177&wv-type=3&browser-info=bt%3A1%3Agdpr%3A14%3Aet%3A1625409749%3Aw%3A1583x293%3Av%3A581%3Az%3A-300%3Ai%3A20210704094228%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmy9rf%3Awe%3A1%3Ati%3A2%3Ast%3A1625409749".
+(anonymous) @ run_content_script.js:182
+(anonymous) @ run_content_script.js:181
+(anonymous) @ run_content_script.js:129
+Ih @ run_content_script.js:95
+(anonymous) @ run_content_script.js:94
+09:40:37.408 run_content_script.js:182 XHR finished loading: GET "https://mc.yandex.ru/watch/82143082?wmode=7&page-url=https%3A%2F%2Fgamesense.is%2Flogin%3F%257B%2522settings%2522%253A%257B%2522button_goals%2522%253A3%2C%2522c_recp%2522%253A%25221.00000%2522%2C%2522form_goals%2522%253A3%2C%2522pcs%2522%253A%25223%2522%2C%2522webvisor%2522%253A%257B%2522arch_type%2522%253A%2522x86%2522%2C%2522date%2522%253A%25222021-06-26%252B05%253A26%253A24%2522%2C%2522forms%2522%253A3%2C%2522recp%2522%253A%25221.00000%2522%257D%2C%2522eu%2522%253A2%257D%2C%2522h4xr0x%2522%253A%257B%257D%257D&charset=utf-8&ut=noindex&browser-info=pv%3A1%3Agdpr%3A14%3Avf%3A2fhsb6k71knxmy9rf%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A581%3Acn%3A1%3Adp%3A0%3Als%3A886591777679%3Ahid%3A695541410%3Az%3A-300%3Ai%3A20210704094037%3Aet%3A1625409637%3Ac%3A1%3Arn%3A564333268%3Arqn%3A56%3Au%3A1624771784271512339%3Aw%3A1583x293%3As%3A1600x900x24%3Ask%3A1%3Acpf%3A1%3Ans%3A1625409634366%3Ads%3A0%2C0%2C289%2C5%2C546%2C0%2C%2C539%2C0%2C%2C%2C%2C1497%3Adsn%3A0%2C0%2C289%2C5%2C545%2C0%2C%2C647%2C0%2C%2C%2C%2C1496%3Awv%3A2%3Arqnl%3A1%3Aadb%3A2%3Ati%3A2%3Ast%3A1625409637%3At%3AGameSense".
+(anonymous) @ run_content_script.js:182
+(anonymous) @ run_content_script.js:181
+(anonymous) @ run_content_script.js:129
+Ih @ run_content_script.js:95
+(anonymous) @ run_content_script.js:94
+09:42:14.497 function doQuery(response) {
+	var host = response.getAttribute('data-host');
+	var tld = response.getAttribute('data-tld');
+	var server = response.getAttribute('data-server');
+
+	if ( server != 'undefined' ) {
+		sendQuery(response, server + 'domain/' + host);
+	} else {
+		handleError(response, 'The ' + tld + ' registry does not currently operate an RDAP server registered with IANA.');
+	}
+}
+09:42:14.513 undefined
+09:42:29.452 Navigated to https://gamesense.is/login/?%7B%22settings%22%3A%7B%22button_goals%22%3A3,%22c_recp%22%3A%221.00000%22,%22form_goals%22%3A3,%22pcs%22%3A%223%22,%22webvisor%22%3A%7B%22arch_type%22%3A%22x86%22,%22date%22%3A%222021-06-26%2B05%3A26%3A24%22,%22forms%22%3A3,%22recp%22%3A%221.00000%22%7D,%22eu%22%3A2%7D,%22h4xr0x%22%3A%7B%7D%7D
+09:42:29.781 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+09:42:30.130 gamesense.is/:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+09:42:30.176 VM1125:2 Custom JavaScript for websites enabled.
+Please visit https://xcv58.xyz/inject-js if you have any issue.
+09:42:49.824 XHR finished loading: GET "<URL>".
+09:42:49.824 XHR finished loading: GET "<URL>".
+09:42:49.824 XHR finished loading: GET "<URL>".
+09:42:49.824 XHR finished loading: GET "<URL>".
+09:42:49.824 XHR finished loading: GET "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+09:42:42.055 XHR finished loading: POST "<URL>".
+10:06:15.704 }
+
+function processVCardArray(vcard) {
+	var vtable = document.createElement('table');
+
+	for (var i = 0 ; i < vcard.length ; i++) {
+		var node = vcard[i];
+
+		var type = node[0];
+		var value = node[3];
+
+		if ('version' == type) {
+			continue;
+		} else if ('fn' == type) {
+			type = 'Name';
+		} else if ('n' == type) {
+			continue;
+		} else if ('org' == type) {
+			type = 'Organization';
+		} else if ('tel' == type) {
+			type = 'Phone';
+
+			if (node[1].type) for (var j = 0 ; j < node[1].type ; j++) if ('fax' == node[1].type[j]) {
+				type = 'Fax';
+				break;
+			}
+
+			var link = document.createElement('a');
+			link.href = (0 == value.indexOf('tel:') ? '' : 'tel:') + value;
+			link.appendChild(document.createTextNode(value));
+
+			value = link;
+		} else if ('adr' == type) {
+			type = 'Address';
+
+			if (node[1].label) {
+				var div = document.createElement('div');
+				strings = node[1].label.split("\n");
+				
+				for (var j = 0 ; j < strings.length ; j++) {
+					div.appendChild(document.createTextNode(strings[j]));
+					if (j < strings.length - 1) div.appendChild(document.createElement('br'));
+				}
+10:06:15.720 axios.min.js:1 Uncaught SyntaxError: Unexpected token '}'
+10:06:33.817 Navigated to https://gamesense.is/login/
+10:06:34.020 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+10:06:34.542 gamesense.is/:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+10:06:34.557 VM1703:2 Custom JavaScript for websites enabled.
+Please visit https://xcv58.xyz/inject-js if you have any issue.
+10:06:37.726 XHR finished loading: GET "<URL>".
+10:06:37.726 XHR finished loading: GET "<URL>".
+10:06:37.726 XHR finished loading: GET "<URL>".
+10:06:37.726 XHR finished loading: GET "<URL>".
+10:06:37.726 XHR finished loading: GET "<URL>".
+10:06:37.726 XHR finished loading: GET "<URL>".
+10:06:35.558 VM1692:1 XHR finished loading: GET "https://api.gamesense.is/v1/account/@me".
+(anonymous) @ VM1692:1
+t.exports @ VM1692:1
+t.exports @ VM1692:1
+10:06:35.560 VM1710:182 XHR finished loading: GET "https://mc.yandex.ru/watch/82143082?wmode=7&page-url=https%3A%2F%2Fgamesense.is%2Flogin%2F&charset=utf-8&ut=noindex&browser-info=pv%3A1%3Agdpr%3A14%3Avf%3A2fhsb6k71knxmycx7%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A581%3Acn%3A1%3Adp%3A0%3Als%3A886591777679%3Ahid%3A244275837%3Az%3A-300%3Ai%3A202107040100635%3Aet%3A1625411195%3Ac%3A1%3Arn%3A793648319%3Arqn%3A74%3Au%3A1624771784271512339%3Aw%3A1600x236%3As%3A1600x900x24%3Ask%3A1%3Acpf%3A1%3Ans%3A1625411192672%3Ads%3A0%2C0%2C282%2C4%2C575%2C0%2C%2C703%2C0%2C%2C%2C%2C1600%3Adsn%3A0%2C0%2C282%2C4%2C575%2C0%2C%2C735%2C0%2C%2C%2C%2C1600%3Awv%3A2%3Arqnl%3A1%3Aadb%3A2%3Ati%3A2%3Ast%3A1625411195%3At%3AGameSense".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:06:36.222 VM1692:1 XHR finished loading: GET "https://api.gamesense.is/v1/products/".
+(anonymous) @ VM1692:1
+t.exports @ VM1692:1
+t.exports @ VM1692:1
+10:06:37.076 VM1710:182 XHR finished loading: GET "https://mc.yandex.ru/watch/82143082?page-url=https%3A%2F%2Fgamesense.is%2Fprofile&page-ref=https%3A%2F%2Fgamesense.is%2Flogin&charset=utf-8&ut=noindex&browser-info=pv%3A1%3Aar%3A1%3Agdpr%3A14%3Avf%3A2fhsb6k71knxmycx7%3Afu%3A1%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A581%3Acn%3A1%3Adp%3A0%3Als%3A886591777679%3Ahid%3A244275837%3Az%3A-300%3Ai%3A202107040100636%3Aet%3A1625411197%3Ac%3A1%3Arn%3A766359179%3Arqn%3A75%3Au%3A1624771784271512339%3Aw%3A1600x236%3As%3A1600x900x24%3Ask%3A1%3Acpf%3A1%3Aeu%3A2%3Ans%3A1625411192672%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C2405%2C2405%2C8%2C%3Adsn%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C2405%2C2405%2C8%2C%3Awv%3A2%3Arqnl%3A1%3Aadb%3A2%3Ati%3A2%3Ast%3A1625411197%3At%3AGameSense".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:06:37.658 VM1692:1 XHR finished loading: GET "https://api.gamesense.is/v1/download/".
+(anonymous) @ VM1692:1
+t.exports @ VM1692:1
+t.exports @ VM1692:1
+10:08:41.860 VM1692:1 XHR finished loading: GET "https://api.gamesense.is/v1/resellers/countries".
+(anonymous) @ VM1692:1
+t.exports @ VM1692:1
+t.exports @ VM1692:1
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:42.204 XHR finished loading: POST "<URL>".
+10:06:36.389 VM1712:39 XHR finished loading: POST "https://www.google-analytics.com/j/collect?v=1&_v=j91&a=493064307&t=screenview&_s=1&cd=login&dl=https%3A%2F%2Fgamesense.is%2Flogin%2F&ul=en-us&de=UTF-8&dt=GameSense&sd=24-bit&sr=1600x900&vp=1600x236&je=0&_u=CACAAEABEAAAAC~&jid=577187717&gjid=1263556593&cid=167011044.1624771781&tid=G-KGH9GMX858&_gid=1132962649.1625393290&_r=1&_slc=1&z=1375793919".
+wd @ VM1712:39
+pe @ VM1712:38
+Sa @ VM1712:43
+Ha.D @ VM1712:41
+pc.send @ VM1712:76
+X.b.<computed> @ VM1712:56
+Z.v @ VM1712:92
+Z.D @ VM1712:91
+N @ VM1712:92
+(anonymous) @ VM1691:1
+m @ VM1691:1
+k @ VM1691:1
+E @ VM1691:1
+(anonymous) @ VM1691:1
+(anonymous) @ VM1692:1
+(anonymous) @ VM1692:1
+(anonymous) @ VM1692:1
+r @ VM1692:1
+r @ VM1692:1
+jt @ VM1692:1
+(anonymous) @ VM1692:1
+r @ VM1692:1
+(anonymous) @ VM1692:1
+(anonymous) @ VM1692:1
+(anonymous) @ VM1692:1
+x @ VM1692:1
+r @ VM1692:1
+r @ VM1692:1
+(anonymous) @ VM1692:1
+(anonymous) @ VM1692:1
+(anonymous) @ VM1689:1
+v @ VM1692:1
+(anonymous) @ VM1692:1
+(anonymous) @ VM1692:1
+r @ VM1692:1
+l @ VM1692:1
+Show 6 more frames
+10:06:38.567 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=1&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=522369826&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411198%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100637%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411198".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:06:38.753 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=1&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=990728263&wv-type=3&browser-info=bt%3A1%3Agdpr%3A14%3Aet%3A1625411198%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100637%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411198".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:06:42.182 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=2&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=182748483&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411202%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100641%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411202".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:06:42.184 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=2&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=886953378&wv-type=3&browser-info=bt%3A1%3Agdpr%3A14%3Aet%3A1625411202%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100641%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411202".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:06:44.202 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=3&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=515453633&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411204%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100644%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411204".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:07:04.972 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=4&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=702816800&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411225%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100704%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411225".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:07:28.996 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=5&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=778088360&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411249%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100728%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411249".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:07:37.030 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=6&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=123356802&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411257%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100736%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411257".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:07:41.043 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=7&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=75073499&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411261%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100740%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411261".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:07:57.466 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=3&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=172407157&wv-type=3&browser-info=bt%3A1%3Agdpr%3A14%3Aet%3A1625411277%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100757%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411277".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:07:57.482 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=8&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=501959879&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411277%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100757%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411277".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:07:59.484 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=4&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=944034655&wv-type=3&browser-info=bt%3A1%3Agdpr%3A14%3Aet%3A1625411279%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100759%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411279".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:07:59.541 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=9&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=1003983037&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411279%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100759%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411279".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:01.511 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=5&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=888158702&wv-type=3&browser-info=bt%3A1%3Agdpr%3A14%3Aet%3A1625411281%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100801%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411281".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:01.511 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=10&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=934640881&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411281%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100801%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411281".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:06.434 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wv-check=52545&wv-type=0&wmode=0&wv-part=1&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=976199410&browser-info=gdpr%3A14%3Aet%3A1625411286%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100806%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411286".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:22.035 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=11&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=1010921315&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411302%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100821%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411302".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:24.047 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=6&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=327974581&wv-type=3&browser-info=bt%3A1%3Agdpr%3A14%3Aet%3A1625411304%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100823%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411304".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:24.049 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=12&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=964447679&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411304%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100823%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411304".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:26.052 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=13&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=711690560&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411306%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100825%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411306".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:28.061 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=7&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=304858684&wv-type=3&browser-info=bt%3A1%3Agdpr%3A14%3Aet%3A1625411308%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100827%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411308".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:28.063 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=14&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=1055403410&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411308%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100827%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411308".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:30.083 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=15&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=380428243&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411310%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100829%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411310".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:32.114 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=16&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=260239410&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411312%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100831%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411312".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:34.451 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=8&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=972873763&wv-type=3&browser-info=bt%3A1%3Agdpr%3A14%3Aet%3A1625411314%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100834%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411314".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:34.452 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=17&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=752098534&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411314%3Aw%3A1583x236%3Av%3A581%3Az%3A-300%3Ai%3A202107040100834%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411314".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:36.370 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=18&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=1034929233&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411316%3Aw%3A1583x514%3Av%3A581%3Az%3A-300%3Ai%3A202107040100836%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411316".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:36.414 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wv-check=47464&wv-type=0&wmode=0&wv-part=2&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=218194361&browser-info=gdpr%3A14%3Aet%3A1625411316%3Aw%3A1583x514%3Av%3A581%3Az%3A-300%3Ai%3A202107040100836%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411316".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:38.381 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=19&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=307432774&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411318%3Aw%3A1583x514%3Av%3A581%3Az%3A-300%3Ai%3A202107040100838%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411318".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:40.367 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=9&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=539394382&wv-type=3&browser-info=bt%3A1%3Agdpr%3A14%3Aet%3A1625411320%3Aw%3A1583x514%3Av%3A581%3Az%3A-300%3Ai%3A202107040100840%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411320".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:40.382 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=20&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=368779073&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411320%3Aw%3A1583x514%3Av%3A581%3Az%3A-300%3Ai%3A202107040100840%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411320".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:42.398 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=10&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=11913542&wv-type=3&browser-info=bt%3A1%3Agdpr%3A14%3Aet%3A1625411322%3Aw%3A1583x514%3Av%3A581%3Az%3A-300%3Ai%3A202107040100842%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411322".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:42.401 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=21&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=263580914&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411322%3Aw%3A1583x514%3Av%3A581%3Az%3A-300%3Ai%3A202107040100842%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411322".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:44.411 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=22&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=987442027&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411324%3Aw%3A1583x514%3Av%3A581%3Az%3A-300%3Ai%3A202107040100844%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411324".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:46.375 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=11&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=986769192&wv-type=3&browser-info=bt%3A1%3Agdpr%3A14%3Aet%3A1625411326%3Aw%3A1583x514%3Av%3A581%3Az%3A-300%3Ai%3A202107040100846%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411326".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:46.405 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=23&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=415267591&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411326%3Aw%3A1583x514%3Av%3A581%3Az%3A-300%3Ai%3A202107040100846%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411326".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:48.444 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=24&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=230111712&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411328%3Aw%3A1583x514%3Av%3A581%3Az%3A-300%3Ai%3A202107040100848%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411328".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:50.891 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=12&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=814421924&wv-type=3&browser-info=bt%3A1%3Agdpr%3A14%3Aet%3A1625411330%3Aw%3A1583x514%3Av%3A581%3Az%3A-300%3Ai%3A202107040100850%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411330".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:51.229 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=25&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=454689546&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411331%3Aw%3A1583x514%3Av%3A581%3Az%3A-300%3Ai%3A202107040100850%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411331".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:51.230 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wv-check=18285&wv-type=0&wmode=0&wv-part=3&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=782687626&browser-info=gdpr%3A14%3Aet%3A1625411331%3Aw%3A1583x514%3Av%3A581%3Az%3A-300%3Ai%3A202107040100850%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411331".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:51.231 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=26&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=707766463&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625411331%3Aw%3A1583x514%3Av%3A581%3Az%3A-300%3Ai%3A202107040100850%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411331".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:08:51.232 VM1710:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=13&wv-hit=244275837&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=501742771&wv-type=3&browser-info=bt%3A1%3Agdpr%3A14%3Aet%3A1625411331%3Aw%3A1583x514%3Av%3A581%3Az%3A-300%3Ai%3A202107040100850%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625411331".
+(anonymous) @ VM1710:182
+(anonymous) @ VM1710:181
+(anonymous) @ VM1710:129
+Ih @ VM1710:95
+(anonymous) @ VM1710:94
+10:06:37.591 VM1692:1 GET https://api.gamesense.is/v1/licenses/ 400
+(anonymous) @ VM1692:1
+t.exports @ VM1692:1
+t.exports @ VM1692:1
+10:06:37.599 VM1692:1 XHR failed loading: GET "https://api.gamesense.is/v1/licenses/".
+(anonymous) @ VM1692:1
+t.exports @ VM1692:1
+t.exports @ VM1692:1
+10:08:50.890 VM1692:1 XHR finished loading: PUT "https://api.gamesense.is/v1/payments/new".
+(anonymous) @ VM1692:1
+t.exports @ VM1692:1
+t.exports @ VM1692:1
+10:08:52.446 Navigated to https://paydash.co.uk/checkout/f381ac08-ca77-4117-bac3-4c72bada5d25
+10:08:52.642 f381ac08-ca77-4117-bac3-4c72bada5d25:1 [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) input.form-control
+10:08:52.918 f381ac08-ca77-4117-bac3-4c72bada5d25:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+10:08:53.688 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+10:08:53.858 VM39:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ content.js:57
+(anonymous) @ content.js:71
+t.activateScript @ VM79:1
+(anonymous) @ VM79:1
+t.run @ VM79:1
+(anonymous) @ VM79:1
+(anonymous) @ VM79:1
+10:08:54.232 DevTools failed to load source map: Could not load content for https://paydash.co.uk/pay/checkout/assets/js/popper.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+10:09:05.109 f381ac08-ca77-4117-bac3-4c72bada5d25:1 [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) <input type=​"password" inputmode=​"numeric" class=​"form-control" name=​"cardCVV" placeholder=​"CCV" minlength=​"3" maxlength=​"3" required>​…​</input>​
+10:09:05.527 f381ac08-ca77-4117-bac3-4c72bada5d25:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+10:09:06.002 Navigated to https://paydash.co.uk/checkout/f381ac08-ca77-4117-bac3-4c72bada5d25
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:10:06.723 XHR finished loading: GET "<URL>".
+10:09:06.564 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+(anonymous) @ VM100:71
+t.activateScript @ VM79:1
+(anonymous) @ VM79:1
+t.run @ VM79:1
+(anonymous) @ VM79:1
+(anonymous) @ VM79:1
+10:09:21.147 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:09:36.347 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:09:51.494 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:10:06.676 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:10:21.836 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:10:37.006 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:10:52.976 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:11:08.167 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:11:23.343 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:11:38.502 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:11:53.657 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:12:08.818 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:12:24.001 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:12:39.169 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:12:54.336 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:13:09.953 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:13:25.958 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:13:41.941 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:13:57.952 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:14:13.976 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:14:29.949 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:14:45.946 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:15:01.946 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:15:17.940 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:15:33.942 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:15:49.969 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:16:05.948 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:16:21.940 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:16:37.946 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:16:53.947 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:17:09.942 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:17:25.968 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:17:41.958 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:17:57.959 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:18:13.946 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:18:29.934 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:18:45.943 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:19:01.969 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:19:17.952 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:19:33.956 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:19:49.944 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:20:05.959 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:20:21.943 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:20:37.938 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:20:53.942 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:21:09.956 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:21:25.944 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:21:41.950 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:21:57.936 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:22:13.973 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:22:29.949 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:22:45.982 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:23:01.962 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:23:17.955 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:23:33.945 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:23:49.934 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:24:05.950 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:24:21.964 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:24:37.944 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:24:53.947 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:25:09.944 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:25:25.946 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:25:41.953 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:25:57.964 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:26:13.959 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:26:29.959 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:26:45.951 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:27:01.939 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:27:17.936 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:27:33.947 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:27:49.954 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:28:05.955 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:28:21.935 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:28:37.969 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:28:53.948 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:29:09.953 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:29:25.944 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:29:41.951 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:29:57.968 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:30:13.956 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:30:29.943 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:30:45.947 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:31:01.124 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:31:16.316 VM80:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ VM80:2
+ajax @ VM80:2
+checkStatus @ VM100:57
+10:09:06.780 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+10:09:06.830 DevTools failed to load source map: Could not load content for https://paydash.co.uk/pay/checkout/assets/js/popper.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+10:10:33.090 https://unpkg.com/axios/dist
+
+get https://unpkg.com/axios/dist
+
+10:10:33.105 VM246:3 Uncaught SyntaxError: Unexpected identifier
+10:10:40.537 fetch("https://unpkg.com/axios/dist")
+10:10:40.551 Promise {<pending>}__proto__: Promise[[PromiseState]]: "fulfilled"[[PromiseResult]]: Response
+10:10:40.789 VM294:1 Fetch finished loading: GET "https://unpkg.com/axios/dist".
+(anonymous) @ VM294:1
+10:10:40.928 VM294:1 GET https://unpkg.com/axios@0.21.1/dist 404
+(anonymous) @ VM294:1
+10:10:40.990 VM294:1 Fetch failed loading: GET "https://unpkg.com/axios@0.21.1/dist".
+(anonymous) @ VM294:1
+10:31:15.787 
+function isEmpty(el) {
+	return !$.trim(el.html());
+}
+
+function getAddress($attr = null) {
+	var query_str = window.location.search,
+		page_addr = window.location.href,
+		character = ( query_str !== '' ) ? '&' : '?';
+
+	if ( $attr !== null ) {
+		page_addr += character + $attr;
+	}
+
+	return page_addr;
+}
+
+function safePreventDefault(e) {
+	if ( e.preventDefault ) {
+		e.preventDefault();
+
+	} else {
+		e.returnValue = false;
+	}
+
+	e.stopPropagation();
+}
+10:31:15.805 undefined
+10:31:23.340 Navigated to https://paydash.co.uk/checkout/f381ac08-ca77-4117-bac3-4c72bada5d25
+10:31:23.854 f381ac08-ca77-4117-bac3-4c72bada5d25:1 [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) <input type=​"password" inputmode=​"numeric" class=​"form-control" name=​"cardCVV" placeholder=​"CCV" minlength=​"3" maxlength=​"3" required>​#shadow-root (user-agent)</input>​
+10:31:23.909 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+10:31:24.219 f381ac08-ca77-4117-bac3-4c72bada5d25:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+10:31:24.608 DevTools failed to load source map: Could not load content for https://paydash.co.uk/pay/checkout/assets/js/popper.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:32:26.608 XHR finished loading: GET "<URL>".
+10:31:42.848 f381ac08-ca77-4117-bac3-4c72bada5d25:1 An invalid form control with name='terms' is not focusable.
+10:31:42.848 f381ac08-ca77-4117-bac3-4c72bada5d25:1 An invalid form control with name='mor' is not focusable.
+10:41:41.943 }
+
+function processEntity(object, table) {
+	if (object.handle) addTableRow(table, 'Handle:', object.handle);
+
+	if (object.publicIds) {
+		for (var i = 0 ; i < object.publicIds.length ; i++) addTableRow(table, object.publicIds[i].type + ':', object.publicIds[i].identifier);
+	}
+
+	if (object.roles) addTableRow(table, 'Roles:', createList(object.roles));
+
+	if (object.vcardArray && object.vcardArray[1]) {
+		var vtable = processVCardArray(object.vcardArray[1]);
+		addTableRow(table, 'Contact Information:', vtable);
+	}
+
+	processCommonObjectProperties(object, table);
+}
+10:41:41.958 VM1555:1 Uncaught SyntaxError: Unexpected token '}'
+10:41:54.248 Navigated to https://paydash.co.uk/checkout/f381ac08-ca77-4117-bac3-4c72bada5d25
+10:41:54.591 f381ac08-ca77-4117-bac3-4c72bada5d25:1 [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) <input type=​"password" inputmode=​"numeric" class=​"form-control" name=​"cardCVV" placeholder=​"CCV" minlength=​"3" maxlength=​"3" required>​…​</input>​
+10:41:54.862 f381ac08-ca77-4117-bac3-4c72bada5d25:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+10:41:54.952 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+10:41:55.320 DevTools failed to load source map: Could not load content for https://paydash.co.uk/pay/checkout/assets/js/popper.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+10:41:55.323 jquery.min.js:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ jquery.min.js:2
+ajax @ jquery.min.js:2
+checkStatus @ VM1614:57
+(anonymous) @ VM1614:71
+t.activateScript @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+t.run @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+10:42:03.874 Navigated to https://paydash.co.uk/checkout/f381ac08-ca77-4117-bac3-4c72bada5d25
+10:42:04.252 f381ac08-ca77-4117-bac3-4c72bada5d25:1 [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) <input type=​"password" inputmode=​"numeric" class=​"form-control" name=​"cardCVV" placeholder=​"CCV" minlength=​"3" maxlength=​"3" required>​…​</input>​
+10:42:04.541 f381ac08-ca77-4117-bac3-4c72bada5d25:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+10:42:04.557 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+10:42:05.037 jquery.min.js:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ jquery.min.js:2
+ajax @ jquery.min.js:2
+checkStatus @ VM1667:57
+(anonymous) @ VM1667:71
+t.activateScript @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+t.run @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+10:42:05.039 DevTools failed to load source map: Could not load content for https://paydash.co.uk/pay/checkout/assets/js/popper.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+10:42:20.256 jquery.min.js:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ jquery.min.js:2
+ajax @ jquery.min.js:2
+checkStatus @ VM1667:57
+10:42:35.451 jquery.min.js:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ jquery.min.js:2
+ajax @ jquery.min.js:2
+checkStatus @ VM1667:57
+10:42:44.154 Navigated to https://paydash.co.uk/checkout/f381ac08-ca77-4117-bac3-4c72bada5d25
+10:42:44.513 f381ac08-ca77-4117-bac3-4c72bada5d25:1 [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) <input type=​"password" inputmode=​"numeric" class=​"form-control" name=​"cardCVV" placeholder=​"CCV" minlength=​"3" maxlength=​"3" required>​…​</input>​
+10:42:44.842 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+10:42:44.851 f381ac08-ca77-4117-bac3-4c72bada5d25:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+10:42:45.176 DevTools failed to load source map: Could not load content for https://paydash.co.uk/pay/checkout/assets/js/popper.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+10:42:45.228 jquery.min.js:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ jquery.min.js:2
+ajax @ jquery.min.js:2
+checkStatus @ VM1760:57
+(anonymous) @ VM1760:71
+t.activateScript @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+t.run @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+10:42:53.010 Navigated to https://paydash.co.uk/checkout/f381ac08-ca77-4117-bac3-4c72bada5d25
+10:42:53.347 f381ac08-ca77-4117-bac3-4c72bada5d25:1 [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) <input type=​"password" inputmode=​"numeric" class=​"form-control" name=​"cardCVV" placeholder=​"CCV" minlength=​"3" maxlength=​"3" required>​…​</input>​
+10:42:53.633 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+10:42:53.660 f381ac08-ca77-4117-bac3-4c72bada5d25:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+10:42:53.975 DevTools failed to load source map: Could not load content for https://paydash.co.uk/pay/checkout/assets/js/popper.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+10:42:54.176 jquery.min.js:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ jquery.min.js:2
+ajax @ jquery.min.js:2
+checkStatus @ VM1811:57
+(anonymous) @ VM1811:71
+t.activateScript @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+t.run @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+10:43:01.281 Navigated to https://paydash.co.uk/checkout/f381ac08-ca77-4117-bac3-4c72bada5d25
+10:43:01.593 f381ac08-ca77-4117-bac3-4c72bada5d25:1 [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) <input type=​"password" inputmode=​"numeric" class=​"form-control" name=​"cardCVV" placeholder=​"CCV" minlength=​"3" maxlength=​"3" required>​…​</input>​
+10:43:01.677 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+10:43:01.856 f381ac08-ca77-4117-bac3-4c72bada5d25:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+10:43:02.491 DevTools failed to load source map: Could not load content for https://paydash.co.uk/pay/checkout/assets/js/popper.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+10:43:02.562 jquery.min.js:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ jquery.min.js:2
+ajax @ jquery.min.js:2
+checkStatus @ VM1864:57
+(anonymous) @ VM1864:71
+t.activateScript @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+t.run @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+10:43:16.466 Navigated to https://paydash.co.uk/checkout/f381ac08-ca77-4117-bac3-4c72bada5d25
+10:43:16.676 f381ac08-ca77-4117-bac3-4c72bada5d25:1 [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) <input type=​"password" inputmode=​"numeric" class=​"form-control" name=​"cardCVV" placeholder=​"CCV" minlength=​"3" maxlength=​"3" required>​…​</input>​
+10:43:17.061 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+10:43:17.101 f381ac08-ca77-4117-bac3-4c72bada5d25:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+10:43:17.494 DevTools failed to load source map: Could not load content for https://paydash.co.uk/pay/checkout/assets/js/popper.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+10:43:17.701 jquery.min.js:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ jquery.min.js:2
+ajax @ jquery.min.js:2
+checkStatus @ VM1923:57
+(anonymous) @ VM1923:71
+t.activateScript @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+t.run @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+10:43:24.637 Navigated to https://paydash.co.uk/checkout/f381ac08-ca77-4117-bac3-4c72bada5d25
+10:43:24.935 f381ac08-ca77-4117-bac3-4c72bada5d25:1 [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) <input type=​"password" inputmode=​"numeric" class=​"form-control" name=​"cardCVV" placeholder=​"CCV" minlength=​"3" maxlength=​"3" required>​…​</input>​
+10:43:25.177 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+10:43:25.222 f381ac08-ca77-4117-bac3-4c72bada5d25:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+10:43:25.580 DevTools failed to load source map: Could not load content for https://paydash.co.uk/pay/checkout/assets/js/popper.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+10:43:25.776 jquery.min.js:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ jquery.min.js:2
+ajax @ jquery.min.js:2
+checkStatus @ VM1975:57
+(anonymous) @ VM1975:71
+t.activateScript @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+t.run @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+10:43:34.040 Navigated to https://paydash.co.uk/checkout/f381ac08-ca77-4117-bac3-4c72bada5d25
+10:43:34.340 f381ac08-ca77-4117-bac3-4c72bada5d25:1 [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) <input type=​"password" inputmode=​"numeric" class=​"form-control" name=​"cardCVV" placeholder=​"CCV" minlength=​"3" maxlength=​"3" required>​…​</input>​
+10:43:34.664 f381ac08-ca77-4117-bac3-4c72bada5d25:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+10:43:34.694 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+10:43:35.019 DevTools failed to load source map: Could not load content for https://paydash.co.uk/pay/checkout/assets/js/popper.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+10:44:38.998 XHR finished loading: GET "<URL>".
+10:44:38.998 XHR finished loading: GET "<URL>".
+10:44:38.998 XHR finished loading: GET "<URL>".
+10:44:38.998 XHR finished loading: GET "<URL>".
+10:44:38.998 XHR finished loading: GET "<URL>".
+10:44:38.998 XHR finished loading: GET "<URL>".
+10:44:55.354 Navigated to https://paydash.co.uk/checkout/f381ac08-ca77-4117-bac3-4c72bada5d25
+10:44:55.700 f381ac08-ca77-4117-bac3-4c72bada5d25:1 [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) <input type=​"password" inputmode=​"numeric" class=​"form-control" name=​"cardCVV" placeholder=​"CCV" minlength=​"3" maxlength=​"3" required>​…​</input>​
+10:44:55.917 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+10:44:56.056 f381ac08-ca77-4117-bac3-4c72bada5d25:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+10:44:56.422 DevTools failed to load source map: Could not load content for https://paydash.co.uk/pay/checkout/assets/js/popper.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+10:44:56.607 jquery.min.js:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ jquery.min.js:2
+ajax @ jquery.min.js:2
+checkStatus @ VM2154:57
+(anonymous) @ VM2154:71
+t.activateScript @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+t.run @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+10:45:11.776 jquery.min.js:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ jquery.min.js:2
+ajax @ jquery.min.js:2
+checkStatus @ VM2154:57
+10:45:26.969 jquery.min.js:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ jquery.min.js:2
+ajax @ jquery.min.js:2
+checkStatus @ VM2154:57
+10:45:37.242 Navigated to https://paydash.co.uk/checkout/f381ac08-ca77-4117-bac3-4c72bada5d25
+10:45:37.385 f381ac08-ca77-4117-bac3-4c72bada5d25:1 [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) <input type=​"password" inputmode=​"numeric" class=​"form-control" name=​"cardCVV" placeholder=​"CCV" minlength=​"3" maxlength=​"3" required>​#shadow-root (user-agent)</input>​
+10:45:37.661 f381ac08-ca77-4117-bac3-4c72bada5d25:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+10:45:37.920 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+10:45:38.312 DevTools failed to load source map: Could not load content for https://paydash.co.uk/pay/checkout/assets/js/popper.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+10:45:38.517 jquery.min.js:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ jquery.min.js:2
+ajax @ jquery.min.js:2
+checkStatus @ VM2253:57
+(anonymous) @ VM2253:71
+t.activateScript @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+t.run @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+10:45:53.679 jquery.min.js:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ jquery.min.js:2
+ajax @ jquery.min.js:2
+checkStatus @ VM2253:57
+10:46:08.844 jquery.min.js:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ jquery.min.js:2
+ajax @ jquery.min.js:2
+checkStatus @ VM2253:57
+10:46:21.081 Navigated to https://paydash.co.uk/checkout/f381ac08-ca77-4117-bac3-4c72bada5d25
+10:46:21.263 f381ac08-ca77-4117-bac3-4c72bada5d25:1 [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) <input type=​"password" inputmode=​"numeric" class=​"form-control" name=​"cardCVV" placeholder=​"CCV" minlength=​"3" maxlength=​"3" required>​…​</input>​
+10:46:21.591 f381ac08-ca77-4117-bac3-4c72bada5d25:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+10:46:21.784 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+10:46:22.171 DevTools failed to load source map: Could not load content for https://paydash.co.uk/pay/checkout/assets/js/popper.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+10:46:22.410 jquery.min.js:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ jquery.min.js:2
+ajax @ jquery.min.js:2
+checkStatus @ VM2369:57
+(anonymous) @ VM2369:71
+t.activateScript @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+t.run @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+10:46:37.543 jquery.min.js:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ jquery.min.js:2
+ajax @ jquery.min.js:2
+checkStatus @ VM2369:57
+10:46:38.905 f381ac08-ca77-4117-bac3-4c72bada5d25:1 An invalid form control with name='terms' is not focusable.
+10:46:38.905 f381ac08-ca77-4117-bac3-4c72bada5d25:1 An invalid form control with name='mor' is not focusable.
+10:46:53.007 Navigated to https://paydash.co.uk/checkout/f381ac08-ca77-4117-bac3-4c72bada5d25
+10:46:53.181 f381ac08-ca77-4117-bac3-4c72bada5d25:1 [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) <input type=​"password" inputmode=​"numeric" class=​"form-control" name=​"cardCVV" placeholder=​"CCV" minlength=​"3" maxlength=​"3" required>​…​</input>​
+10:46:53.510 f381ac08-ca77-4117-bac3-4c72bada5d25:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+10:46:53.706 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+10:46:54.170 DevTools failed to load source map: Could not load content for https://paydash.co.uk/pay/checkout/assets/js/popper.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+10:46:54.474 jquery.min.js:2 XHR finished loading: GET "https://paydash.co.uk/api/merchant/status/f381ac08-ca77-4117-bac3-4c72bada5d25".
+send @ jquery.min.js:2
+ajax @ jquery.min.js:2
+checkStatus @ VM2453:57
+(anonymous) @ VM2453:71
+t.activateScript @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+t.run @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+(anonymous) @ rocket-loader.min.js:1
+10:47:09.488 Navigated to https://gamesense.is/profile/
+10:47:09.828 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+10:47:10.081 gamesense.is/:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+10:47:10.090 run.js:2 Custom JavaScript for websites enabled.
+Please visit https://xcv58.xyz/inject-js if you have any issue.
+10:47:10.784 4dd7bd3.js:1 XHR finished loading: GET "https://api.gamesense.is/v1/account/@me".
+(anonymous) @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
+10:47:11.398 tag.js:182 XHR finished loading: GET "https://mc.yandex.ru/watch/82143082?wmode=7&page-url=https%3A%2F%2Fgamesense.is%2Fprofile%2F&charset=utf-8&ut=noindex&browser-info=pv%3A1%3Agdpr%3A14%3Avf%3A2fhsb6k71knxmycx7%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A581%3Acn%3A1%3Adp%3A0%3Als%3A886591777679%3Ahid%3A357328550%3Az%3A-300%3Ai%3A2021070401047010%3Aet%3A1625413631%3Ac%3A1%3Arn%3A1036590052%3Arqn%3A95%3Au%3A1624771784271512339%3Aw%3A1600x208%3As%3A1600x900x24%3Ask%3A1%3Acpf%3A1%3Ans%3A1625413628127%3Ads%3A0%2C0%2C291%2C6%2C673%2C0%2C%2C590%2C0%2C%2C%2C%2C1610%3Adsn%3A0%2C0%2C291%2C6%2C673%2C0%2C%2C631%2C0%2C%2C%2C%2C1610%3Awv%3A2%3Arqnl%3A1%3Aadb%3A2%3Ati%3A2%3Ast%3A1625413631%3At%3AGameSense".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+10:47:11.594 4dd7bd3.js:1 XHR finished loading: GET "https://api.gamesense.is/v1/products/".
+(anonymous) @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
+10:47:24.275 XHR finished loading: POST "<URL>".
+10:47:24.275 XHR finished loading: POST "<URL>".
+10:47:24.275 XHR finished loading: POST "<URL>".
+10:47:24.275 XHR finished loading: POST "<URL>".
+10:47:24.275 XHR finished loading: POST "<URL>".
+10:47:24.275 XHR finished loading: POST "<URL>".
+10:47:24.275 XHR finished loading: POST "<URL>".
+10:47:24.275 XHR finished loading: POST "<URL>".
+10:47:24.275 XHR finished loading: POST "<URL>".
+10:47:24.275 XHR finished loading: POST "<URL>".
+10:47:24.275 XHR finished loading: POST "<URL>".
+10:47:24.275 XHR finished loading: POST "<URL>".
+10:47:24.275 XHR finished loading: POST "<URL>".
+10:47:24.275 XHR finished loading: POST "<URL>".
+10:47:24.275 XHR finished loading: POST "<URL>".
+10:47:24.275 XHR finished loading: POST "<URL>".
+10:47:24.275 XHR finished loading: POST "<URL>".
+10:47:24.275 XHR finished loading: POST "<URL>".
+10:47:11.874 analytics.js:39 XHR finished loading: POST "https://www.google-analytics.com/j/collect?v=1&_v=j91&a=974332628&t=screenview&_s=1&cd=profile&dl=https%3A%2F%2Fgamesense.is%2Fprofile%2F&ul=en-us&de=UTF-8&dt=GameSense&sd=24-bit&sr=1600x900&vp=1600x208&je=0&_u=CACAAEABEAAAAC~&jid=1350654078&gjid=1077755056&cid=167011044.1624771781&tid=G-KGH9GMX858&_gid=1132962649.1625393290&_r=1&_slc=1&z=1160258790".
+wd @ analytics.js:39
+pe @ analytics.js:38
+Sa @ analytics.js:43
+Ha.D @ analytics.js:41
+pc.send @ analytics.js:76
+X.b.<computed> @ analytics.js:56
+Z.v @ analytics.js:92
+Z.D @ analytics.js:91
+N @ analytics.js:92
+(anonymous) @ d5f38e1.js:1
+m @ d5f38e1.js:1
+k @ d5f38e1.js:1
+E @ d5f38e1.js:1
+(anonymous) @ d5f38e1.js:1
+(anonymous) @ 4dd7bd3.js:1
+(anonymous) @ 4dd7bd3.js:1
+(anonymous) @ 4dd7bd3.js:1
+r @ 4dd7bd3.js:1
+r @ 4dd7bd3.js:1
+jt @ 4dd7bd3.js:1
+(anonymous) @ 4dd7bd3.js:1
+r @ 4dd7bd3.js:1
+(anonymous) @ 4dd7bd3.js:1
+(anonymous) @ 4dd7bd3.js:1
+(anonymous) @ 4dd7bd3.js:1
+x @ 4dd7bd3.js:1
+r @ 4dd7bd3.js:1
+r @ 4dd7bd3.js:1
+(anonymous) @ 4dd7bd3.js:1
+(anonymous) @ 4dd7bd3.js:1
+(anonymous) @ 9f751af.js:1
+v @ 4dd7bd3.js:1
+(anonymous) @ 4dd7bd3.js:1
+(anonymous) @ 4dd7bd3.js:1
+r @ 4dd7bd3.js:1
+l @ 4dd7bd3.js:1
+Show 6 more frames
+10:47:14.710 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=1&wv-hit=357328550&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=969203982&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625413634%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A202107040104713%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625413634".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+10:47:14.884 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=1&wv-hit=357328550&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=212212360&wv-type=3&browser-info=bt%3A1%3Agdpr%3A14%3Aet%3A1625413634%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A202107040104713%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625413634".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+10:47:18.208 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=2&wv-hit=357328550&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=868654477&wv-type=3&browser-info=bt%3A1%3Agdpr%3A14%3Aet%3A1625413638%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A202107040104718%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625413638".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+10:47:24.222 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=2&wv-hit=357328550&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=61076500&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625413644%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A202107040104724%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625413644".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+10:47:41.220 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wv-check=49810&wv-type=0&wmode=0&wv-part=1&wv-hit=357328550&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=45521996&browser-info=gdpr%3A14%3Aet%3A1625413661%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A202107040104741%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625413661".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+10:50:13.347 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=3&wv-hit=357328550&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=325510518&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625413813%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A202107040105012%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625413813".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+10:51:03.153 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=4&wv-hit=357328550&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=1036142424&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625413863%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A202107040105102%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625413863".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+10:51:04.782 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=5&wv-hit=357328550&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=765444614&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625413865%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A202107040105104%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625413865".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+10:51:08.831 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=6&wv-hit=357328550&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=228751932&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625413869%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A202107040105108%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625413869".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+10:51:10.967 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=7&wv-hit=357328550&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=242925405&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625413871%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A2021070401051010%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625413871".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+11:25:32.271 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=8&wv-hit=357328550&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=1034420604&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625415932%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A20210704112532%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625415932".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+11:25:34.976 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=9&wv-hit=357328550&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=160748789&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625415935%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A20210704112534%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625415935".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+11:26:40.352 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=10&wv-hit=357328550&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=535467736&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625416000%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A20210704112639%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625416000".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+11:26:44.009 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=11&wv-hit=357328550&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=834201423&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625416004%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A20210704112643%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625416004".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+11:26:46.017 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=12&wv-hit=357328550&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=543019548&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625416006%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A20210704112645%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625416006".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+11:26:48.558 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=13&wv-hit=357328550&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=1028904793&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625416008%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A20210704112648%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625416008".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+11:26:48.561 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=3&wv-hit=357328550&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=49687616&wv-type=3&browser-info=bt%3A1%3Agdpr%3A14%3Aet%3A1625416008%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A20210704112648%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625416008".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+10:47:12.404 4dd7bd3.js:1 XHR finished loading: GET "https://api.gamesense.is/v1/download/".
+(anonymous) @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
+10:47:12.492 4dd7bd3.js:1 GET https://api.gamesense.is/v1/licenses/ 400
+(anonymous) @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
+10:47:12.496 4dd7bd3.js:1 XHR failed loading: GET "https://api.gamesense.is/v1/licenses/".
+(anonymous) @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
+10:47:41.034 GET /vps/{gamesense.pub}/automatedBackup/restorePoints
+10:47:41.078 VM108:1 Uncaught SyntaxError: Unexpected token '.'
+10:48:02.298 GET "https://api.gamesense.is/v1/licenses/"
+10:48:02.340 VM136:1 Uncaught SyntaxError: Unexpected string
+10:48:08.903 fetch("GET "https://api.gamesense.is/v1/licenses/"")
+10:48:08.916 VM176:1 Uncaught SyntaxError: missing ) after argument list
+10:48:13.706 fetch("publickey-credentials-get")
+10:48:13.721 Promise {<pending>}
+10:48:14.047 VM198:1 GET https://gamesense.is/publickey-credentials-get 404
+(anonymous) @ VM198:1
+10:49:48.876 Fetch failed loading: GET "<URL>".
+10:49:48.876 Fetch failed loading: GET "<URL>".
+10:49:48.876 Fetch failed loading: GET "<URL>".
+10:49:48.876 Fetch failed loading: GET "<URL>".
+10:49:48.876 Fetch failed loading: GET "<URL>".
+10:48:29.420 fetch("https://gamesense.pub/check?pc=8fb6e3d49e58aaf9f47da0022068aed6&pass=1625222861.348-u8b2jBZ&answer=174.8724489537", {
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "accept-language": "en-US,en;q=0.9",
+    "cache-control": "no-cache",
+    "pragma": "no-cache",
+    "sec-ch-ua": "\" Not;A Brand\";v=\"99\", \"Google Chrome\";v=\"91\", \"Chromium\";v=\"91\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-fetch-dest": "document",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "same-origin",
+    "upgrade-insecure-requests": "1"
+  },
+  "referrer": "https://gamesense.pub/forums/register.php?action=register",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "include"
+});
+10:48:29.504 Promise {<pending>}
+10:48:29.755 /profile:1 Access to fetch at 'https://gamesense.pub/check?pc=8fb6e3d49e58aaf9f47da0022068aed6&pass=1625222861.348-u8b2jBZ&answer=174.8724489537' from origin 'https://gamesense.is' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
+10:48:29.756 VM231:1 GET https://gamesense.pub/check?pc=8fb6e3d49e58aaf9f47da0022068aed6&pass=1625222861.348-u8b2jBZ&answer=174.8724489537 net::ERR_FAILED
+(anonymous) @ VM231:1
+10:48:29.756 /profile:1 Uncaught (in promise) TypeError: Failed to fetch
+10:48:49.612 fetch("D27CDB6E-AE6D-11cf-96B8-444553540000")
+10:48:49.654 Promise {<pending>}
+10:48:49.941 VM269:1 GET https://gamesense.is/D27CDB6E-AE6D-11cf-96B8-444553540000 404
+(anonymous) @ VM269:1
+10:49:13.111 fetch("thomasalwyndavis@gmail.com")
+10:49:13.200 Promise {<pending>}
+10:49:13.447 VM310:1 GET https://gamesense.is/thomasalwyndavis@gmail.com 404
+(anonymous) @ VM310:1
+10:49:22.762 fetch "https://dev-04nbtfx2.us.auth0.com/api/v2/"
+10:49:22.775 VM336:1 Uncaught SyntaxError: Unexpected string
+10:49:48.510 fetch("https://dev-04nbtfx2.us.auth0.com/api/v2/")
+10:49:48.526 Promise {<pending>}
+10:49:48.850 /profile:1 Access to fetch at 'https://dev-04nbtfx2.us.auth0.com/api/v2/' from origin 'https://gamesense.is' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
+10:49:48.850 VM398:1 GET https://dev-04nbtfx2.us.auth0.com/api/v2/ net::ERR_FAILED
+(anonymous) @ VM398:1
+10:49:48.850 /profile:1 Uncaught (in promise) TypeError: Failed to fetch
+10:51:06.658 fetch}
+
+function createRDAPLink(url, title) {
+	var link = document.createElement('a');
+
+	link.href = 'javascript:void(0)';
+	link.title = url;
+
+	link.appendChild(document.createTextNode(title));
+
+	return link;
+}
+
+function ucfirst(string) {
+	return string.charAt(0).toUpperCase() + string.slice(1);
+}
+10:51:06.672 VM508:1 Uncaught SyntaxError: Unexpected token '}'
+11:26:41.764 </header> <!-- .site-header -->
+
+		<section class="site-section">
+			<div class="container">
+			<div class="dns-lookup">
+			<div class="card">
+				<div class="card-header">
+					DNS Lookup 
+				</div>
+				<div class="card-body">
+					<div id="dns-records" class="d-block" data-action="?action=fetch-dns">
+						<div class="clearfix">
+															<button type="submit" class="btn btn-light" name="type" value="a">A</button>
+															<button type="submit" class="btn btn-light" name="type" value="aaaa">AAAA</button>
+															<button type="submit" class="btn btn-light" name="type" value="any">ANY</button>
+															<button type="submit" class="btn btn-light" name="type" value="caa">CAA</button>
+															<button type="submit" class="btn btn-light" name="type" value="cname">CNAME</button>
+															<button type="submit" class="btn btn-light" name="type" value="mx">MX</button>
+															<button type="submit" class="btn btn-light" name="type" value="ns">NS</button>
+															<button type="submit" class="btn btn-light" name="type" value="ptr">PTR</button>
+															<button type="submit" class="btn btn-light" name="type" value="soa">SOA</button>
+															<button type="submit" class="btn btn-light" name="type" value="srv">SRV</button>
+															<button type="submit" class="btn btn-light" name="type" value="txt">TXT</button>
+													</div>
+					</div>
+
+					<hr class="my-3">
+
+					<pre id="dns-response" class="output-code"></pre>
+				</div>
+			</div>
+		</div>
+	
+	
+	<div class="whois-data mt-4">
+		<div class="card">
+			<div class="card-header">
+				Whois Data (Port 43) from: <u class="text-muted">whois.iana.org</u>			</div>
+			<div class="card-body">
+				<pre class="output-code">% IANA WHOIS server
+11:26:41.777 VM912:1 Uncaught SyntaxError: Unexpected token '<'
+11:26:49.540 Navigated to https://gamesense.is/profile/
+11:26:49.906 DevTools failed to load source map: Could not load content for chrome-extension://ojkchikaholjmcnefhjlbohackpeeknd/ptk/packages/browser-polyfill/browser-polyfill.min.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+11:26:50.017 gamesense.is/:1 Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+11:26:50.028 run.js:2 Custom JavaScript for websites enabled.
+Please visit https://xcv58.xyz/inject-js if you have any issue.
+11:26:50.692 4dd7bd3.js:1 XHR finished loading: GET "https://api.gamesense.is/v1/account/@me".
+(anonymous) @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
+11:26:50.756 tag.js:182 XHR finished loading: GET "https://mc.yandex.ru/watch/82143082?wmode=7&page-url=https%3A%2F%2Fgamesense.is%2Fprofile%2F&charset=utf-8&ut=noindex&browser-info=pv%3A1%3Agdpr%3A14%3Avf%3A2fhsb6k71knxmycx7%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A581%3Acn%3A1%3Adp%3A0%3Als%3A886591777679%3Ahid%3A898855018%3Az%3A-300%3Ai%3A20210704112650%3Aet%3A1625416011%3Ac%3A1%3Arn%3A524131572%3Arqn%3A106%3Au%3A1624771784271512339%3Aw%3A1600x208%3As%3A1600x900x24%3Ask%3A1%3Acpf%3A1%3Ans%3A1625416008361%3Ads%3A0%2C0%2C282%2C2%2C545%2C0%2C%2C489%2C0%2C%2C%2C%2C1339%3Adsn%3A0%2C0%2C282%2C2%2C545%2C0%2C%2C505%2C0%2C%2C%2C%2C1339%3Awv%3A2%3Arqnl%3A1%3Aadb%3A2%3Ati%3A2%3Ast%3A1625416011%3At%3AGameSense".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+11:26:51.392 4dd7bd3.js:1 XHR finished loading: GET "https://api.gamesense.is/v1/products/".
+(anonymous) @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
+11:27:19.566 XHR finished loading: POST "<URL>".
+11:27:19.566 XHR finished loading: POST "<URL>".
+11:27:19.566 XHR finished loading: POST "<URL>".
+11:27:19.566 XHR finished loading: POST "<URL>".
+11:27:19.566 XHR finished loading: POST "<URL>".
+11:27:19.566 XHR finished loading: POST "<URL>".
+11:26:51.661 analytics.js:39 XHR finished loading: POST "https://www.google-analytics.com/j/collect?v=1&_v=j91&a=537574318&t=screenview&_s=1&cd=profile&dl=https%3A%2F%2Fgamesense.is%2Fprofile%2F&ul=en-us&de=UTF-8&dt=GameSense&sd=24-bit&sr=1600x900&vp=1600x208&je=0&_u=CACAAEABEAAAAC~&jid=159233372&gjid=796997401&cid=167011044.1624771781&tid=G-KGH9GMX858&_gid=1132962649.1625393290&_r=1&_slc=1&z=1014271637".
+wd @ analytics.js:39
+pe @ analytics.js:38
+Sa @ analytics.js:43
+Ha.D @ analytics.js:41
+pc.send @ analytics.js:76
+X.b.<computed> @ analytics.js:56
+Z.v @ analytics.js:92
+Z.D @ analytics.js:91
+N @ analytics.js:92
+(anonymous) @ d5f38e1.js:1
+m @ d5f38e1.js:1
+k @ d5f38e1.js:1
+E @ d5f38e1.js:1
+(anonymous) @ d5f38e1.js:1
+(anonymous) @ 4dd7bd3.js:1
+(anonymous) @ 4dd7bd3.js:1
+(anonymous) @ 4dd7bd3.js:1
+r @ 4dd7bd3.js:1
+r @ 4dd7bd3.js:1
+jt @ 4dd7bd3.js:1
+(anonymous) @ 4dd7bd3.js:1
+r @ 4dd7bd3.js:1
+(anonymous) @ 4dd7bd3.js:1
+(anonymous) @ 4dd7bd3.js:1
+(anonymous) @ 4dd7bd3.js:1
+x @ 4dd7bd3.js:1
+r @ 4dd7bd3.js:1
+r @ 4dd7bd3.js:1
+(anonymous) @ 4dd7bd3.js:1
+(anonymous) @ 4dd7bd3.js:1
+(anonymous) @ 9f751af.js:1
+v @ 4dd7bd3.js:1
+(anonymous) @ 4dd7bd3.js:1
+(anonymous) @ 4dd7bd3.js:1
+r @ 4dd7bd3.js:1
+l @ 4dd7bd3.js:1
+Show 6 more frames
+11:26:53.787 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=1&wv-hit=898855018&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=325272326&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625416013%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A20210704112653%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625416013".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+11:26:53.986 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=1&wv-hit=898855018&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=157974007&wv-type=3&browser-info=bt%3A1%3Agdpr%3A14%3Aet%3A1625416013%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A20210704112653%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625416013".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+11:26:57.420 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=2&wv-hit=898855018&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=557714294&wv-type=3&browser-info=bt%3A1%3Agdpr%3A14%3Aet%3A1625416017%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A20210704112657%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625416017".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+11:27:19.528 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=2&wv-hit=898855018&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=761887508&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625416039%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A20210704112719%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625416039".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+11:27:21.650 tag.js:182 XHR finished loading: POST "https://mc.yandex.ru/webvisor/82143082?wmode=0&wv-part=3&wv-hit=898855018&page-url=https%3A%2F%2Fgamesense.is%2Fprofile&rn=421244851&wv-type=3&browser-info=gdpr%3A14%3Aet%3A1625416041%3Aw%3A1583x208%3Av%3A581%3Az%3A-300%3Ai%3A20210704112721%3Au%3A1624771784271512339%3Avf%3A2fhsb6k71knxmycx7%3Awe%3A1%3Ati%3A2%3Ast%3A1625416041".
+(anonymous) @ tag.js:182
+(anonymous) @ tag.js:181
+(anonymous) @ tag.js:129
+Ih @ tag.js:95
+(anonymous) @ tag.js:94
+11:26:52.211 4dd7bd3.js:1 XHR finished loading: GET "https://api.gamesense.is/v1/download/".
+(anonymous) @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
+11:26:52.217 4dd7bd3.js:1 GET https://api.gamesense.is/v1/licenses/ 400
+(anonymous) @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
+11:26:52.305 4dd7bd3.js:1 XHR failed loading: GET "https://api.gamesense.is/v1/licenses/".
+(anonymous) @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
