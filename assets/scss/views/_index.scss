@@ -1,0 +1,26 @@
+main {
+  &.index {
+    h2 {
+      sup {
+        vertical-align: text-top;
+
+        a {
+          color: $alt;
+          text-decoration: none;
+          transition: color $transition-duration $transition-timing-function;
+
+          &:hover,
+          &:focus {
+            color: $primary;
+          }
+        }
+      }
+    }
+
+    .homepage-search {
+      margin: 0 0 ($whitespace * 8);
+      transition: margin-bottom $transition-duration-large $transition-timing-function-large;
+      width: 100%;
+    }
+  }
+}

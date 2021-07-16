@@ -1,0 +1,5 @@
+main {
+  &.libraries-library {
+    @import "../components/library/library_page";
+  }
+}

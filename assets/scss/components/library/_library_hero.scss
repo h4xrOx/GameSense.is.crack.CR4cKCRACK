@@ -1,0 +1,47 @@
+.content {
+  &.library-hero {
+    .row {
+      &.name {
+        align-items: baseline;
+
+        h1 {
+          @include font-medium;
+
+          color: $light;
+          font-size: 45px;
+        }
+
+        h1,
+        p {
+          margin: ($whitespace * .5) ($whitespace) ($whitespace * .5) 0;
+        }
+      }
+
+      p {
+        margin: ($whitespace * .5) $whitespace ($whitespace * .5) 0;
+
+        a {
+          @include primary-link;
+        }
+      }
+    }
+
+    p {
+      @include font-regular;
+
+      color: $light;
+      font-size: 18px;
+    }
+
+    .tags {
+      color: $alt;
+      font-size: 16px;
+      margin: ($whitespace) 0 0;
+
+      .keywords {
+        display: inline-block;
+        margin: 0 0 0 ($whitespace / 2);
+      }
+    }
+  }
+}

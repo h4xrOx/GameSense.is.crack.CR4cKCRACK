@@ -1,0 +1,301 @@
+main {
+  &.about {
+    header {
+      background: none;
+      box-shadow: none;
+    }
+
+    section {
+      > .content {
+        align-items: start;
+        display: grid;
+        grid-column-gap: $whitespace * 2;
+        grid-row-gap: $whitespace * 2;
+        grid-template-columns: 3fr 1fr;
+        grid-template-rows: auto;
+
+        @media screen and (max-width: $breakpoint) {
+          display: block;
+        }
+
+        .left {
+          display: grid;
+          grid-column-gap: $whitespace * 2;
+          grid-row-gap: $whitespace * 2;
+          grid-template-columns: 6fr 4fr;
+          grid-template-rows: auto;
+
+          @media screen and (max-width: $breakpoint) {
+            display: block;
+          }
+
+          .members {
+            grid-column: 1 / -1;
+
+            .member-blocks {
+              @include flex-row;
+
+              .member {
+                @include flex-row;
+
+                flex-basis: 50%;
+                flex-wrap: nowrap;
+                padding: 0 ($whitespace * 1.5) ($whitespace) 0;
+
+                @media screen and (max-width: $breakpoint) {
+                  flex-basis: 100%;
+                }
+
+                a {
+                  &.avatar {
+                    align-items: center;
+                    display: inline-flex;
+                    height: 78px;
+                    justify-content: center;
+                    margin: 0 ($whitespace * .5) 0 0;
+                    width: 78px;
+
+                    img {
+                      border-radius: $radius / 2;
+                      height: 100%;
+                      object-fit: contain;
+                      width: 100%;
+                    }
+
+                    svg {
+                      color: $white;
+                      height: 90%;
+                      object-fit: contain;
+                      width: 90%;
+                    }
+                  }
+                }
+
+                .info {
+                  @include flex-column;
+
+                  align-items: flex-start;
+
+                  .name {
+                    @include font-medium;
+
+                    color: $light;
+                    font-size: 23px;
+                    margin: ($whitespace * .25) 0;
+                  }
+
+                  .role {
+                    color: $alt;
+                    font-size: 18px;
+                    margin: ($whitespace * .25) 0;
+
+                    a {
+                      color: $light;
+                      padding: 0 0 0 ($whitespace * .25);
+                      text-decoration: none;
+
+                      &:hover,
+                      &:focus {
+                        color: $alt;
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+
+        .sponsors {
+          .sponsor-blocks {
+            display: grid;
+            grid-auto-rows: 200px;
+            grid-column-gap: $whitespace * 2;
+            grid-row-gap: $whitespace * 2;
+            grid-template-columns: 200px 200px;
+            margin: 0 0 ($whitespace * 2);
+
+            @media screen and (max-width: $breakpoint) {
+              display: block;
+            }
+
+            .sponsor {
+              background: $darker;
+              border-radius: $radius;
+
+              @media screen and (max-width: $breakpoint) and (min-width: $mobile) {
+                height: 200px;
+                margin: 0 0 $whitespace;
+                width: 200px;
+              }
+
+              @media screen and (max-width: $mobile) and (min-width: $mobile-sm) {
+                height: 220px;
+                margin: 0 0 $whitespace;
+                padding-left: 30%;
+                padding-right: 30%;
+                width: 100%;
+              }
+
+              @media screen and (max-width: $mobile-sm) {
+                height: 150px;
+                margin: 0 0 $whitespace;
+                padding-left: 15%;
+                padding-right: 15%;
+                width: 100%;
+              }
+
+              &.contact {
+                @include flex-column;
+
+                background: none;
+                border: 2px solid $light;
+                grid-column: 1 / -1;
+                height: 100%;
+                justify-content: center;
+                width: 100%;
+
+                @media screen and (max-width: $breakpoint) {
+                  height: 200px;
+                }
+
+                @media screen and (max-width: $mobile-sm) {
+                  padding-left: 5%;
+                  padding-right: 5%;
+                }
+
+                h3 {
+                  @include font-medium;
+
+                  color: $light;
+                  font-size: 22px;
+                  margin: 0 0 ($whitespace * .25);
+                  text-align: center;
+                }
+
+                p {
+                  @include font-medium;
+
+                  font-size: 18px;
+                  margin: 0;
+                }
+              }
+
+              p {
+                color: $light;
+              }
+
+              &.dark {
+                p {
+                  color: $dark;
+                }
+              }
+
+              &.words {
+                a {
+                  &:hover,
+                  &:focus {
+                    img {
+                      opacity: .05;
+                    }
+
+                    > div {
+                      opacity: 1;
+                      pointer-events: initial;
+                    }
+                  }
+
+                  > div {
+                    @include flex-column;
+
+                    height: 100%;
+                    justify-content: center;
+                    left: 0;
+                    max-height: 100%;
+                    opacity: 0;
+                    pointer-events: none;
+                    position: absolute;
+                    top: 0;
+                    transition: background $transition-duration $transition-timing-function, opacity $transition-duration $transition-timing-function;
+                    width: 100%;
+
+                    p {
+                      @include font-medium;
+
+                      font-size: 14px;
+                      margin: 0;
+                      padding: $whitespace / 2;
+                      text-align: center;
+                    }
+                  }
+                }
+              }
+
+              &:not(.words) {
+                a {
+                  &:hover,
+                  &:focus {
+                    img {
+                      opacity: .25;
+                    }
+                  }
+
+                  > div {
+                    display: none;
+                    visibility: hidden;
+                  }
+                }
+              }
+
+              a {
+                @include flex-column;
+
+                height: 100%;
+                justify-content: center;
+                position: relative;
+                width: 100%;
+
+                img {
+                  max-height: 100%;
+                  max-width: 100%;
+                  opacity: 1;
+                  padding: 0 ($whitespace);
+                  transition: opacity $transition-duration $transition-timing-function;
+                  width: 100%;
+                }
+              }
+            }
+          }
+        }
+      }
+
+      h1 {
+        @include font-medium;
+
+        color: $light;
+        font-size: 30px;
+      }
+
+      h2 {
+        @include font-regular;
+
+        color: $light;
+        font-size: 26px;
+        margin: 0 0 $whitespace;
+      }
+
+      p {
+        @include font-light;
+
+        color: $text;
+        font-size: 18px;
+
+        a {
+          @include primary-link;
+
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}

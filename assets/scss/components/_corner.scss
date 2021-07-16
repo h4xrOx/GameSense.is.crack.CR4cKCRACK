@@ -1,0 +1,66 @@
+aside {
+  &.corner {
+    bottom: 0;
+    height: $corner;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    width: $corner;
+    z-index: 2;
+
+    @media screen and (max-width: $breakpoint) {
+      display: none;
+    }
+
+    &::after {
+      border-bottom: $corner solid $darker;
+      border-left: $corner solid transparent;
+      border-top: $corner solid transparent;
+      bottom: 0;
+      content: "";
+      display: block;
+      left: 0;
+      position: absolute;
+      right: 0;
+      z-index: 0;
+    }
+
+    div {
+      @include flex-column;
+
+      height: 100%;
+      justify-content: flex-end;
+      position: absolute;
+      right: 0;
+      top: 0;
+      transform: rotate(-45deg);
+      width: 100%;
+      z-index: 1;
+
+      a {
+        @include font-regular;
+        @include flex-column;
+
+        color: $white;
+        font-size: $corner * .08;
+        margin: 0 0 ($corner * -.064);
+        padding: ($corner * .128);
+        text-decoration: none;
+        transition: color $transition-duration $transition-timing-function;
+
+        &:hover,
+        &:focus {
+          color: $alt;
+        }
+
+        p {
+          margin: 0 0 ($corner * .064);
+        }
+
+        svg {
+          height: $corner * .16;
+        }
+      }
+    }
+  }
+}

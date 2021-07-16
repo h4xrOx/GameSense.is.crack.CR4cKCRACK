@@ -1,0 +1,98 @@
+// sass-lint:disable class-name-format
+&.primary-search {
+  @include flex-column;
+
+  align-items: normal;
+  flex-grow: 1;
+
+  header {
+    @include flex-column;
+
+    padding: ($whitespace * 4) $whitespace $whitespace;
+
+    @media screen and (max-width: $breakpoint) {
+      padding: $whitespace $whitespace 0;
+    }
+
+    .content {
+      align-items: center;
+      max-width: 1100px;
+      padding: 0;
+
+      .ais-SearchBox {
+        width: 100%;
+      }
+
+      .ais-Stats {
+        p {
+          @include font-regular;
+
+          color: $alt;
+          font-size: 18px;
+
+          .hits {
+            color: $primary;
+          }
+        }
+      }
+    }
+  }
+
+  .ais-InfiniteHits {
+    margin: 0 auto;
+    max-width: 1280px;
+    padding: 0;
+
+    ul {
+      @include flex-row;
+
+      list-style: none;
+      margin: $whitespace 0;
+      padding: 0;
+      width: 100%;
+
+      @media screen and (max-width: $breakpoint) {
+        margin: ($whitespace / 2) 0;
+      }
+
+      li {
+        &.show-more,
+        &.not-found {
+          flex-basis: 100%;
+        }
+
+        &.show-more {
+          @include flex-row;
+
+          background: none;
+          box-shadow: none;
+          justify-content: center;
+        }
+
+        &.not-found {
+          p {
+            @include font-regular;
+
+            color: $light;
+            font-size: 16px;
+            margin: ($whitespace * .25) 0;
+            text-align: center;
+
+            @media screen and (max-width: $breakpoint) {
+              text-align: left;
+            }
+
+            &:first-child {
+              font-size: 18px;
+              margin: ($whitespace * .25) 0 ($whitespace * 1.5);
+            }
+
+            a {
+              @include primary-link;
+            }
+          }
+        }
+      }
+    }
+  }
+}

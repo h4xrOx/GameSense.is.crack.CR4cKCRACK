@@ -1,0 +1,42 @@
+@mixin flex-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+};
+
+@mixin flex-column {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+};
+
+@mixin font-light {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+}
+
+@mixin font-regular {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+}
+
+@mixin font-medium {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+}
+
+@mixin font-bold {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+}
+
+@mixin primary-link {
+  color: $primary;
+  text-decoration: none;
+  transition: color $transition-duration $transition-timing-function;
+
+  &:hover,
+  &:focus {
+    color: $primary-hover;
+  }
+}

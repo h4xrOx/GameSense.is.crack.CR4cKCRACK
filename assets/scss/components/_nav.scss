@@ -1,0 +1,185 @@
+.nav {
+  background: $darker;
+  box-shadow: $shadow-bottom;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+
+  .content {
+    @include flex-row;
+
+    align-items: center;
+    height: auto;
+    min-height: 75px;
+    padding: $whitespace 0;
+
+    .left {
+      margin: 0 auto 0 0;
+    }
+
+    .right {
+      margin: 0 0 0 auto;
+
+      @media screen and (max-width: $mobile) and  (min-width: $mobile-sm) {
+        position: absolute;
+        right: 0;
+        top: 1.3rem;
+        transition: .5s;
+      }
+    }
+
+    .middle {
+      flex-grow: 1;
+
+      .inline-search {
+        margin: 0 auto;
+        max-width: 600px;
+        padding: 0 $whitespace;
+
+        // sass-lint:disable class-name-format
+        .ais-SearchBox {
+          .ais-SearchBox-form {
+            .ais-SearchBox-input {
+              height: $whitespace * 2.5;
+              padding: ($whitespace * .25) ($whitespace * 3.25) ($whitespace * .25) ($whitespace);
+            }
+          }
+        }
+
+        .ais-StateResults {
+          width: calc(100% - #{$whitespace * 2});
+        }
+        // sass-lint:enable class-name-format
+      }
+
+      @media screen and (max-width: $mobile) and  (min-width: $mobile-sm) {
+        display: contents !important;
+
+        .inline-search {
+          margin-top: 12px;
+          max-width: 100%;
+        }
+      }
+
+      @media screen and (max-width: $mobile-sm) {
+        display: contents;
+
+        .inline-search {
+          margin-top: 12px;
+        }
+      }
+    }
+
+    .left,
+    .right,
+    .middle {
+      @include flex-row;
+      align-content: center;
+
+      @media screen and (max-width: $breakpoint) {
+        margin: 0;
+      }
+    }
+
+    .left,
+    .right {
+      a {
+        @include font-regular;
+
+        align-items: center;
+        color: $light;
+        display: flex;
+        font-size: 20px;
+        justify-content: center;
+        margin: ($whitespace * .25) $whitespace;
+        text-decoration: none;
+        transition: color $transition-duration $transition-timing-function;
+
+        &:hover,
+        &:focus {
+          color: $alt;
+
+          i {
+            color: $light;
+          }
+        }
+
+        i {
+          color: $alt;
+          font-size: 26px;
+          margin-top: 2px;
+          transition: color $transition-duration $transition-timing-function;
+        }
+
+        img {
+          height: $whitespace * 2.25;
+        }
+
+        @media screen and (max-width: $mobile-sm) {
+          &:not(.logo) {
+            display: none;
+          }
+        }
+      }
+
+      .fix-mobile {
+        a {
+          float: right;
+          transition: .5s;
+
+          &.icon-mobile {
+            display: none;
+            padding-top: .15rem;
+          }
+        }
+
+        @media screen and (max-width: $mobile-sm) {
+          position: absolute;
+          right: 0;
+          top: 1.3rem;
+          transition: .5s;
+
+          a {
+            &.status {
+              display: block;
+              margin: 4px 0;
+            }
+
+            &.icon-mobile {
+              display: block;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  @media screen and (max-width: $mobile-sm) {
+    &.responsive {
+      transition: .5s;
+
+      .content {
+        padding-bottom: 0;
+        transition: .5s;
+
+        .right {
+          background-color: $footer;
+          display: flex;
+          flex-direction: column;
+          margin-top: 15px;
+          padding-bottom: 5px;
+          padding-top: 5px;
+          transition: .5s;
+          width: 100%;
+
+          a:not(.icon-mobile):not(.status) {
+            display: block;
+            padding: 10px 20px;
+            transition: .5s;
+            width: 100%;
+          }
+        }
+      }
+    }
+  }
+}

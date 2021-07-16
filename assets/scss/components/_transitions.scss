@@ -1,0 +1,27 @@
+@mixin opacity-vue-transition($selector, $duration) {
+  .#{$selector}-enter-active,
+  .#{$selector}-leave-active {
+    transition: opacity $duration $transition-timing-function-large;
+  }
+
+  .#{$selector}-enter,
+  .#{$selector}-leave-to {
+    opacity: 0;
+  }
+}
+
+@include opacity-vue-transition("page", $transition-duration);
+@include opacity-vue-transition("search", $transition-duration-large);
+@include opacity-vue-transition("assets", $transition-duration-large);
+@include opacity-vue-transition("homepage-search", $transition-duration-large);
+
+#__app { // sass-lint:disable-line no-ids
+  main {
+    opacity: 0;
+    transition: opacity $transition-duration $transition-timing-function-large;
+
+    &.ready {
+      opacity: 1;
+    }
+  }
+}

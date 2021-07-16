@@ -1,0 +1,48 @@
+main {
+  > .banner {
+    @include flex-row;
+
+    align-items: center;
+    background: $primary;
+    box-shadow: $shadow;
+    justify-content: flex-start;
+    padding: ($whitespace * .5) ($corner + ($whitespace * 2)) ($whitespace * .5) ($whitespace * 2);
+    width: 100%;
+    z-index: 1;
+
+    @media screen and (max-width: $breakpoint) {
+      padding: ($whitespace * .5) ($whitespace);
+    }
+
+    p {
+      color: $banner;
+
+      &:first-child {
+        @include font-regular;
+
+        border-right: 2px solid $banner;
+        font-size: 18px;
+        line-height: 1.3;
+        margin: 0 ($whitespace * .5) 0 0;
+        padding: 0 ($whitespace * .5) 0 0;
+      }
+
+      &:last-child {
+        font-size: 16px;
+        line-height: 1.1;
+        margin: ($whitespace * .125) 0 0;
+
+        a {
+          color: darken($banner, 7%);
+          text-decoration: underline;
+          transition: color $transition-duration $transition-timing-function;
+
+          &:hover,
+          &:focus {
+            color: $darker;
+          }
+        }
+      }
+    }
+  }
+}

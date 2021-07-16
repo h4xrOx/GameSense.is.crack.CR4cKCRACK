@@ -1,0 +1,54 @@
+main {
+  &.landing {
+    background-attachment: scroll;
+    background-image: url("../../assets/img/bg.svg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    @media only screen and (max-width: $mobile) {
+      background-image: url("../../assets/img/mobile.svg");
+      background-position: left top;
+    }
+
+    section {
+      align-items: flex-start;
+      max-width: 932px;
+      padding: $whitespace;
+
+      h1 {
+        @include font-regular;
+
+        color: $light;
+        font-size: 48px;
+        letter-spacing: .41px;
+        margin: 0 0 ($whitespace * 2);
+
+        @media only screen and (max-width: $mobile) {
+          font-size: 32px;
+          margin: 0 0 $whitespace;
+        }
+      }
+
+      h2 {
+        @include font-light;
+
+        color: $light;
+        font-size: 24px;
+        letter-spacing: .2px;
+        margin: 0 0 ($whitespace * 5);
+
+        @media only screen and (max-width: $mobile) {
+          font-size: 16px;
+          margin: 0 0 ($whitespace * 2.5);
+        }
+      }
+
+      @media screen and (max-width: $mobile-sm) {
+        margin-top: 80px;
+      }
+    }
+  }
+}
+
+
