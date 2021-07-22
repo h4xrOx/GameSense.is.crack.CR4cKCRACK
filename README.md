@@ -1,6 +1,6 @@
 # gamesense.is_CRACKED... because gamesense cracked gamesense crack??? wtf? well yeah so .. esoterik cracked this gamesense.is ; and then i cracked his gamesense.is crack... really confusing.. lmao:
 
-![image](https://user-images.githubusercontent.com/65768277/126649706-a4b1dcfd-1ce9-427d-ad85-b5c825ae8f52.png)
+![image](https://user-images.githubusercontent.com/65768277/126649875-e711bfe0-2bb7-43f6-8afa-b2f717cb7606.png)
 
 
 GameSense Crack Got Cracked
