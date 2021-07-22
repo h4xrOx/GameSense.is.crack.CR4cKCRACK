@@ -1,5 +1,10 @@
 # gamesense.is_CRACKED
 GameSense Crack Got Cracked
+
+Esoterik:
+![image](https://user-images.githubusercontent.com/65768277/126603220-3287465c-16f6-431d-8733-0756322b92fe.png)
+
+
 ![image](https://user-images.githubusercontent.com/65768277/126598209-b7f126dd-fa9a-4fa0-bf58-ded856e0f516.png)
 
 
