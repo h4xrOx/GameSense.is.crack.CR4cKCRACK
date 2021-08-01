@@ -1,8 +1,4 @@
-*****JOIN*****  https://matrix.to/#/!FfUOjBwjrfdODcdbEL:matrix.org?via=matrix.org  its like h4xr0x discord; accept we dont get banned *****JOIN*****
-![image](https://user-images.githubusercontent.com/65768277/127469667-a33efc4c-6d6b-4e6c-9cc2-c9e169b248e4.png)
-
-
-
+join https://h4xr0x.cc & add me on discord h4xr0x.cc#1337 && Join Discord: https://discord.gg/5gMYQKKAZ7
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # gamesense.is_CRACKED... because gamesense cracked gamesense crack??? wtf? well yeah so .. esoterik cracked this gamesense.is ; and then i cracked his gamesense.is crack... really confusing.. lmao: (spoiler)  h4xr0x.cc#1337  << pm me for invite and sandbox to make thise thing work. #more-coming-soon
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
