@@ -1,4 +1,4 @@
-join https://h4xr0x.cc & add me on discord h4xr0x.cc#1337 && Join Discord: https://discord.gg/5gMYQKKAZ7
+join https://h4xr0x.cc & add me on discord h4xr0x.cc#1337 && Join Discord: https://discord.gg/ZXuu6vdg85
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # gamesense.is_CRACKED... because gamesense cracked gamesense crack??? wtf? well yeah so .. esoterik cracked this gamesense.is ; and then i cracked his gamesense.is crack... really confusing.. lmao: (spoiler)  h4xr0x.cc#1337  << pm me for invite and sandbox to make thise thing work. #more-coming-soon
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
