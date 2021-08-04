@@ -42,7 +42,7 @@ join https://h4xr0x.cc & add me on discord h4xr0x.cc#1337 && Join Discord: https
 *********************************************************************************************************************************************************************************
 L     E     T     S | MAKE |  C   L   E   A   R |   *WE KNOW WHO ERIK BURTON IS; AND IF YOU WERE PAYING ATTENTION; HE WASNT HIDING IT, MISDIRECTION  WAS JUST GOOD FOR THE CAMPAIGN. TARGETS UNDERESTIMATED US SO FAR AS TO NOT THINK TWICE WHILE DOWNLOADING MY CONTENT. IT SHOWED US WHO WAS PAYING ATTENTION AND EXPOSED THE WEAK BRANCHES* EGO KILLS
 *********************************************************************************************************************************************************************************
-![image](https://user-images.githubusercontent.com/65768277/126895509-87582e89-b3ce-4e47-9e39-8a8041748f81.png)
+![image](https://user-images.githubusercontent.com/65768277/128111789-7f3784b8-91e8-4f9d-b5d2-83dd0c50fe52.png)
 ![image](https://user-images.githubusercontent.com/65768277/126889415-e4802563-f5e9-4c80-931e-fc5ab659e5a7.png)
 ![image](https://user-images.githubusercontent.com/65768277/126889443-ff1addda-84f5-4b7d-a171-c14ce15fc751.png)
 ![image](https://user-images.githubusercontent.com/65768277/126895668-acdc2634-5e06-492d-8f04-d21deb52c0ae.png)
