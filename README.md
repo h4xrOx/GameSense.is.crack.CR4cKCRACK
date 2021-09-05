@@ -1,4 +1,4 @@
-***********************************#:[H4XR0X#1337]:#***************************************************************************************************************************************************************************************************************************************************
+***********************************#:https://discord.gg/9RxCPt7ja7 [H4XR0X#1337]:#***************************************************************************************************************************************************************************************************************************************************
 
 // +*h4xr0x.cc*parked*while*my*server*+logs*neve+rlose.is*read*all*do*not*buy*NeverLose.is+
 // +----------------------------------+---------+------------------------+----------------+                              
@@ -18,7 +18,7 @@
 // |      @NeverLose.cc              |  3 💔︁   |  How he made it        |    h4xr0x      |
 // |api.github.com/users/es3n1n/events |   3 7   |  How you can make it   |  Community!    |
 // +----------------------------------+------------+------------------------+----------------+								
-// ![image](https://user-images.githubusercontent.com/65768277/131276207-485d6654-7409-480c-ade1-a3a004edb143.png) **https://gamesense.software**
+// ![image](https://user-images.githubusercontent.com/65768277/131276207-485d6654-7409-480c-ade1-a3a004edb143.png) **https://discord.gg/9RxCPt7ja7**
 ----------------------------------------------------------------------------------------------------------------**search.h4xr0x.club**
     ![image](https://user-images.githubusercontent.com/65768277/131276082-3d0d2355-a2b5-40d8-a850-e2fbb50923bb.png) **h4xr0x.club | h4xr0x.cc**
 ![image](https://user-images.githubusercontent.com/65768277/131276148-09c4cafa-5ca8-4d7c-b185-80eca4df7b89.png)  
@@ -35,7 +35,7 @@ We start with gamesense.pub org on github. notice how he states since they crack
 
 ![image](https://user-images.githubusercontent.com/65768277/131581689-21641a4a-b702-4122-993a-2c649616b65e.png)
 
-tomorrow ill finish this doc; and release the loader after ibuild the discord back, it was deleted  by admins again.
+tomorrow ill finish this doc; and release the loader after ibuild the discord back, it was deleted  by admins again. https://discord.gg/9RxCPt7ja7
 
 README.md
 
