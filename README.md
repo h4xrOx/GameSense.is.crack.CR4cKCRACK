@@ -25,13 +25,128 @@
     ![image](https://user-images.githubusercontent.com/65768277/131276082-3d0d2355-a2b5-40d8-a850-e2fbb50923bb.png) **h4xr0x.club | h4xr0x.cc**
 ![image](https://user-images.githubusercontent.com/65768277/131276148-09c4cafa-5ca8-4d7c-b185-80eca4df7b89.png)  
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/65768277/132968205-70edd2cf-a8aa-432e-a86b-f565217d4ad8.png)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**---9.8.2rc1-RedHat-9.8.2-0.68.rc1.el6_10.10.cloudlinux.els----**
-a.root-servers.net. 590593 IN A 198.41.0.4
-gamesense.cx:198.54.116.12,198.54.115.138,156.154.133.200,156.154.132.200
-https://github.com/h4xrOx/gamesense.cx
-(Attn:these guys are scamming after the scam)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Behind the scam: **Alexander Vitomin**, **Ivan Derzhavin**, **Alexey Rusanov**, **Nikita Sotnikov**, **Dmitry Katsiman** and **Vladimir Orlov** -- Selling your information; trading invites for child porn -- these russians aren't just scamming americans out out of 35$; they are data minning and selling your information. That exit scam that was GameSense.is also is an ungoing data mine on your identitys, privacy and predators after your children. If you find yourself a victim of this; You at least got their names, and I got all of their information. GameSense.is was just using azures 200$ promotion; scamming microsoft with a fake account.... Remember, im h4xr0x, I am, just 1 american hacking a russian team and exposing them - Thats karma, thats Red Hat's eating black hats for breakfast. -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+```<title>NeverLose.cc</title>```
+
+```(function() {
+var alertCont;
+function trackOldBrowserEvent(event) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', '/badbrowser_stat.php?act=track&event=' + event);
+  xhr.send();
+}
+function exposeGlobals() {
+  window.hideOldBrowser = function() {
+    alertCont.remove();
+    var date = new Date();
+    date.setTime(date.getTime() + (7 * 24 * 60 * 60 * 1000));
+    var expiresDate = date.toGMTString();
+    var domain = window.locDomain;
+    document.cookie = 'remixoldbshown=1; expires=' + expiresDate + '; path=/' + (domain ? '; domain=.' + domain : '') + ';secure';
+    trackOldBrowserEvent('hideAlert_atom');
+  }```
+```apiConfigDomains: {
+    domain: 'vk.com',
+    apiDomain: 'api.vk.com',
+    loginDomain: 'login.vk.com',
+    connectDomain: 'connect.vk.com',
+  },```
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+  ```isCallsDevEnv: '' ? true : false,
+};;vk.rv="108293";;if (!window.constants) { window.constants = {Groups: {
+  GROUPS_ADMIN_LEVEL_USER: 0,
+  GROUPS_ADMIN_LEVEL_MODERATOR: 1,
+  GROUPS_ADMIN_LEVEL_EDITOR: 2,
+  GROUPS_ADMIN_LEVEL_ADMINISTRATOR: 3,
+  GROUPS_ADMIN_LEVEL_HOST: 4,
+  GROUPS_ADMIN_LEVEL_EVENT_CREATOR: 5,
+  GROUPS_ADMIN_LEVEL_CREATOR: 6,
+  GROUPS_ADMIN_PSEUDO_LEVEL_ADVERTISER: 100
+}}; };```
+
+```window.locDomain = vk.host.match(/[a-zA-Z]+\.[a-zA-Z]+\.?$/)[0];
+var _ua = navigator.userAgent.toLowerCase();
+if (/opera/i.test(_ua) || !/msie 6/i.test(_ua) || document.domain != locDomain) document.domain = locDomain;
+var ___htest = (location.toString().match(/#(.*)/) || {})[1] || '', ___to;
+___htest = ___htest.split('#').pop();
+if (vk.al != 1 && ___htest.length && ___htest.substr(0, 1) == vk.navPrefix) {
+  if (vk.al != 3 || vk.navPrefix != '!') {
+    ___to = ___htest.replace(/^(\/|!)/, '');
+    if (___to.match(/^([^\?]*\.php|login|mobile|away)([^a-z0-9\.]|$)/)) ___to = '';
+    location.replace(location.protocol + '//' + location.host + '/' + ___to);
+  }
+}```
+</a>
+    <div class="module_body clear_fix">
+      <div class="people_row">
+<div class="people_cell">
+  <a class="people_cell_ava" href="/avitomin" onclick="return nav.go(this, event, {cl_id: 0})" title="Alexander Vitomin">
+    <img class="people_cell_img" src="https://sun6-21.userapi.com/s/v1/if1/AbNyvfLnhv_afHglZLSNdF8uUJj4gZXRQJGg6Pt6xokK8ojuijes9WRwyOWvjK8Fal_Wdx7X.jpg?size=50x50&quality=96&crop=0,218,989,989&ava=1" alt="Alexander Vitomin" />
+    <span class="blind_label">.</span>
+  </a>
+  <div class="people_cell_name">
+    <a href="/avitomin" title="Alexander Vitomin">
+      Alexander
+    </a>
+  </div>
+</div><div class="people_cell">
+  <a class="people_cell_ava" href=" ```/bankcreator"``` onclick="return nav.go(this, event, {cl_id: 0})" ```title="Ivan Derzhavin">```
+    <img class="people_cell_img" src="https://sun6-21.userapi.com/s/v1/ig2/c6SuQ0HzjanbIFNs7wNla3LOPrvU573ChfJRM3IEQv4XvzvLrSHHusQlNIGk7s90FF5ZFmDm7gJf1zbArhYluS9Z.jpg?size=50x50&quality=96&crop=0,64,1856,1856&ava=1" alt="Ivan Derzhavin" />
+    <span class="blind_label">.</span>
+  </a>
+  <div class="people_cell_name">
+    <a href=" **/bankcreator**" title=" ```Ivan Derzhavin">```
+      Ivan
+    </a>
+  </div>
+</div><div class="people_cell">
+  <a class="people_cell_ava" href="/nd1337" onclick="return nav.go(this, event, {cl_id: 0})" title=" ```Alexey Rusanov">```
+    <img class="people_cell_img" src="https://sun6-21.userapi.com/s/v1/ig2/eMjvrctl7qlqz7WKkR8DVNzM2A6xxVeT574bQ3ZJLGUK_k2aPH15lqeIcz2f6VTvbCJ_4RwrZX7l0PYtcb0Y36v9.jpg?size=50x50&quality=96&crop=746,0,1236,1236&ava=1" alt="Alexey Rusanov" />
+    <span class="blind_label">.</span>
+  </a>
+  <div class="people_cell_name">
+    <a href="/nd1337" ```title="Alexey Rusanov">```
+      Alexey
+    </a>
+  </div>
+</div>
+</div><div class="people_row">
+<div class="people_cell">
+  <a class="people_cell_ava" href=" ```/nadushaalove"``` onclick="return nav.go(this, event, {cl_id: 0})" ```title="Nikita Sotnikov">```
+    <img class="people_cell_img" src="https://sun6-20.userapi.com/s/v1/ig2/cfP7lv0fikj_DVAyr9-9odVVqevlP3RFpQwtOiT4FfxxXfsmqffh_vSyPQmGWhxG9Qqd2F9EDACkwgWKI89H1WkM.jpg?size=50x50&quality=96&crop=0,261,677,677&ava=1" alt="Nikita Sotnikov" />
+    <span class="blind_label">.</span>
+  </a>
+  <div class="people_cell_name">
+    <a href="/nadushaalove" ```title="Nikita Sotnikov">```
+      Nikita
+    </a>
+  </div>
+</div><div class="people_cell">
+  <a class="people_cell_ava" href="/id5630122" onclick="return nav.go(this, event, {cl_id: 0})" ```title="Dmitry Katsiman">```
+    <img class="people_cell_img" src="https://sun6-22.userapi.com/s/v1/ig1/J83nqrP5_HId7rFM1kGVtvdvre-1cS5mu2UQw0voQOdSRuGS5gM9ZewOCWEp5sKxIz4iM3Af.jpg?size=50x50&quality=96&crop=1,170,1617,1617&ava=1"  ```alt="Dmitry Katsiman"``` />
+    <span class="blind_label">.</span>
+  </a>
+  <div class="people_cell_name">
+    <a href="/id5630122" ```title="Dmitry Katsiman">```
+      Dmitry
+    </a>
+  </div>
+</div><div class="people_cell">
+  <a class="people_cell_ava" href="/v.orlov84" onclick="return nav.go(this, event, {cl_id: 0})" ```title="Vladimir Orlov">```
+    <img class="people_cell_img" src="https://sun6-22.userapi.com/s/v1/if2/dUWFtmRj2vMVcZg7rrbMeEsADMAkuxCkMjqTsExTR4rJEfQe-3YmLOYVSApIp5ygfXnrcmUPzcJ0iuZp9yrBD3ZD.jpg?size=50x50&quality=96&crop=115,21,423,423&ava=1" alt="Vladimir Orlov" />
+    <span class="blind_label">.</span>
+  </a>
+  <div class="people_cell_name">
+    <a href="/v.orlov84" ```title="Vladimir Orlov">```
+      ```Vladimir```
+    </a>
+  </div>
+</div>
+</div>
+    </div>
 /|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|/|\|\|\|\|\|\|\|/|\|\|\|\|\|\|\|/|\|\|\|\|\|\|\||\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|/|\|\|\|\|\|\|\|/|\|\|\|\|\|\|\|/|\|\|\|\|\|\|\|/
 |\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|/|\|\|\|\|\|\|\|/|\|\|\|\|\|\|\|/|\|\|\|\|\|\|\||\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|/|\|\|\|\|\|\|\|/|\|\|\|\|\|\|\|/|\|\|\|\|\|\|\|
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------![image](https://user-images.githubusercontent.com/65768277/134754581-7e84d9a6-7b73-4797-bf2b-af17c6b68fcb.png)
