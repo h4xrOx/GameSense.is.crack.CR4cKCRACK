@@ -80,7 +80,7 @@
     "eslint": "^7.9.0",
     "eslint-plugin-nuxt": "^1.0.0",
     "eslint-plugin-vue": "^6.2.2",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "nodemon": "^2.0.4",
     "sass-lint": "^1.13.1",
     "sass-lint-auto-fix": "^0.21.2",
