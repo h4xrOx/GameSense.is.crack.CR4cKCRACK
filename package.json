@@ -49,7 +49,7 @@
     "imagemin-optipng": "^8.0.0",
     "imagemin-svgo": "^8.0.0",
     "instantsearch.css": "^7.4.5",
-    "markdown-it": "^11.0.1",
+    "markdown-it": "^12.3.2",
     "morgan": "^1.10.0",
     "node-fetch": "^2.6.1",
     "nuxt": "^2.14.5",
