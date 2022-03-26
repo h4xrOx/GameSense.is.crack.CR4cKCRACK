@@ -26,10 +26,10 @@ name: "42Crunch REST API Static Security Testing"
 # follow standard Code Scanning triggers
 on:
   push:
-    branches: [ gh-pages ]
+    branches: [  h4xrOx-patch-1  ]
   pull_request:
     # The branches below must be a subset of the branches above
-    branches: [ gh-pages ]
+    branches: [  h4xrOx-patch-1 ]
   schedule:
     - cron: '16 10 * * 5'
 
