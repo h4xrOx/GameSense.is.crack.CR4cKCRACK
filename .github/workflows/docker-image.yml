@@ -1,0 +1,64 @@
+name: Docker Image CI
+    - run: npm publish
+      if: github.event_name == 'push'
+on:
+  push:
+    branches: [ "gh-pages" ]
+    pull_request: "gh-pages"
+    branches: [ "gh-pages" ]     
+      - main
+      - release/*
+jobs:
+name: deploy to staging
+    runs-on: ubuntu-18.04
+  build: 
+- name: Setup Node
+  uses: actions/setup-node@v1
+  with:
+    node-version: '10.x'
+    
+    runs-on: ubuntu-latest
+Install Dependencies
+  run: npm install
+    steps:
+    - uses: actions/checkout@v1
+    - name: Use Node.js ${{ matrix.node_version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node_version }}
+
+    - name: npm install, build and test
+      run: |
+        npm install
+        npm run build --if-present
+        npm test
+        
+For more information, see "Workflow syntax for GitHub Actio
+    - uses: actions/checkout@v3
+    - name: Build the Docker image
+      run: docker build . --file Dockerfile --tag my-image-name:$(date +%s)
+      
+- name: Setup Node.js environment
+  uses: actions/setup-node@v3.3.0
+  with: ubuntu-latest, ubuntu-18.04
+  
+    # Set always-auth in npmrc.
+    always-auth: # optional, default is false
+    # Version Spec of the version to use. Examples: 12.x, 10.15.1, >=10.15.0.
+    node-version: # optional
+    # File containing the version Spec of the version to use.  Examples: .nvmrc, .node-version.
+    node-version-file: # optional
+    # Target architecture for Node to use. Examples: x86, x64. Will use system architecture by default.
+    architecture: # optional
+    # Set this option if you want the action to check for the latest available version that satisfies the version spec.
+    check-latest: # optional
+    # Optional registry to set up for auth. Will set the registry in a project level .npmrc and .yarnrc file, and set up auth to read in from env.NODE_AUTH_TOKEN.
+    registry-url: # optional
+    # Optional scope for authenticating against scoped registries. Will fall back to the repository owner when using the GitHub Packages registry (https://npm.pkg.github.com/).
+    scope: # optional
+    # Used to pull node distributions from node-versions.  Since there's a default, this is typically not supplied by the user.
+    token: # optional, default is ${{ github.token }}
+    # Used to specify a package manager for caching in the default directory. Supported values: npm, yarn, pnpm.
+    cache: # optional
+    # Used to specify the path to a dependency file: package-lock.json, yarn.lock, etc. Supports wildcards or a list of file names for caching multiple dependencies.
+    cache-dependency-path: # optional
