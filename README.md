@@ -1,6 +1,56 @@
-## https://gamesense.cloud
-## https://discord.gg/SjHFVAjFHj
-## https://h4xr0x.cc
+I sell nothing ## https://gamesense.cloud
+I dont play games ## https://discord.gg/SjHFVAjFHj
+This repo was a honey pot ## https://h4xr0x.cc
+## Issues: https://github.com/h4xrOx/GameSense.is.crack.CR4cKCRACK/issues/33#issue-1315701860 # READ & NO ISSUES
+```
+10:47:12.496 4dd7bd3.js:1 XHR loading: GET "https://api.gamesense.is/v1/licenses/".
+(anonymous) @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
+t.exports @ 4dd7bd3.js:1
+10:47:41.034 GET /vps/{gamesense.pub}/automatedBackup/restorePoints
+10:47:41.078 VM108:1 Uncaught SyntaxError: Unexpected token '.'
+10:48:02.298 GET "https://api.gamesense.is/v1/licenses/"
+10:48:02.340 VM136:1 Uncaught SyntaxError: Unexpected string
+10:48:08.903 fetch("GET "https://api.gamesense.is/v1/licenses/"")
+10:48:08.916 VM176:1 Uncaught SyntaxError: missing ) after argument list
+10:48:13.706 fetch("publickey-credentials-get")
+10:48:13.721 Promise {<pending>}
+10:48:14.047 VM198:1 GET https://gamesense.is/publickey-credentials-get (anonymous) @ VM198:1
+10:49:48.876 Fetch  loading: GET "<URL>".
+10:48:29.420 fetch("https://gamesense.pub/check?pc=8fb6e3d49e58aaf9f47da0022068aed6&pass=1625222861.348-u8b2jBZ&answer=174.8724489537", {
+  "headers": {
+    "    "sec-fetch-site": "same-origin",
+    "upgrade-insecure-requests": "1"
+  },
+  "referrer": "https://gamesense.pub/forums/register.php?action=register",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "include"
+});
+10:48:29.504 Promise {<pending>}
+10:48:29.755 /profile:1 Access to fetch at 'https://gamesense.pub/check?pc=8fb6e3d49e58aaf9f47da0022068aed6&pass=1625222861.348-u8b2jBZ&answer=174.8724489537' from origin 'https://gamesense.is' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
+10:48:29.756 VM231:1 GET https://gamesense.pub/check?pc=8fb6e3d49e58aaf9f47da0022068aed6&pass=1625222861.348-u8b2jBZ&answer=174.8724489537 net::ERR_FAILED
+(anonymous) @ VM231:1
+10:48:29.756 /profile:1 Uncaught (in promise) TypeError: Failed to fetch
+10:48:49.612 fetch("D27CDB6E-AE6D-11cf-96B8-444553540000")
+10:48:49.654 Promise {<pending>}
+10:48:49.941 VM269:1 GET https://gamesense.is/D27CDB6E-AE6D-11cf-96B8-444553540000 404
+(anonymous) @ VM269:1
+10:49:13.111 fetch("thomasalwyndavis@gmail.com")
+10:49:13.200 Promise {<pending>}
+10:49:13.447 VM310:1 GET https://gamesense.is/thomasalwyndavis@gmail.com 404
+(anonymous) @ VM310:1
+10:49:22.762 fetch "https://dev-04nbtfx2.us.auth0.com/api/v2/"
+10:49:22.775 VM336:1 Uncaught SyntaxError: Unexpected string
+10:49:48.510 fetch("https://dev-04nbtfx2.us.auth0.com/api/v2/")
+10:49:48.526 Promise {<pending>}
+10:49:48.850 /profile:1 Access to fetch at 'https://dev-04nbtfx2.us.auth0.com/api/v2/' from originaccept":
+```
+![image](https://user-images.githubusercontent.com/65768277/182027993-0e03f461-ffef-4031-b91e-0a3cd7dcbd63.png)
+![image](https://user-images.githubusercontent.com/65768277/182028008-9567be6e-a40e-4b21-9ed2-ca57a4a6aa22.png)
+![image](https://user-images.githubusercontent.com/65768277/182028052-19a9808e-3587-4a8f-8b90-ea654bfb1fd2.png)
 
 
 
