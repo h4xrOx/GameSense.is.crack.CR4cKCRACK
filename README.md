@@ -1,7 +1,8 @@
-I sell nothing ## https://gamesense.cloud
-I dont play games ## https://discord.gg/SjHFVAjFHj
-This repo was a honey pot ## https://h4xr0x.cc
-## 
+#I sell nothing ## https://gamesense.cloud
+#I dont play games ## https://discord.gg/SjHFVAjFHj
+#This repo was a honey pot ## https://h4xr0x.cc
+
+```
 cl_showfps 1
 maxplayers 1
 sv_cheats 1
@@ -34,6 +35,7 @@ alias GAM2      "cl_clanid 35297419 ;alias Clantag GA2"
 alias GA2       "cl_clanid 35297418 ;alias Clantag G"
 
 alias Clantag "G"
+```
 # CheatVar
 
 {% hint style="info" %}
@@ -449,9 +451,9 @@ xy();```
             }
         }
     }
-}
+}```
 
-```Global.RegisterCallback("Draw", "keybinds");
+```Global.RegisterCallback("Draw", "keybinds");```
 
 ```//spactator list
 UI.AddSliderInt("Specs_x", 0, Render.GetScreenSize()[0])
@@ -519,15 +521,13 @@ function get_spectators() {
         }
     }
 
-}
+}```
 
-
+```Global.RegisterCallback("Draw", "Spectatorss");
 ```
-Global.RegisterCallback("Draw", "Spectatorss");
-
 //resolver
 /*
-UI.AddCheckbox("Better resolver")
+```UI.AddCheckbox("Better resolver")
 var onres = UI.GetValue("Script items", "Better resolver")
 var isKeyActive = UI.IsHotkeyActive( "Rage", "GENERAL", "General", "Resolver override" );
 function betterresik()
@@ -548,8 +548,9 @@ function betterresik()
 
     }
 }
+```
 Cheat.RegisterCallback("CreateMove", "betterresik");
-*/```
+*/
 
 ```///clantag
 var lasttime = 0;
@@ -781,11 +782,11 @@ function clantag() {
         }
     }
     lasttime = time;
-}```
+}
 Cheat.RegisterCallback("Draw", "clantag");
 ```
 //set settings
-function setSsaa() {
+```function setSsaa() {
     var aaon = UI.GetValue("Script items", "Enable antiaim")
     var aaat = UI.GetValue("Script items", "At targets")
     var aaad = UI.GetValue("Script items", "Freestand")
@@ -794,7 +795,8 @@ function setSsaa() {
     UI.SetValue("Anti-Aim", "Rage Anti-Aim", "At targets", aaat)
     UI.SetValue("Anti-Aim", "Rage Anti-Aim", "Auto direction", aaad)
 }
-```Cheat.RegisterCallback("Draw", "setSsaa");
+```Cheat.RegisterCallback("Draw", "setSsaa");```
+
 //watermark
 
 ```Cheat.CursorInBox = function(x, y, length, height) {
@@ -802,42 +804,42 @@ function setSsaa() {
     if (cursor[0] > x && cursor[0] < x + length && cursor[1] > y && cursor[1] < y + height)
         return true
     return false
-}
+}```
 
 ```function settings(x, y, w, h, color, title) {
     var font = Render.AddFont("MuseoSansCyrl-500", 12, 500)
     var font3 = Render.AddFont("MuseoSansCyrl-900", 12, 500)
     var font2 = Render.AddFont("MuseoSansCyrl-900", 21, 500)
-
-    Render.FilledRect(x, y - 1, w - 2, h, color)
+    ```
+    ```Render.FilledRect(x, y - 1, w - 2, h, color)
     Render.FilledRect(x - 1, y, w, h - 2, color)
-
-    Render.FilledRect(x - 1, y + 25, 300, 2, [16, 37, 61, 255], font)
+    ```
+    ```Render.FilledRect(x - 1, y + 25, 300, 2, [16, 37, 61, 255], font)
     Render.FilledRect(x - 1, y + 95, 300, 2, [16, 37, 61, 255], font)
     Render.FilledRect(x - 1, y + 375, 300, 2, [16, 37, 61, 255], font)
-
+    ```
     //version
-    Render.StringCustom(x + 20, y + 125, 0, "Version:", [255, 255, 255, 255], font3)
-    Render.StringCustom(x + 90, y + 125, 0, "1.0.0", [34, 179, 246, 255], font3)
+    ```Render.StringCustom(x + 20, y + 125, 0, "Version:", [255, 255, 255, 255], font3)
+    Render.StringCustom(x + 90, y + 125, 0, "1.0.0", [34, 179, 246, 255], font3)```
 
     //build date
-    Render.StringCustom(x + 20, y + 155, 0, "Build date:", [255, 255, 255, 255], font3)
-    Render.StringCustom(x + 110, y + 155, 0, "09.01.2021", [34, 179, 246, 255], font3)
+   ``` Render.StringCustom(x + 20, y + 155, 0, "Build date:", [255, 255, 255, 255], font3)
+    Render.StringCustom(x + 110, y + 155, 0, "09.01.2021", [34, 179, 246, 255], font3)```
 
     //build type
-    Render.StringCustom(x + 20, y + 185, 0, "Build type:", [255, 255, 255, 255], font3)
-    Render.StringCustom(x + 110, y + 185, 0, "Beta", [34, 179, 246, 255], font3)
+   ``` Render.StringCustom(x + 20, y + 185, 0, "Build type:", [255, 255, 255, 255], font3)
+    Render.StringCustom(x + 110, y + 185, 0, "Beta", [34, 179, 246, 255], font3)```
 
     //build type
-    Render.StringCustom(x + 20, y + 215, 0, "Created by:", [255, 255, 255, 255], font3)
-    Render.StringCustom(x + 115, y + 215, 0, "Magma (magma#8327)", [34, 179, 246, 255], font3)
+    ```Render.StringCustom(x + 20, y + 215, 0, "Created by:", [255, 255, 255, 255], font3)
+    Render.StringCustom(x + 115, y + 215, 0, "Magma (magma#8327)", [34, 179, 246, 255], font3)```
 
     //subribtion
-    Render.StringCustom(x + 20, y + 245, 0, "Subcription till:", [255, 255, 255, 255], font3)
-    Render.StringCustom(x + 145, y + 245, 0, "Never", [34, 179, 246, 255], font3)
+    ```Render.StringCustom(x + 20, y + 245, 0, "Subcription till:", [255, 255, 255, 255], font3)
+    Render.StringCustom(x + 145, y + 245, 0, "Never", [34, 179, 246, 255], font3)```
 
     //neverlose copy
-    Render.StringCustom(x + 76, y + 315, 0, "neverlose.cc © 2021", [255, 255, 255, 255], font)
+   ```Render.StringCustom(x + 76, y + 315, 0, "neverlose.cc © 2021", [255, 255, 255, 255], font)
 
     Render.StringCustom(x + 36, y + 3, 0, title, [255, 255, 255, 255], font)
     Render.StringCustom(x + 6, y + 3, 0, "NL", [34, 179, 246, 255], font3)
@@ -845,15 +847,15 @@ function setSsaa() {
 
     Render.StringCustom(x + 39, y + 44, 0, "NEVERLOSE.CC", [34, 179, 246, 255], font2)
     Render.StringCustom(x + 40, y + 45, 0, "NEVERLOSE.CC", [255, 255, 255, 255], font2)
-}
+}```
 
-function drawBoard(x, y, w, h, color, title) {
+```function drawBoard(x, y, w, h, color, title) {
     var font = Render.AddFont("MuseoSansCyrl-900", 21, 500)
     var font2 = Render.AddFont("MuseoSansCyrl-500", 11, 500)
     var font3 = Render.AddFont("MuseoSansCyrl-900", 11, 500)
-    var icon = Render.AddFont("raphaelicons", 19, 500)
+    var icon = Render.AddFont("raphaelicons", 19, 500)```
 
-    Render.FilledRect(x, y - 1, 198, 630, [4, 12, 25, 230])
+   Render.FilledRect(x, y - 1, 198, 630, [4, 12, 25, 230])
     Render.FilledRect(x + 198, y - 1, 650, 630, [9, 6, 13, 255])
 
     Render.FilledCircle(x + 30, y + 595, 20, [255, 255, 255, 255])
@@ -989,7 +991,7 @@ function checkbox(x, y, name, enable) {
             return false
         }
     }
-}
+}```
 
 ```function settings_checkbox(x, y, name, enable) {
     var color1 = [74, 87, 97, 255]
@@ -1024,10 +1026,10 @@ function checkbox(x, y, name, enable) {
             return false
         }
     }
-}
+}```
 
 
-function addTab(x, y, name, value) {
+```function addTab(x, y, name, value) {
     var font = Render.AddFont("MuseoSansCyrl-500", 13, 500)
     var color1 = [74, 87, 97, 255]
     var enable = UI.GetValue("Script items", "Tabs")
@@ -1064,9 +1066,9 @@ function addTab(x, y, name, value) {
             return false
         }
     }
-}
+}```
 
-function weaponGroup(x, y, name, value) {
+```function weaponGroup(x, y, name, value) {
     var font = Render.AddFont("MuseoSansCyrl-500", 13, 500)
     var color1 = [74, 87, 97, 255]
     var enableRAGE = UI.GetValue("Script items", "WeaponsRage")
@@ -1103,16 +1105,16 @@ function weaponGroup(x, y, name, value) {
             return false
         }
     }
-}
+}```
 
-
+```
 /*
 x - отступ с лева
 y - отступ с верху
 h - ширина
 w - высота
 */
-function menubox(x, y, h, w, name) {
+```function menubox(x, y, h, w, name) {
     var font = Render.AddFont("MuseoSansCyrl-500", 13, 500)
     var color1 = [255, 255, 255, 255]
     var color2 = [1, 11, 21, 255]
@@ -1130,7 +1132,7 @@ function menubox(x, y, h, w, name) {
 //mainmenu
 
 //chacks misc-aa
-UI.AddCheckbox("Enable binds list")
+```UI.AddCheckbox("Enable binds list")
 UI.AddCheckbox("Enable spectators list")
 UI.AddCheckbox("Clantag")
 UI.AddCheckbox("Rage")
@@ -1147,24 +1149,24 @@ UI.SetEnabled("Misc", "JAVASCRIPT", "Script items", "Enable antiaim", false);
 UI.SetEnabled("Misc", "JAVASCRIPT", "Script items", "At targets", false);
 UI.SetEnabled("Misc", "JAVASCRIPT", "Script items", "Freestand", false);
 UI.SetEnabled("Misc", "JAVASCRIPT", "Script items", "AA on slowwalk", false);
-
+```
 //visuals
 
-UI.AddCheckbox("Local Bullet Tracer");
+```UI.AddCheckbox("Local Bullet Tracer");
 UI.SetEnabled("Misc", "JAVASCRIPT", "Script items", "Local Bullet Tracer", false);
-
+```
 //tabs
-UI.AddDropdown("Tabs", ["Ragebot", "Antiaim", "Legitbot", "Players", "Weapon", "Grenades", "World", "View", "Main", "Inventory", "Scripts", "Config"])
+```UI.AddDropdown("Tabs", ["Ragebot", "Antiaim", "Legitbot", "Players", "Weapon", "Grenades", "World", "View", "Main", "Inventory", "Scripts", "Config"])
 UI.SetEnabled("Misc", "JAVASCRIPT", "Script items", "Tabs", false);
-
+```
 //weapon group
 //-rage
-UI.AddDropdown("WeaponsRage", ["GENERAL", "PISTOL", "HEAVY PISTOL", "SCOUT", "AWP", "AUTOSNIPER"])
-UI.SetEnabled("Misc", "JAVASCRIPT", "Script items", "WeaponsRage", false);
+```UI.AddDropdown("WeaponsRage", ["GENERAL", "PISTOL", "HEAVY PISTOL", "SCOUT", "AWP", "AUTOSNIPER"])
+```UI.SetEnabled("Misc", "JAVASCRIPT", "Script items", "WeaponsRage", false);
 
-
+```
 // rage
-UI.AddCheckbox("Enable rage")
+```UI.AddCheckbox("Enable rage")
 UI.AddCheckbox("Override default for pistol")
 UI.AddCheckbox("Override default for heavy")
 UI.AddCheckbox("Override default for scout")
@@ -1187,9 +1189,9 @@ UI.SetEnabled("Misc", "JAVASCRIPT", "Script items", "Show ping", false);
 UI.SetEnabled("Misc", "JAVASCRIPT", "Script items", "Show name", false);
 UI.SetEnabled("Misc", "JAVASCRIPT", "Script items", "Show time", false);
 UI.SetEnabled("Misc", "JAVASCRIPT", "Script items", "Show ip", false);
-
+```
 /*
-UI.SetEnabled( "Legit", "GENERAL", "General", "Enabled", false );
+```UI.SetEnabled( "Legit", "GENERAL", "General", "Enabled", false );
 UI.SetEnabled( "Legit", "GENERAL", "General", "Reaction time", false );
 UI.SetEnabled( "Legit", "GENERAL", "Triggerbot", "Enabled", false );
 UI.SetEnabled( "Legit", "GENERAL", "Triggerbot", "Magnet", false );
@@ -1210,10 +1212,10 @@ UI.SetEnabled( "Legit", "PISTOL", "General", "Override default", false );
 UI.SetEnabled( "Legit", "RIFLE", "General", "Override default", false );
 UI.SetEnabled( "Legit", "SNIPER", "General", "Override default", false );
 UI.SetEnabled( "Legit", "SMG", "General", "Override default", false );
-*/
+*/```
 
 
-UI.SetEnabled("Misc", "PERFOMANCE & INFORMATION", "Information", "Watermark", false);
+```UI.SetEnabled("Misc", "PERFOMANCE & INFORMATION", "Information", "Watermark", false);
 
 UI.SetValue("Misc", "PERFOMANCE & INFORMATION", "Information", "Watermark", false);
 
