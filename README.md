@@ -1,7 +1,7 @@
 [![Board Status](https://dev.azure.com/wwwgamesensepub/85926823-5bbc-4a97-87aa-78e79db23598/1043a6c1-41d4-435f-8291-997110805037/_apis/work/boardbadge/f2ef5ef6-ce58-4b4a-bfbf-b8a7373f3069)](https://dev.azure.com/wwwgamesensepub/85926823-5bbc-4a97-87aa-78e79db23598/_boards/board/t/1043a6c1-41d4-435f-8291-997110805037/Microsoft.RequirementCategory)
-# gamesense.pub crack
+# gamesense.pub
 
-## GAMESENSE.IS | GAMESENSE.PUB | SKEET.CC
+## GAMESENSE.IS | GAMESENSE.PUB | SKEET.CC 
 ```
 // original gamesense.pub crack (fake) gamesense.pub staff leaked the lua workshop, the gamesensical staff group dox'd the documentation which lead to it being // used in other cheat sources as api.gamesense.is = gcode solutions, legendware, nixware, dota2 company login. in directory you can find the build't in cheat // sources; the " crack" is leak of DLC ( downloadable content ) skeet is legendary because of the users who made that content. The cheat is an original paste, // the base buildt in cheat is by valve, extended by the community of modders, of which the hvh community gives crown to the rage content made by skeet users. // Which content can be used in this "crack" .
 ```
@@ -39,7 +39,7 @@ https://github.com/h4xrOx/GAMESENSE-CRACKED-HACKED-DUMPED
 #### */* --you will need Ubuntu 20.04:  https://apps.microsoft.com/store/detail/ubuntu-20044-lts/9MTTCL66CPXJ
 #### */* --you will need to install NodeJS: https://ubuntu.com/tutorials/working-with-visual-studio-code-on-ubuntu-on-wsl2#5-install-nodejs-and-create-a-new-project
 #### */* --you will need to install sdkman: ``curl -s "https://get.sdkman.io" | bash``
-#### */* --you will need to then install ``sdk install maven`` ``sdk instal spring-boot`` ``sdk isntall java`` ``sdk install quarkus``
+#### */* --you will need to then install ``sdk install maven`` ``sdk instal spring-boot`` ``sudo apt-get install openjdk-11-jdk`` ``sdk list java`` ``sdk install quarkus``
 #### */* --you will need to install: Visual Studio Code https://code.visualstudio.com/
 #### */* --you will need to install the Remote Development extention: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-   extensionpack
 #### */* --you will need to install docker desktop: https://docs.docker.com/desktop/install/windows-install/
@@ -218,11 +218,12 @@ mvn io.quarkus.platform:quarkus-maven-plugin:2.12.0.Final:create \
 
  #### */* -- the application configuration file
 
-####Once generated, look at the pom.xml. You will find the import of the Quarkus BOM, allowing you to omit the version of the different Quarkus ####dependencies. In addition, you can see the quarkus-maven-plugin responsible of the packaging of the application and also providing the development mode. ####I had you navigate to `/demo/gs/` so you could this. I have already buildt the application in the main directory which has all dependancies and structure ####as a to guide you at any point you feel you need a reference.
+## Once generated, look at the pom.xml. You will find the import of the Quarkus BOM, allowing you to omit the version of the different Quarkus dependencies. In addition, you can see the quarkus-maven-plugin responsible of the packaging of the application and also providing the development mode. ####I had you navigate to `/demo/gs/` so you could this. I have already buildt the application in the main directory which has all dependancies and structure ####as a to guide you at any point you feel you need a reference.
 
 # The JAX-RS resources
 
-#### During the project creation, the src/main/java/org/acme/GreetingResource.java file has been created with the following content:
+### During the project creation, the src/main/java/org/acme/GreetingResource.java file has been created with the following content:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ```
 package org.gamesense.acme;
@@ -242,8 +243,9 @@ public class GreetingResource {
     }
 }
 ```
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### It’s a very simple REST endpoint, returning "Hello from RESTEasy Reactive" to requests on "/hello".
+#### It’s a very simple REST endpoint, returning "Hello from RESTEasy Reactive" to requests on "/hello".
 
 # Now we are ready to run our application, type the following command:
 
@@ -272,6 +274,7 @@ Hello from RESTEasy Reactive
 # Using injection
 
 #### */* -- Dependency injection in Quarkus is based on ArC which is a CDI-based dependency injection
+
 #### */* -- ArC comes as a dependency of quarkus-resteasy-reactive so you already have it handy. 
 
 ### if you stopped the application, restart it with the following command:
@@ -284,11 +287,11 @@ Hello from RESTEasy Reactive
 
 ```
 $ curl -w "\n" http://localhost:8080/hello/greeting/quarkus
+
 hello quarkus
 ```
 
 #### Normally you have to Modify the application and add a companion bean. Create the src/main/java/org/acme/GreetingService.java, navigate to it, here is where we can add import dependancies and features we want to add for testing or updates.
-
 
 
 # Development Mode
@@ -297,57 +300,52 @@ hello quarkus
 
 ## OAS Generation During Runtime
 
-#### Swagger-core is the Java implementation of Swagger. Current version supports JAX-RS and plain servlets.
-In this method, the Swagger/OAS contract is generated from an API based on the meta-data added against the various resources, methods and controllers. This meta-data will generate the contract, client-side code, and other artifacts during runtime. Typically, this meta-data will be in the form of code annotations. The tools trigger as the various methods and functions are called against their resources, and produces the OAS contract from the metadata defined in the API.
+## Swagger-core is the Java implementation of Swagger. Current version supports JAX-RS and plain servlets.
 
-## There are three steps required to generate an OAS document from an existing API:
+## In this method, the Swagger/OAS contract is generated from an API based on the meta-data added against the various resources, methods and controllers. This meta-data will generate the contract, client-side code, and other artifacts during runtime. Typically, this meta-data will be in the form of code annotations. The tools trigger as the various methods and functions are called against their resources, and produces the OAS contract from the metadata defined in the API.
+
+# There are three steps required to generate an OAS document from an existing API:
 
 #### */* --  Adding dependencies to your application
 #### */* --  Hooking Swagger Core to the Application
 #### */* --  Initialize the OAS Contract
 
-#### The Swagger project uses maven for build and deployment of artifacts, available on Maven Central. Maven dependencies need JAX-RS coded API for Swagger Core to run. We hooked Swagger Core into the API with spring to get the dependancies. OAS definition can be initialized within an application during its runtime. The generated OAS definition will be in two files, defined in JSON and YAML. Take a look at swagger inspector https://swagger.io/tools/swagger- and insert the end point of the resource you want to have documented. You can then navigate to the right panel from the History section of Swagger Inspector, and click "Create API definition" to create the OAS definition.
+### The Swagger project uses maven for build and deployment of artifacts, available on Maven Central. Maven dependencies need JAX-RS coded API for Swagger Core to run. We hooked Swagger Core into the API with spring to get the dependancies. OAS definition can be initialized within an application during its runtime. The generated OAS definition will be in two files, defined in JSON and YAML. Take a look at swagger inspector https://swagger.io/tools/swagger- and insert the end point of the resource you want to have documented. You can then navigate to the right panel from the History section of Swagger Inspector, and click "Create API definition" to create the OAS definition.
 
 ![image](https://user-images.githubusercontent.com/65768277/188306662-47be1365-ad39-459a-be89-c85a815cb8a6.png)
 
 
 
-## Package and run the application
+# Package and run the application
 
 ```
 ./mvnw quarkus:dev
 ```
 
-### Open your browser to http://localhost:8080/greeting.
+# Open your browser to http://localhost:8080/greeting.
 
-#### The result should be: `{"message": "hello"}.`
+## The result should be: `{"message": "hello"}.`
 
-#### quarkus:dev runs Quarkus in development mode. This enables live reload with background compilation, which means that when you modify your Java files and/or your resource files and refresh your browser, these changes will automatically take effect. This works too for resource files like the configuration property file. Refreshing the browser triggers a scan of the workspace, and if any changes are detected, the Java files are recompiled and the application is redeployed; your request is then serviced by the redeployed application. If there are any issues with compilation or deployment an error page will let you know. This will also listen for a debugger on port 5005. If you want to wait for the debugger to attach before running you can pass -Dsuspend on the command line. If you don’t want the debugger at all you can use -Ddebug=false.
+### quarkus:dev runs Quarkus in development mode. This enables live reload with background compilation, which means that when you modify your Java files and/or your resource files and refresh your browser, these changes will automatically take effect. This works too for resource files like the configuration property file. Refreshing the browser triggers a scan of the workspace, and if any changes are detected, the Java files are recompiled and the application is redeployed; your request is then serviced by the redeployed application. If there are any issues with compilation or deployment an error page will let you know. This will also listen for a debugger on port 5005. If you want to wait for the debugger to attach before running you can pass -Dsuspend on the command line. If you don’t want the debugger at all you can use -Ddebug=false.
 
 
-### Run the application as a native executable
+# Run the application as a native executable
 
 ```
 ./mvnw package -Dnative
 ```
 
 # Adding OpenAPI and Swagger-UI
-## You can add support for OpenAPI and Swagger-UI by using the quarkus-smallrye-openapi extension.
 
-### Add the extension by running this command: 
+## You can add support for OpenAPI and Swagger-UI by using the quarkus-smallrye-openapi extension. Add the extension by running this command: 
 
 ```
 ./mvnw quarkus:add-extension -Dextensions="io.quarkus:quarkus-smallrye-openapi"
 ```
 
 #### The command below is enough to generate a basic OpenAPI schema document from your REST Endpoints You will see the generated OpenAPI schema document:
+
 ```
 curl http://localhost:8080/q/openapi
 ```
-
-
-
-
-
-
 
