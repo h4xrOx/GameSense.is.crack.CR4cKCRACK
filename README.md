@@ -1,31 +1,25 @@
 [![Board Status](https://dev.azure.com/wwwgamesensepub/85926823-5bbc-4a97-87aa-78e79db23598/1043a6c1-41d4-435f-8291-997110805037/_apis/work/boardbadge/f2ef5ef6-ce58-4b4a-bfbf-b8a7373f3069)](https://dev.azure.com/wwwgamesensepub/85926823-5bbc-4a97-87aa-78e79db23598/_boards/board/t/1043a6c1-41d4-435f-8291-997110805037/Microsoft.RequirementCategory)
-# gamesense.pub
+# @`[https://discord.gg/EYCBURUPcm]
 
 ## GAMESENSE.IS | GAMESENSE.PUB | SKEET.CC 
 ```
 // original gamesense.pub crack (fake) gamesense.pub staff leaked the lua workshop, the gamesensical staff group dox'd the documentation which lead to it being // used in other cheat sources as api.gamesense.is = gcode solutions, legendware, nixware, dota2 company login. in directory you can find the build't in cheat // sources; the " crack" is leak of DLC ( downloadable content ) skeet is legendary because of the users who made that content. The cheat is an original paste, // the base buildt in cheat is by valve, extended by the community of modders, of which the hvh community gives crown to the rage content made by skeet users. // Which content can be used in this "crack" .
 ```
-#ABOUT GAMESENSICAL
-##GameSense
-```// official gamesense steam group.
-// staff/beta and trusted members only.
-```
-# Steam Group Administrators: NmChris and Wish
-```/// Steam Group Moderators: Beta Users Only```
-# https://steamcommunity.com/groups/gamesensical
-# https://gamesensical.gitbook.io/docs/
-# original dev branch: https://github.com/h4xrOx/gamesense_docs
-![image](https://user-images.githubusercontent.com/65768277/188262448-e368f0d6-143d-41bf-bffb-225638e2e493.png)
-![image](https://user-images.githubusercontent.com/65768277/188262307-8f54f9dd-e9b2-48e2-a7b2-8bd0f117897c.png)
-![image](https://user-images.githubusercontent.com/65768277/188262381-7db4dc2d-2b31-4211-9f86-6df11a66cf5f.png)
+# gs Project 
 
-# 
+### Application
 
-//..//..//..//
-https://github.com/h4xrOx/GAMESENSE-CRACKED-HACKED-DUMPED
+*   GroupId: `gamesense.org.acme`
+*   ArtifactId: `gs`
+*   Version: `1.0.0-SNAPSHOT`
+*   Quarkus Version: `2.3.0.Final`
 
-# Gamesense.pub cracked Loader, cheat engine & scripting CLI
-### For help or more tutorials, leaks, cheats, hacks & h4xr0x join the community or follow here:
+
+#  This project uses Quarkus, the Supersonic Subatomic Java Framework.
+
+#  Gamesense.pub cracked Loader, cheat engine & scripting CLI
+
+####  For help or more tutorials, leaks, cheats, hacks & h4xr0x join the community or follow here:
 #### */* https://gamesense.cloud
 #### */* https://h4xr0x.cc
 #### */* https://discord.gg/EYCBURUPcm
@@ -35,26 +29,148 @@ https://github.com/h4xrOx/GAMESENSE-CRACKED-HACKED-DUMPED
 
 # Prerequisites 
 
-#### */* --you will need to install WSL2: https://ubuntu.com/tutorials/working-with-visual-studio-code-on-ubuntu-on-wsl2#1-overview 
+####   you will need to install WSL2: https://ubuntu.com/tutorials/working-with-visual-studio-code-on-ubuntu-on-wsl2#1-overview 
 
-#### */* --you will need Ubuntu 20.04:  https://apps.microsoft.com/store/detail/ubuntu-20044-lts/9MTTCL66CPXJ
+####   you will need Ubuntu 20.04:  https://apps.microsoft.com/store/detail/ubuntu-20044-lts/9MTTCL66CPXJ
 
-#### */* --you will need to install NodeJS: https://ubuntu.com/tutorials/working-with-visual-studio-code-on-ubuntu-on-wsl2#5-install-nodejs-and-create-a-new-project
+####   you will need to install NodeJS: https://ubuntu.com/tutorials/working-with-visual-studio-code-on-ubuntu-on-wsl2#5-install-nodejs-and-create-a-new-project
 
-#### */* --you will need to install sdkman: 
+####   you will need to install sdkman: 
 
 ```
 curl -s "https://get.sdkman.io" | bash
 ```
 
-#### */* --you will need to then install ``sdk install maven`` ``sdk instal spring-boot`` ``sudo apt-get install openjdk-11-jdk`` ``sdk list java`` ``sdk install quarkus``
+#### */* you will need to then install ``sdk install maven`` ``sdk instal spring-boot`` ``sudo apt-get install openjdk-11-jdk`` ``sdk list java`` ``sdk install quarkus``
 
-#### */* --you will need to install: Visual Studio Code https://code.visualstudio.com/
+#### */* you will need to install: Visual Studio Code https://code.visualstudio.com/
 
-#### */* --you will need to install the Remote Development extention: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-   extensionpack
+#### */* you will need to install the Remote Development extention: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-   extensionpack
 
-#### */* --you will need to install docker desktop: https://docs.docker.com/desktop/install/windows-install/
+#### */* you will need to install docker desktop: https://docs.docker.com/desktop/install/windows-install/
 
+# Running the application in dev mode
+
+You can run your application in dev mode that enables live coding using:
+```shell script
+./mvnw compile quarkus:dev
+```
+
+> **_NOTE:_**  Quarkus now ships with a Dev UI, which is available in dev mode only at http://localhost:8080/q/dev/.
+
+## Packaging and running the application
+
+The application can be packaged using:
+
+```shell script
+./mvnw package
+```
+It produces the `quarkus-run.jar` file in the `target/quarkus-app/` directory.
+Be aware that it’s not an _über-jar_ as the dependencies are copied into the `target/quarkus-app/lib/` directory.
+
+The application is now runnable using `java -jar target/quarkus-app/quarkus-run.jar`.
+
+If you want to build an _über-jar_, execute the following command:
+```shell script
+./mvnw package -Dquarkus.package.type=uber-jar
+```
+
+The application, packaged as an _über-jar_, is now runnable using `java -jar target/*-runner.jar`.
+
+## Creating a native executable
+
+You can create a native executable using: 
+```shell script
+./mvnw package -Pnative
+```
+
+Or, if you don't have GraalVM installed, you can run the native executable build in a container using: 
+```shell script
+./mvnw package -Pnative -Dquarkus.native.container-build=true
+```
+
+You can then execute your native executable with: `./target/gs-1.0.0-SNAPSHOT-runner`
+
+If you want to learn more about building native executables, please consult https://quarkus.io/guides/maven-tooling.html.
+
+## Related Guides
+![image](https://user-images.githubusercontent.com/65768277/188334606-487d29fb-d3e9-4994-87bc-1e2ae29236ef.png)
+- YAML Configuration ([guide](https://quarkus.io/guides/config#yaml)): Use YAML to configure your Quarkus application
+- Quarkus Extension for Spring Web API ([guide](https://quarkus.io/guides/spring-web)): Use Spring Web annotations to create your REST services
+
+## Provided Code
+
+### YAML Config
+
+Configure your application with YAML
+
+[Related guide section...](https://quarkus.io/guides/config-reference#configuration-examples)
+
+The Quarkus application configuration is located in `src/main/resources/application.yml`.
+
+### Spring Web
+
+Spring, the Quarkus way! Start your RESTful Web Services with a Spring Controller.
+
+[Related guide section...](https://quarkus.io/guides/spring-web#greetingcontroller)
+*   Your static assets are located in `src/main/resources/META-INF/resources`.
+*   Configure your application in `src/main/resources/application.yml`.
+*   Quarkus now ships with a [Dev UI](/q/dev/) (available in dev mode only)
+*   Play with the provided code located in `src/main/java`:
+
+### Spring Web
+
+Spring, the Quarkus way! Start your RESTful Web Services with a Spring Controller.
+
+`@Path: [/greeting](/greeting)`
+
+[Related guide section...](https://quarkus.io/guides/spring-web#greetingcontroller)
+
+The Quarkus application configuration is located in `src/main/resources/application.yml`.
+
+### Spring Web
+
+Spring, the Quarkus way! Start your RESTful Web Services with a Spring Controller.
+
+[Related guide section...](https://quarkus.io/guides/spring-web#greetingcontroller)
+*   Your static assets are located in `src/main/resources/META-INF/resources`.
+*   Configure your application in `src/main/resources/application.yml`.
+*   Quarkus now ships with a [Dev UI](/q/dev/) (available in dev mode only)
+*   Play with the provided code located in `src/main/java`:
+
+### Spring Web
+
+Spring, the Quarkus way! Start your RESTful Web Services with a Spring Controller.
+
+`@Path: [/greeting](/greeting)`
+
+[Related guide section...](https://quarkus.io/guides/spring-web#greetingcontroller)
+
+ABOUT GAMESENSICAL GameSense
+
+##   Steam Group Administrators: NmChris and Wish
+##   Steam Group Moderators: Beta Users Only
+##   https://steamcommunity.com/groups/gamesensical
+![image](https://user-images.githubusercontent.com/65768277/188335613-a12b7615-3df2-4b6e-99ab-c8555f58d4f5.png)
+##   https://gamesensical.gitbook.io/docs/
+   
+`@original: dev branch: https://github.com/h4xrOx/gamesense_docs | https://github.com/jessy-lua/docs/pull/1
+
+![image](https://user-images.githubusercontent.com/65768277/188262381-7db4dc2d-2b31-4211-9f86-6df11a66cf5f.png) 
+
+![image](https://user-images.githubusercontent.com/65768277/188335387-0fc72594-5372-49d9-ac32-91a31506a0a6.png)
+
+# Building the GameSense.pub Loader
+
+#```  Assuming you have
+####  Set up your enviorment
+####  updated and applied configurations
+####  you will need to install sdkman ```$ curl -s "https://get.sdkman.io" | bash```
+####  you will need to then install ``sdk install maven`` ``sdk instal spring-boot`` ``sudo apt-get install openjdk-11-jdk`` ``sdk list java`` ``sdk install quarkus``
+####  you will need to install: Visual Studio Code https://code.visualstudio.com/
+####  you will need to install the Remote Development extention: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
+####  you will need to install docker desktop: https://docs.docker.com/desktop/install/windows-install/
+#```
 # Install NodeJS
 
 ```
@@ -81,17 +197,6 @@ cd server/
 ```
 
 #### */* -- Now, open up your folder in Visual Studio Code, you can do this by typing: `code`. The first time you do this, it will trigger a download for the necessary dependencies:
-
------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Building the GameSense.pub Loader from source
-## table of contents
-#### */* --Installation of Prerequisites
-#### */* --Setting up your enviorment
-#### */* --updating and applying configurations
-#### */* --compiling the loader with openapi and COR services
-#### */* --Building the Gamesense.pub Loader with Gamesense Docs: ``https://github.com/h4xrOx/docs``
-#### */* **note: you could use any documentation for use with any cheat, this is a class loader at base, includes multiple plugins, easy to customize & integrate CORS**
-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Installing OpenSSH Server on Ubuntu 20.04 
 
@@ -507,9 +612,10 @@ curl http://localhost:8080/q/openapi
   #### */* -- if successful in your connection; the server is running and you can now open launcher.exe and use the Gamesense cheat.
   
   #### */* -- If unsuccessful join https://gamesense.cloud and get a FREE API key with the registration of your account. The project's home is there.
-  
+  ![image](https://user-images.githubusercontent.com/65768277/188336742-b784eaa8-2648-48c8-8bee-a8dc9a01a008.png)
+
   cRackCrAcKcrrAcKK h4xr0x#1337
   
   #### If you would like to view the origonal source as I got it from Gamesense: https://github.com/h4xrOx/gamesense.cloud/tree/main/demo/gs
-![image](https://user-images.githubusercontent.com/65768277/188320873-9cdb1bbf-1df7-4466-9272-5961abfc9eec.png)
+
 
