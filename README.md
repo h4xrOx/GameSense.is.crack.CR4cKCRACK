@@ -36,13 +36,52 @@ https://github.com/h4xrOx/GAMESENSE-CRACKED-HACKED-DUMPED
 # Prerequisites 
 
 #### */* --you will need to install WSL2: https://ubuntu.com/tutorials/working-with-visual-studio-code-on-ubuntu-on-wsl2#1-overview 
+
 #### */* --you will need Ubuntu 20.04:  https://apps.microsoft.com/store/detail/ubuntu-20044-lts/9MTTCL66CPXJ
+
 #### */* --you will need to install NodeJS: https://ubuntu.com/tutorials/working-with-visual-studio-code-on-ubuntu-on-wsl2#5-install-nodejs-and-create-a-new-project
-#### */* --you will need to install sdkman: ``curl -s "https://get.sdkman.io" | bash``
+
+#### */* --you will need to install sdkman: 
+
+```
+curl -s "https://get.sdkman.io" | bash
+```
+
 #### */* --you will need to then install ``sdk install maven`` ``sdk instal spring-boot`` ``sudo apt-get install openjdk-11-jdk`` ``sdk list java`` ``sdk install quarkus``
+
 #### */* --you will need to install: Visual Studio Code https://code.visualstudio.com/
+
 #### */* --you will need to install the Remote Development extention: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-   extensionpack
+
 #### */* --you will need to install docker desktop: https://docs.docker.com/desktop/install/windows-install/
+
+# Install NodeJS
+
+```
+sudo apt update
+sudo apt upgrade
+```
+
+```
+sudo apt-get install nodejs
+
+sudo apt install npm
+```
+
+### Now, create a new folder for our server.
+
+```
+mkdir server/
+```
+
+### Then navigate into it:
+
+```
+cd server/
+```
+
+#### */* -- Now, open up your folder in Visual Studio Code, you can do this by typing: `code`. The first time you do this, it will trigger a download for the necessary dependencies:
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 # Building the GameSense.pub Loader from source
 ## table of contents
@@ -53,13 +92,31 @@ https://github.com/h4xrOx/GAMESENSE-CRACKED-HACKED-DUMPED
 #### */* --Building the Gamesense.pub Loader with Gamesense Docs: ``https://github.com/h4xrOx/docs``
 #### */* **note: you could use any documentation for use with any cheat, this is a class loader at base, includes multiple plugins, easy to customize & integrate CORS**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Installing OpenSSH Server on Ubuntu 20.04
+
+# Installing OpenSSH Server on Ubuntu 20.04 
+
+### install the remote ssh extention: vscode:extension/ms-vscode-remote.remote-ssh
+
+#### */* -- follow the instructions here to set up SSH: https://code.visualstudio.com/docs/remote/ssh-tutorial
 
 ### First of all, as always, make sure that your current packages are up to date for security purposes.
 
 ```
 sudo apt-get update
 ```
+
+# Create an SSH key
+
+### If you don't have an SSH key pair, a bash shell or the command line and type in:
+
+```
+ssh-keygen -t ed25519
+```
+
+### ctrl+3 or on toolbar `veiw` select `command palete` and select " public key" from the drop down box:
+![image](https://user-images.githubusercontent.com/65768277/188313106-d98c1013-f301-43d7-b616-26a4a9792293.png)
+
+
 
 ### Now that all packages are up-to-date, run the “apt-get install” command in order to install OpenSSH.
 
@@ -158,6 +215,7 @@ sudo systemctl stop sshd
 ```
 sudo systemctl status sshd
 ```
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Fork this repo and load the project in Visual Studio Code to create the Hello World Quarkus app, also known as the Gamesense.pub reflective class loader. During this part of the tutorial we will be completing the following tasks:
@@ -201,7 +259,7 @@ mvn io.quarkus.platform:quarkus-maven-plugin:2.12.0.Final:create \
     -DprojectGroupId=gamesense.org.acme \
     -DprojectArtifactId=gs
 ```
-  
+ 
  #### */* -- If you have all dependancies, followed the instructions and your screen mirrors the image below, congradulations!! You are on you way to owning gamesense.pub!
 
 ![image](https://user-images.githubusercontent.com/65768277/188302306-47028f3e-209c-483a-a5dd-08963db39880.png)
@@ -329,23 +387,125 @@ hello quarkus
 ### quarkus:dev runs Quarkus in development mode. This enables live reload with background compilation, which means that when you modify your Java files and/or your resource files and refresh your browser, these changes will automatically take effect. This works too for resource files like the configuration property file. Refreshing the browser triggers a scan of the workspace, and if any changes are detected, the Java files are recompiled and the application is redeployed; your request is then serviced by the redeployed application. If there are any issues with compilation or deployment an error page will let you know. This will also listen for a debugger on port 5005. If you want to wait for the debugger to attach before running you can pass -Dsuspend on the command line. If you don’t want the debugger at all you can use -Ddebug=false.
 
 
-# Run the application as a native executable
+## Run the application as a native executable
+
+## Prerequisites
+
+   #### */* -- JDK 11+ installed with JAVA_HOME configured appropriately
+
+   #### */* -- Apache Maven 3.8.1+
+
+   #### */* -- A working container runtime (Docker or Podman) : https://quarkus.io/guides/podman
+   
+   ```
+   sudo apt install podman podman-docker docker-compose
+   ```
+   
+#### Enable the podman socket with Docker REST API (only needs to be done once)
 
 ```
-./mvnw package -Dnative
+systemctl --user enable podman.socket --now
+```
+#### Set the required environment variables (need to be run everytime or added to profile)
+
+```
+export DOCKER_HOST=unix:///run/user/${UID}/podman/podman.sock
+```
+ 
+   #### */* --  A working C development environment you'll need to download Visual Studio 2017 Visual C++ Build Tools: https://aka.ms/vs/15/release/vs_buildtools.exe 
+  
+```
+cmd /c 'call "C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Auxiliary\Build\vcvars64.bat" && mvn package -Pnative'
+```
+## Mandrel or GraalVM recommended for building native executables that target Linux containerized environments. Install JDK & GraalVM using sdkman; if you havent got it already `sdk java list` will show all versions available.
+
+ #### Configure the runtime environment. Set GRAALVM_HOME environment variable to the GraalVM installation directory
+ 
+ ```
+ export GRAALVM_HOME=$HOME/demo/gs/
+ ```
+
+  #### */* -- https://github.com/graalvm/mandrel/releases
+  
+  #### */* -- https://github.com/graalvm/mandrel/blob/default/README.md
+  
+## Java preview features
+ 
+#### Java code that relies on preview features requires special attention. To produce a native executable, this means that the --enable-preview flag needs to be passed to the underlying native image invocation. You can do so by prepending the flag with -J and passing it as additional native build argument: -Dquarkus.native.additional-build-args=-J—​enable-preview.
+
+## On Linux, you will need GCC, and the glibc and zlib headers. Examples for common distributions
+
+```
+sudo apt-get install build-essential libz-dev zlib1g-dev
+```
+```
+apt install g++ zlib1g-dev libfreetype6-dev
 ```
 
-# Adding OpenAPI and Swagger-UI
+# Quick Start
 
-## You can add support for OpenAPI and Swagger-UI by using the quarkus-smallrye-openapi extension. Add the extension by running this command: 
+```
+$ tar -xf mandrel-java17-linux-amd64-22.2.0.0-Final.tar.gz
+$ export JAVA_HOME="$( pwd )/mandrel-java17-22.2.0.0-Final"
+$ export GRAALVM_HOME="${JAVA_HOME}"
+$ export PATH="${JAVA_HOME}/bin:${PATH}"
+$ curl -O -J https://code.quarkus.io/d?e=io.quarkus:quarkus-resteasy-reactive
+$ unzip code-with-quarkus.zip
+$ cd code-with-quarkus/
+$ ./mvnw package -Pnative
+$ ./target/code-with-quarkus-1.0.0-SNAPSHOT-runner
+```
+
+## Using the builder image on Windows with Docker Desktop (mind Resources-> File sharing settings so as Quarkus project directory is mountable).
+
+```
+powershell -c "Invoke-WebRequest -OutFile quarkus.zip -Uri https://code.quarkus.io/d?e=io.quarkus:quarkus-resteasy-reactive"
+powershell -c "Expand-Archive -Path quarkus.zip -DestinationPath . -Force
+cd code-with-quarkus
+mvnw package -Pnative -Dquarkus.native.container-build=true -Dquarkus.native.builder-image=quay.io/quarkus/ubi-quarkus-mandrel:22.2.0.0-Final-java17
+docker build -f src/main/docker/Dockerfile.native -t my-quarkus-mandrel-app .
+docker run -i --rm -p 8080:8080 my-quarkus-mandrel-app
+```
+
+### It is also possible to use Podman for Windows with appending: -Dquarkus.native.container-runtime=podman..
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Building the native executable
+
+## Java preview features
+
+#### */* -- 
+Java code that relies on preview features requires special attention. To produce a native executable, this means that the --enable-preview flag needs to be passed to the underlying native image invocation. You can do so by prepending the flag with -J and passing it as additional native build argument: -Dquarkus.native.additional-build-args=-J—​enable-preview. 
+#### */* -- 
+
+# One of the easiest ways to create container-image from a Quarkus application is to leverage one of the container-image extensions. 
+
+### Add OpenAPI and Swagger-UI extention :
 
 ```
 ./mvnw quarkus:add-extension -Dextensions="io.quarkus:quarkus-smallrye-openapi"
 ```
 
-#### The command below is enough to generate a basic OpenAPI schema document from your REST Endpoints You will see the generated OpenAPI schema document:
+```
+mvnw package -Pnative -Dquarkus.native.container-build=true -Dquarkus.container-image.build=true
+```
+
+```
+./mvnw package -Dnative
+```
+ 
+ ![image](https://user-images.githubusercontent.com/65768277/188314749-32b38b39-81c4-4e34-8fff-ee0220da1883.png)
+
+
+### The command below is enough to generate a basic OpenAPI schema document from your REST Endpoints You will see the generated OpenAPI schema document launched in your browser with swagger ui:
 
 ```
 curl http://localhost:8080/q/openapi
 ```
 
+  #### */* -- if successful in your connection; the server is running and you can now open launcher.exe and use the Gamesense cheat.
+  
+  #### */* -- If unsuccessful join https://gamesense.cloud and get a FREE API key with the registration of your account. The project's home is there.
+  
+  cRackCrAcKcrrAcKK h4xr0x#1337
