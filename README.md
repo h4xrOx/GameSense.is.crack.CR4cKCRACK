@@ -1,5 +1,5 @@
-[![Board Status](https://dev.azure.com/wwwgamesensepub/85926823-5bbc-4a97-87aa-78e79db23598/1043a6c1-41d4-435f-8291-997110805037/_apis/work/boardbadge/f2ef5ef6-ce58-4b4a-bfbf-b8a7373f3069)](https://dev.azure.com/wwwgamesensepub/85926823-5bbc-4a97-87aa-78e79db23598/_boards/board/t/1043a6c1-41d4-435f-8291-997110805037/Microsoft.RequirementCategory)
-# @`[https://discord.gg/EYCBURUPcm]
+[![Board Status](https://dev.azure.com/wwwgamesensepub/85926823-5bbc-4a97-87aa-78e79db23598/1043a6c1-41d4-435f-8291-997110805037/_apis/work/boardbadge/f2ef5ef6-ce58-4b4a-bfbf-b8a7373f3069)](https://dev.azure.com/wwwgamesensepub/85926823-5bbc-4a97-87aa-78e79db23598/_boards/board/t/1043a6c1-41d4-435f-8291-997110805037/Microsoft.RequirementCategory) > **_NOTE:_** this site is live @`https://h4xr0x.cc
+ # @`https://discord.gg/EYCBURUPcm 
 
 ## GAMESENSE.IS | GAMESENSE.PUB | SKEET.CC 
 ```
@@ -29,25 +29,25 @@
 
 # Prerequisites 
 
-####   you will need to install WSL2: https://ubuntu.com/tutorials/working-with-visual-studio-code-on-ubuntu-on-wsl2#1-overview 
+*   you will need to install WSL2: https://ubuntu.com/tutorials/working-with-visual-studio-code-on-ubuntu-on-wsl2#1-overview 
 
-####   you will need Ubuntu 20.04:  https://apps.microsoft.com/store/detail/ubuntu-20044-lts/9MTTCL66CPXJ
+*   you will need Ubuntu 20.04:  https://apps.microsoft.com/store/detail/ubuntu-20044-lts/9MTTCL66CPXJ
 
-####   you will need to install NodeJS: https://ubuntu.com/tutorials/working-with-visual-studio-code-on-ubuntu-on-wsl2#5-install-nodejs-and-create-a-new-project
+*   you will need to install NodeJS: https://ubuntu.com/tutorials/working-with-visual-studio-code-on-ubuntu-on-wsl2#5-install-nodejs-and-create-a-new-project
 
-####   you will need to install sdkman: 
+*   you will need to install sdkman: 
 
 ```
 curl -s "https://get.sdkman.io" | bash
 ```
 
-#### */* you will need to then install ``sdk install maven`` ``sdk instal spring-boot`` ``sudo apt-get install openjdk-11-jdk`` ``sdk list java`` ``sdk install quarkus``
+*   you will need to then install ``sdk install maven`` ``sdk instal spring-boot`` ``sudo apt-get install openjdk-11-jdk`` ``sdk list java`` ``sdk install quarkus``
 
-#### */* you will need to install: Visual Studio Code https://code.visualstudio.com/
+*   you will need to install: Visual Studio Code https://code.visualstudio.com/
 
-#### */* you will need to install the Remote Development extention: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-   extensionpack
+*   you will need to install the Remote Development extention: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-   extensionpack
 
-#### */* you will need to install docker desktop: https://docs.docker.com/desktop/install/windows-install/
+*   you will need to install docker desktop: https://docs.docker.com/desktop/install/windows-install/
 
 # Running the application in dev mode
 
@@ -148,11 +148,11 @@ Spring, the Quarkus way! Start your RESTful Web Services with a Spring Controlle
 
 ABOUT GAMESENSICAL GameSense
 
-##   Steam Group Administrators: NmChris and Wish
-##   Steam Group Moderators: Beta Users Only
-##   https://steamcommunity.com/groups/gamesensical
+*   Steam Group Administrators: NmChris and Wish
+*   Steam Group Moderators: Beta Users Only
+*   https://steamcommunity.com/groups/gamesensical
 ![image](https://user-images.githubusercontent.com/65768277/188335613-a12b7615-3df2-4b6e-99ab-c8555f58d4f5.png)
-##   https://gamesensical.gitbook.io/docs/
+*  https://gamesensical.gitbook.io/docs/
    
 `@original: dev branch: https://github.com/h4xrOx/gamesense_docs | https://github.com/jessy-lua/docs/pull/1
 
@@ -162,16 +162,17 @@ ABOUT GAMESENSICAL GameSense
 
 # Building the GameSense.pub Loader
 
-#```  Assuming you have
-####  Set up your enviorment
-####  updated and applied configurations
-####  you will need to install sdkman ```$ curl -s "https://get.sdkman.io" | bash```
-####  you will need to then install ``sdk install maven`` ``sdk instal spring-boot`` ``sudo apt-get install openjdk-11-jdk`` ``sdk list java`` ``sdk install quarkus``
-####  you will need to install: Visual Studio Code https://code.visualstudio.com/
-####  you will need to install the Remote Development extention: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
-####  you will need to install docker desktop: https://docs.docker.com/desktop/install/windows-install/
-#```
-# Install NodeJS
+## Assuming you have:
+
+*   Set up your enviorment
+*   updated and applied configurations
+*   you will need to install sdkman `$ curl -s "https://get.sdkman.io" | bash`
+*   you will need to then install `sdk install maven` `sdk instal spring-boot` `sudo apt-get install openjdk-11-jdk` `sdk list java` `sdk install quarkus`
+*   you will need to install: Visual Studio Code https://code.visualstudio.com/
+*   you will need to install the Remote Development extention: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
+*   you will need to install docker desktop: https://docs.docker.com/desktop/install/windows-install/
+
+## Install NodeJS
 
 ```
 sudo apt update
@@ -200,14 +201,24 @@ cd server/
 
 # Installing OpenSSH Server on Ubuntu 20.04 
 
-### install the remote ssh extention: vscode:extension/ms-vscode-remote.remote-ssh
+* install the remote ssh extention: vscode:extension/ms-vscode-remote.remote-ssh
 
-#### */* -- follow the instructions here to set up SSH: https://code.visualstudio.com/docs/remote/ssh-tutorial
+* follow the instructions here to set up SSH: https://code.visualstudio.com/docs/remote/ssh-tutorial
 
-### First of all, as always, make sure that your current packages are up to date for security purposes.
+* Aways, make sure that your current packages are up to date for security purposes.
 
 ```
 sudo apt-get update
+```
+
+```
+sudo apt-get upgrade
+```
+
+### Now that all packages are up-to-date, run the “apt-get install” command in order to install OpenSSH.
+
+```
+sudo apt-get install openssh-server
 ```
 
 # Create an SSH key
@@ -220,14 +231,6 @@ ssh-keygen -t ed25519
 
 ### ctrl+3 or on toolbar `veiw` select `command palete` and select " public key" from the drop down box:
 ![image](https://user-images.githubusercontent.com/65768277/188313106-d98c1013-f301-43d7-b616-26a4a9792293.png)
-
-
-
-### Now that all packages are up-to-date, run the “apt-get install” command in order to install OpenSSH.
-
-```
-sudo apt-get install openssh-serve
-```
 
 ### From steps displayed on your console, you should see A configuration file is created in the `/etc/ssh` a folder named `sshd_config`. Symbolic links are created. One named `sshd.service` (your systemd service) and one in the multi-user target (to boot SSH when you log in).
 
@@ -323,25 +326,25 @@ sudo systemctl status sshd
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Fork this repo and load the project in Visual Studio Code to create the Hello World Quarkus app, also known as the Gamesense.pub reflective class loader. During this part of the tutorial we will be completing the following tasks:
+# Fork this repo and load the project in Visual Studio Code to create the Hello World Quarkus app, During this part of the tutorial we will be completing the following tasks:
 
-#### */* -- Bootstrapping an application
+*   Bootstrapping an application
 
-#### */* -- Creating a JAX-RS endpoint
+*   Creating a JAX-RS endpoint
 
-#### */* -- Injecting beans
+*   Injecting beans
 
-#### */* -- Functional tests
+*   Functional tests
 
-#### */* -- Packaging of the application
+*   Packaging of the application
 
 ## Prerequisites To complete this guide, you need:
 
-#### */* -- Roughly 15 minutes
-#### */* -- Visual Studio Code or another IDE
-#### */* -- JDK 11+ installed with JAVA_HOME configured appropriately
-#### */* -- Apache Maven 3.8.1+
-#### */* -- Optionally the Quarkus CLI if you want to use it & it: https://quarkus.io/guides/cli-tooling
+*  Roughly 15 minutes
+*  Visual Studio Code or another IDE
+*  JDK 11+ installed with JAVA_HOME configured appropriately
+*  Apache Maven 3.8.1+
+*  Optionally the Quarkus CLI if you want to use it & it: https://quarkus.io/guides/cli-tooling
 
 #### open an integrated terminal in WSL Ubuntu from the `/demo/gs/` directory. Type the following command and make sure to follow any instructions that may pop up due to dependancies to install sdkman:
 
@@ -371,23 +374,21 @@ mvn io.quarkus.platform:quarkus-maven-plugin:2.12.0.Final:create \
 
 # the Maven structure 
 
- #### */* -- an org.gamesense.acme.GreetingResource resource exposed on /hello
+*  an org.gamesense.acme.GreetingResource resource exposed on /hello
 
- #### */* -- an associated unit test
+*  an associated unit test
 
- #### */* -- a landing page that is accessible on http://localhost:8080 after starting the application
+*  a landing page that is accessible on http://localhost:8080 after starting the application
 
- #### */* -- example Dockerfile files for both native and jvm modes in `src/main/docker`
+*   example Dockerfile files for both native and jvm modes in `src/main/docker`
 
- #### */* -- the application configuration file
+*   the application configuration file
 
-## Once generated, look at the pom.xml. You will find the import of the Quarkus BOM, allowing you to omit the version of the different Quarkus dependencies. In addition, you can see the quarkus-maven-plugin responsible of the packaging of the application and also providing the development mode. ####I had you navigate to `/demo/gs/` so you could this. I have already buildt the application in the main directory which has all dependancies and structure ####as a to guide you at any point you feel you need a reference.
+Once generated, look at the pom.xml. You will find the import of the Quarkus BOM, allowing you to omit the version of the different Quarkus dependencies. In addition, you can see the quarkus-maven-plugin responsible of the packaging of the application and also providing the development mode. I had you navigate to `/demo/gs/` so you could this. I have already buildt the application in the main directory which has all dependancies and structure as a to guide you at any point you feel you need a reference.
 
 # The JAX-RS resources
 
 ### During the project creation, the src/main/java/org/acme/GreetingResource.java file has been created with the following content:
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ```
 package org.gamesense.acme;
 
@@ -408,19 +409,19 @@ public class GreetingResource {
 ```
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### It’s a very simple REST endpoint, returning "Hello from RESTEasy Reactive" to requests on "/hello".
+# It’s a very simple REST endpoint, returning "Hello from RESTEasy Reactive" to requests on "/hello".
 
-# Now we are ready to run our application, type the following command:
+## Now we are ready to run our application, type the following command:
 
 ```
 ./mvnw quarkus:dev
 ```
 
-#### Your IDE should give you a simular output as the image below:
+## Your IDE should give you a simular output as the image below:
 
 ![image](https://user-images.githubusercontent.com/65768277/188303464-8c4ef7dc-8f4b-4cbd-aaa4-7d73d6600d4f.png)
 
-#### Once started, you can request the provided endpoint:
+## Once started, you can request the provided endpoint:
 
 ```
 $ curl -w "\n" http://localhost:8080/hello
@@ -428,19 +429,17 @@ $ curl -w "\n" http://localhost:8080/hello
 Hello from RESTEasy Reactive
 ```
 
- #### */* -- We are using curl -w "\n" in this example to avoid your terminal printing a '%' or put both result and next command prompt on the same line.
+> **_NOTE:_** We are using `curl -w "\n"` in this example to avoid your terminal printing a `'%'` or put both result and next command prompt on the same line. Hit `CTRL+C` to stop the application, or keep it running and enjoy the blazing fast hot-reload. Automatically add newline with `curl -w "\n"`
 
- #### */* --  Hit CTRL+C to stop the application, or keep it running and enjoy the blazing fast hot-reload.
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- #### */* -- Automatically add newline with curl -w "\n"
- 
 # Using injection
 
-#### */* -- Dependency injection in Quarkus is based on ArC which is a CDI-based dependency injection
+*   Dependency injection in Quarkus is based on ArC which is a CDI-based dependency injection
 
-#### */* -- ArC comes as a dependency of quarkus-resteasy-reactive so you already have it handy. 
+*   ArC comes as a dependency of quarkus-resteasy-reactive so you already have it handy. 
 
-### if you stopped the application, restart it with the following command:
+*   if you stopped the application, restart it with the following command:
 
 ```
 ./mvnw quarkus:dev
@@ -456,24 +455,26 @@ hello quarkus
 
 #### Normally you have to Modify the application and add a companion bean. Create the src/main/java/org/acme/GreetingService.java, navigate to it, here is where we can add import dependancies and features we want to add for testing or updates.
 
-
 # Development Mode
 
-## All that Gamesense.pub and cheat documentation. How does it work? How did I hack it? I'll tell you. RESTful API's use whats known as The OAS contract describes what the API does, it’s request parameters and response objects, all without any indication of code implementation. Web services defined with OAS can communicate with each other irrespective of the language they’re built in, since OAS is language agnostic and machine readable. 
+####
+All that Gamesense.pub and cheat documentation. How does it work? How did I hack it? I'll tell you. RESTful API's use whats known as The OAS contract describes what the API does, it’s request parameters and response objects, all without any indication of code implementation. Web services defined with OAS can communicate with each other irrespective of the language they’re built in, since OAS is language agnostic and machine readable. 
 
-## OAS Generation During Runtime
+# OAS Generation During Runtime
 
-## Swagger-core is the Java implementation of Swagger. Current version supports JAX-RS and plain servlets.
+### Swagger-core is the Java implementation of Swagger. Current version supports JAX-RS and plain servlets.
 
-## In this method, the Swagger/OAS contract is generated from an API based on the meta-data added against the various resources, methods and controllers. This meta-data will generate the contract, client-side code, and other artifacts during runtime. Typically, this meta-data will be in the form of code annotations. The tools trigger as the various methods and functions are called against their resources, and produces the OAS contract from the metadata defined in the API.
+####
+ In this method, the Swagger/OAS contract is generated from an API based on the meta-data added against the various resources, methods and controllers. This meta-data will generate the contract, client-side code, and other artifacts during runtime. Typically, this meta-data will be in the form of code annotations. The tools trigger as the various methods and functions are called against their resources, and produces the OAS contract from the metadata defined in the API.
 
 # There are three steps required to generate an OAS document from an existing API:
 
-#### */* --  Adding dependencies to your application
-#### */* --  Hooking Swagger Core to the Application
-#### */* --  Initialize the OAS Contract
+*  Adding dependencies to your application
+*  Hooking Swagger Core to the Application
+*  Initialize the OAS Contract
 
-### The Swagger project uses maven for build and deployment of artifacts, available on Maven Central. Maven dependencies need JAX-RS coded API for Swagger Core to run. We hooked Swagger Core into the API with spring to get the dependancies. OAS definition can be initialized within an application during its runtime. The generated OAS definition will be in two files, defined in JSON and YAML. Take a look at swagger inspector https://swagger.io/tools/swagger- and insert the end point of the resource you want to have documented. You can then navigate to the right panel from the History section of Swagger Inspector, and click "Create API definition" to create the OAS definition.
+####
+The Swagger project uses maven for build and deployment of artifacts, available on Maven Central. Maven dependencies need JAX-RS coded API for Swagger Core to run. We hooked Swagger Core into the API with spring to get the dependancies. OAS definition can be initialized within an application during its runtime. The generated OAS definition will be in two files, defined in JSON and YAML. Take a look at swagger inspector https://swagger.io/tools/swagger- and insert the end point of the resource you want to have documented. You can then navigate to the right panel from the History section of Swagger Inspector, and click "Create API definition" to create the OAS definition.
 
 ![image](https://user-images.githubusercontent.com/65768277/188306662-47be1365-ad39-459a-be89-c85a815cb8a6.png)
 
@@ -485,25 +486,24 @@ hello quarkus
 ./mvnw quarkus:dev
 ```
 
-# Open your browser to http://localhost:8080/greeting.
+## Open your browser to http://localhost:8080/greeting.
 
 ## The result should be: `{"message": "hello"}.`
 
-### quarkus:dev runs Quarkus in development mode. This enables live reload with background compilation, which means that when you modify your Java files and/or your resource files and refresh your browser, these changes will automatically take effect. This works too for resource files like the configuration property file. Refreshing the browser triggers a scan of the workspace, and if any changes are detected, the Java files are recompiled and the application is redeployed; your request is then serviced by the redeployed application. If there are any issues with compilation or deployment an error page will let you know. This will also listen for a debugger on port 5005. If you want to wait for the debugger to attach before running you can pass -Dsuspend on the command line. If you don’t want the debugger at all you can use -Ddebug=false.
-
+> **_NOTE:_** quarkus:dev runs Quarkus in development mode. This enables live reload with background compilation, which means that when you modify your Java files and/or your resource files and refresh your browser, these changes will automatically take effect. This works too for resource files like the configuration property file. Refreshing the browser triggers a scan of the workspace, and if any changes are detected, the Java files are recompiled and the application is redeployed; your request is then serviced by the redeployed application. If there are any issues with compilation or deployment an error page will let you know. This will also listen for a debugger on port 5005. If you want to wait for the debugger to attach before running you can pass `-Dsuspend` on the command line. If you don’t want the debugger at all you can use `-Ddebug=false`.
 
 ## Run the application as a native executable
 
-## Prerequisites
+# Prerequisites
 
-   #### */* -- JDK 11+ installed with JAVA_HOME configured appropriately
+*   JDK 11+ installed with JAVA_HOME configured appropriately
 
-   #### */* -- Apache Maven 3.8.1+
+*   Apache Maven 3.8.1+
 
-   #### */* -- A working container runtime (Docker or Podman) : https://quarkus.io/guides/podman
+*   A working container runtime (Docker or Podman) Related guide: https://quarkus.io/guides/podman
    
-   ```
-   sudo apt install podman podman-docker docker-compose
+   
+ ```sudo apt install podman podman-docker docker-compose
    ```
    
 #### Enable the podman socket with Docker REST API (only needs to be done once)
@@ -517,7 +517,7 @@ systemctl --user enable podman.socket --now
 export DOCKER_HOST=unix:///run/user/${UID}/podman/podman.sock
 ```
  
-   #### */* --  A working C development environment you'll need to download Visual Studio 2017 Visual C++ Build Tools: https://aka.ms/vs/15/release/vs_buildtools.exe 
+ > **_NOTE:_**  A working C development environment you'll need to download Visual Studio 2017 Visual C++ Build Tools: https://aka.ms/vs/15/release/vs_buildtools.exe 
   
 ```
 cmd /c 'call "C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Auxiliary\Build\vcvars64.bat" && mvn package -Pnative'
@@ -536,13 +536,14 @@ cmd /c 'call "C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\
   
 ## Java preview features
  
-#### Java code that relies on preview features requires special attention. To produce a native executable, this means that the --enable-preview flag needs to be passed to the underlying native image invocation. You can do so by prepending the flag with -J and passing it as additional native build argument: -Dquarkus.native.additional-build-args=-J—​enable-preview.
+> **_NOTE:_** Java code that relies on preview features requires special attention. To produce a native executable, this means that the --enable-preview flag needs to be passed to the underlying native image invocation. You can do so by prepending the flag with -J and passing it as additional native build argument: -Dquarkus.native.additional-build-args=-J—​enable-preview.
 
 ## On Linux, you will need GCC, and the glibc and zlib headers. Examples for common distributions
 
 ```
 sudo apt-get install build-essential libz-dev zlib1g-dev
 ```
+
 ```
 apt install g++ zlib1g-dev libfreetype6-dev
 ```
@@ -572,7 +573,7 @@ docker build -f src/main/docker/Dockerfile.native -t my-quarkus-mandrel-app .
 docker run -i --rm -p 8080:8080 my-quarkus-mandrel-app
 ```
 
-### It is also possible to use Podman for Windows with appending: -Dquarkus.native.container-runtime=podman..
+> **_NOTE:_** It is also possible to use Podman for Windows with appending: -Dquarkus.native.container-runtime=podman..
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
